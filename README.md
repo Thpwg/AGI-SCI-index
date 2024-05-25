@@ -14,7 +14,11 @@ I'd also like to say hello to friends of the translation forums,
 Abandonware-forums.org by Abandonware France, AbandonSocios.org,
 OldGamesItalia.ne, Forum.Arena80.it, Compiware-forum.de, Old-Games.ru, etc...
 
-Many thanks to Doomlazer, friend, teammate and Sierra games enthusiast! 
+Many thanks to Doomlazer, friend, teammate and Sierra games enthusiast!
+
+For games marked "tested", I have personally verified the game and interpreter versions.
+Games marked "Missing" are listed by other resources, but I was not personally able to 
+verify their existence.
 
 About interpreter version x.yyy.yyy, Collector's note:
 "The int guess comes from the SVM hash tables. there are a number
