@@ -1,6 +1,14 @@
 # AGI-SCI-index
 ### Official Sierra Game version and Interpreter version, AGI and SCI, PC only.
+
+> ```diff
+> - text in red
 > + text in green
+> ! text in orange
+> # text in gray
+> @@ text in purple (and bold)@@
+> ```
+
 
 This index is based on my experiences as a Sierra games-loving translator,<br>
 but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki,<br>
