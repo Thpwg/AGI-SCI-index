@@ -36,7 +36,7 @@ Some EGA editions even have separate version and interpreter numbers from the VG
 
 ### CODE-NAME ICEMAN:
 
-Code-Name ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Missing<br>
+Code-Name ICEMAN ${color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Missing<br>
 Code-Name ICEMAN SCI (Game version 1.023, Interpreter version 0.000.668) Tested<br>
 Code-Name ICEMAN SCI (Game version 1.033, Interpreter version 0.000.685) Tested<br>
 
