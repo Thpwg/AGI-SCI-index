@@ -353,7 +353,7 @@ Larry 1 A${\color{Red}AGI}$ (Game version?, Interpreter version?) 1988 - Missing
 but the site gives no version number for the game or the interpreter.
 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056 or 1.000.510) Spanish, also includes English language - Missing<br>
-Larry 1 VGA Remake ${\color{Blue}SCI}$ Remake (Game version 1.000 Interpreter version 1.SQ4.057 or 1.000.510) Spanish, also includes English language - Tested<br>
+Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.SQ4.057 or 1.000.510) Spanish, also includes English language - Tested<br>
 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) No copy protection - Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) - Tested<br>
@@ -684,7 +684,7 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.S
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 4 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested<br>
+Space Quest 4 ${\color{Green}LOWRES EGA}$ ${\color{Blue}SCI}$ {\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested<br>
 
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested<br>
 
