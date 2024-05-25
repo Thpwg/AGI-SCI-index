@@ -1,5 +1,6 @@
 # AGI-SCI-index
 ### Official Sierra Game version and Interpreter version, AGI and SCI, PC only.
+> + text in green
 
 This index is based on my experiences as a Sierra games-loving translator,<br>
 but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki,<br>
