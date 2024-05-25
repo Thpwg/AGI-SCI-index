@@ -181,25 +181,25 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 1991 Hoyle 3: Great Board Games LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version*) Missing<br>
 1991 Hoyle 3: Great Board Games LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
 1991 Hoyle 3: Great Board Games VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).<br>
+**Note: <code style="color : blue">**Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 1993 Hoyle 4 VGA ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.069) Tested<br>
 1993 Hoyle 4 VGA ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version x.yyy.zzz) Tested<br>
 
-**Note:** Although this is a floppy game, it does have some speech.<br>
+**Note: <code style="color : blue">**Although this is a floppy game, it does have some speech.</code>**<br>
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version =5, Interpreter version/Windows interpreter 2.100.002) Tested<br>
-**Note:** The DATA.TAG file indicates Version 5.0.0.0.<br>
+**Note: <code style="color : blue">The DATA.TAG file indicates Version 5.0.0.0.</code>**<br>
 - 1996 Hoyle Bridge VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
 - 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version =5.1 Interpreter version 2.100.002) Tested
 
 1996 Hoyle Classic Solitaire VGA ${\color{Blue}SCI}$ (Game version* Interpreter version 2.100.002) CD and Hard Drive versions - Tested<br>
-**Note from MobyGames:** Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2<br>
+**Note from MobyGames: <code style="color : blue">: Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2<br>
 with the 28 solitaire games found in that old release, upgraded with new looks, sounds and mouse control.<br>
-A Card Flick game has been added.
+A Card Flick game has been added.</code>**<br>
 
 ### JONES IN THE FAST LANE:
 
@@ -217,17 +217,17 @@ Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) T
 ### KING'S QUEST SERIES:
 
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1984 - Missing<br>
-**Note:** The existence of this version on PC MS-DOS is confirmed by einstein95.<br>
+**Note: <code style="color : blue">The existence of this version on PC MS-DOS is confirmed by einstein95.</code>**<br><br>
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1986 - Tested<br>
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.425) - Tested<br>
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.917) - Tested<br>
 
 King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpreter version S.old.010) - Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 0.000.999.<br>
-**Note:** Remake of King's Quest. It uses Sierra's 16-color SCI game interpreter,<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.999.</code>**<br>
+**Note: <code style="color : blue">Remake of King's Quest. It uses Sierra's 16-color SCI game interpreter,<br>
 making it visually similar to the series' fourth installment,<br>
 with more detailed EGA full-screen graphics and optional mouse support,<br>
-while retaining text-based input and interaction.
+while retaining text-based input and interaction.</code>**
 
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) - Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 1.0W, Interpreter version 1.??) - Missing<br>
@@ -246,12 +246,12 @@ King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.0
 
 King's Quest 4 ${\color{Blue}SCI}$ (Game version *, Interpreter version 0.000.253) - Missing<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.253) - Missing<br>
-**Note from ScummVM detection tables:** K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".<br>
+**Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.001.111, Interpreter version 0.000.274) - Tested<br>
-**An interesting example of from ScummVM detection tables:** Floppy disks are labeled 0.000.247 or 0.000.274.<br>
+**An interesting example of from ScummVM detection tables: <code style="color : blue"> Floppy disks are labeled 0.000.247 or 0.000.274.<br>
 Both are real interpreter version numbers so it's unclear if these are typos<br>
-or if there were versions of 1.000.111 that used 0.000.247.<br>
+or if there were versions of 1.000.111 that used 0.000.247.</code>**<br>
 Released: September 24th, 1988 (Information from K4092488.QA file).<br>
 King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested<br>
 Requires [KQ4FIX official patch to be playable.](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)<br>
@@ -277,25 +277,24 @@ King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.55, Interprete
 King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.55, Interpreter version 1.000.073) - Tested<br>
 King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) - Tested<br>
 King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Missing<br>
-**Note from ScummVM detection tables:** Game version 0.000.133 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.<br>
+**Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
 
 King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter version x.yyy.zzz) - Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.784.
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.784.</code>**
 
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) French - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) German - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.158 ) Italian - Tested<br>
-King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.155) Spanish - Tested<br>
-**Note from ScummVM detection tables:** Executable scanning reports "1.cfs.158",<br>
-VERSION file reports "1.000.000" SCI interpreter version 1.001.055.<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158",<br>
+VERSION file reports "1.000.000" SCI interpreter version 1.001.055.</code>**
 
 **Note:** Some boxes indicated "VGA and EGA".
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
-**Note from ScummVM detection tables:** Executable scanning reports "1.cfs.158",<br>
-VERSION file reports "1.000.00G" SCI interpreter version 1.001.054.<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158",<br>
+VERSION file reports "1.000.00G" SCI interpreter version 1.001.054.</code>**<br>
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.034 Interpreter version 1.001.069) Windows - Tested
 
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.4, Interpreter version 2.100.002) Windows - Tested<br>
@@ -313,14 +312,14 @@ King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) MS-DOS - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) Windows - Missing<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.1b, Interpreter version 2.100.002) Russian by SoftClub - Windows - Tested.<br>
-**Note from ScummVM detection tables:** Only the Windows AVI files were translated. The DOS RBT files weren't.
+**Note from ScummVM detection tables: <code style="color : blue">Only the Windows AVI files were translated. The DOS RBT files weren't.</code>**
 
 The King's Questions VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
-**Note:** Mini-game from the King's Quest Collection.
+**Note: <code style="color : blue">Mini-game from the King's Quest Collection.</code>**
 
 Inside The Chest/Behind the Developers' Shield ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
-**Note:** Pair of freeware SCI slide shows of the King's Quest Series and their development.<br>
-They were included as extras in the King's Quest Collector's Edition and the King's Quest Collection Series Collections.
+**Note: <code style="color : blue">Pair of freeware SCI slide shows of the King's Quest Series and their development.<br>
+They were included as extras in the King's Quest Collector's Edition and the King's Quest Collection Series Collections.</code>**
 
 ### LAURA BOW SERIES:
 
