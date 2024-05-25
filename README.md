@@ -29,13 +29,13 @@ The EGA mode (or LOWRES compared with VGA release) made it possible to run the g
 Some boxes clearly state that VGA and EGA versions are sold separately.
 Some EGA editions even have separate version and interpreter numbers from the VGA edition.
 
-CODE-NAME ICEMAN:
+## CODE-NAME ICEMAN:
 
 Code-Name ICEMAN SCI (Game version 1.022, Interpreter version 0.000.668) Missing
 Code-Name ICEMAN SCI (Game version 1.023, Interpreter version 0.000.668) Tested
 Code-Name ICEMAN SCI (Game version 1.033, Interpreter version 0.000.685) Tested
 
-CONQUEST SERIES:
+### CONQUEST SERIES:
 
 Conquests of Camelot SCI (Game version*, Interpreter version 1.000.510) Missing
 Conquests of Camelot SCI (Game version 1.001.000, Interpreter version 0.000.685) Tested
