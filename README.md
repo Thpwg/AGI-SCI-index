@@ -8,7 +8,7 @@ ScummVM detection tables, Sluicebox's sci-scripts and SCIprogramming specialists
 I'd like to take this opportunity to say a friendly hello to Chris Benshoof,<br>
 aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
 
-$${\color{Blue}Special thanks to Collector for his Sierra Version Tool software.}$$
+Special thanks to Collector for his Sierra Version Tool software.
 
 I'd also like to say hello to friends of the translation forums,<br>
 Abandonware-forums.org by Abandonware France, Planete-aventure.net<br>
@@ -36,7 +36,7 @@ Some EGA editions even have separate version and interpreter numbers from the VG
 
 ### CODE-NAME ICEMAN:
 
-Code-Name ICEMAN SCI (Game version 1.022, Interpreter version 0.000.668) Missing<br>
+Code-Name ICEMAN $${\color{Blue}SCI}$$ (Game version 1.022, Interpreter version 0.000.668) Missing<br>
 Code-Name ICEMAN SCI (Game version 1.023, Interpreter version 0.000.668) Tested<br>
 Code-Name ICEMAN SCI (Game version 1.033, Interpreter version 0.000.685) Tested<br>
 
