@@ -136,7 +136,7 @@ Floppy disk demo disquette SCI (v1.000 Interpreter Version 1.001.069) Mini-game 
 **Note:** The playable demo of Freddy Pharkas contains a short unique scenario<br>
 that is not part of the adventure in the full game.
 
-CD demo SCI (Game version 1.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.
+CD demo SCI (Game version 1.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.<br>
 **Note:** The playable demo of Freddy Pharkas contains a short unique scenario<br>
 that is not part of the adventure in the full game. 
 
