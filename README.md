@@ -198,9 +198,9 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 - 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version =5.1 Interpreter version 2.100.002) Tested
 
 1996 Hoyle Classic Solitaire VGA ${\color{Blue}SCI}$ (Game version* Interpreter version 2.100.002) CD and Hard Drive versions - Tested<br>
-**Note from MobyGames: <code style="color : blue">: Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2<br>
+**Note from MobyGames: <code style="color : blue"> Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2<br>
 with the 28 solitaire games found in that old release, upgraded with new looks, sounds and mouse control.<br>
-A Card Flick game has been added.</code>**<br>
+A Card Flick game has been added.</code>**
 
 ### JONES IN THE FAST LANE:
 
@@ -250,7 +250,8 @@ King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 
 **Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.001.111, Interpreter version 0.000.274) - Tested<br>
-**An interesting example of from ScummVM detection tables: <code style="color : blue"> Floppy disks are labeled 0.000.247 or 0.000.274.<br>
+**An interesting example of from ScummVM detection tables: <code style="color : blue"><br>
+Floppy disks are labeled 0.000.247 or 0.000.274.<br>
 Both are real interpreter version numbers so it's unclear if these are typos<br>
 or if there were versions of 1.000.111 that used 0.000.247.</code>**<br>
 Released: September 24th, 1988 (Information from K4092488.QA file).<br>
