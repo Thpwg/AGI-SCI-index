@@ -16,21 +16,21 @@ OldGamesItalia.ne, Forum.Arena80.it, Compiware-forum.de, Old-Games.ru, etc.
 
 Many thanks to Doomlazer, friend, teammate and Sierra games enthusiast!
 
-For games marked **"tested"**, I have personally verified the game and interpreter versions.
-Games marked **"Missing"** are listed by other resources, but I was not personally able to 
-verify their existence.
+For games marked **"tested"**, I have personally verified the game and interpreter versions.<br>
+Games marked **"Missing"** are listed by other resources,<br>
+but I was not personally able to  verify their existence.
 
-**About interpreter version x.yyy.yyy, Collector's note:**
-"The int guess comes from the SVM hash tables. there are a number
-of interpreters that did not have a proper version number.
-A number of interpreters ID as **"x.yyy.zzz"**.
-I suspect that this was a place holder for the actual version
-that was not updated to what it should have been before the build.
+**About interpreter version x.yyy.yyy, Collector's note:** <br> 
+"The int guess comes from the SVM hash tables. there are a number<br>
+of interpreters that did not have a proper version number.<br>
+A number of interpreters ID as **"x.yyy.zzz"**.<br>
+I suspect that this was a place holder for the actual version<br>
+that was not updated to what it should have been before the build.<br>
 The SVM guess is probably based on features and how it reads game data."
 
-**Note:** At the time, VGA and EGA were indicated on the blue Front Cover label.
-The EGA mode (or LOWRES compared with VGA release) made it possible to run the game on low-capacity computers.
-Some boxes clearly state that VGA and EGA versions are sold separately.
+**Note:** At the time, VGA and EGA were indicated on the blue Front Cover label.<br>
+The EGA mode (or LOWRES compared with VGA release) made it possible to run the game on low-capacity computers.<br>
+Some boxes clearly state that VGA and EGA versions are sold separately.<br>
 Some EGA editions even have separate version and interpreter numbers from the VGA edition.
 
 ### CODE-NAME ICEMAN:
@@ -248,7 +248,7 @@ King's Quest 4 SCI (Game version 1.000.106, Interpreter version 0.000.253) - Mis
 **Note from ScummVM detection tables:** K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".<br>
 King's Quest 4 SCI (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
 King's Quest 4 SCI (Game version 1.001.111, Interpreter version 0.000.274) - Tested<br>
-**An interesting example of from ScummVM detection tables:** Floppy disks are labeled 0.000.247 or 0.000.274.
+**An interesting example of from ScummVM detection tables:** Floppy disks are labeled 0.000.247 or 0.000.274.<br>
 Both are real interpreter version numbers so it's unclear if these are typos<br>
 or if there were versions of 1.000.111 that used 0.000.247.<br>
 Released: September 24th, 1988 (Information from K4092488.QA file).<br>
