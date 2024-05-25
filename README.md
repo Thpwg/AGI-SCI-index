@@ -109,7 +109,7 @@ Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.00
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.081) German - Tested<br>
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 9.999.999, Interpreter version 1.001.081) Spanish - Tested<br>
 
-**Note:** Lost Secret of the Rainforest is a non-talkie game, but there are a few dubbed passages or interludes.<br>
+**Note: <code style="color : blue">Lost Secret of the Rainforest is a non-talkie game, but there are a few dubbed passages or interludes.</code>**<br>
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 ### FREDDY PHARKAS:
