@@ -292,7 +292,7 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cf
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158",<br>
 VERSION file reports "1.000.000" SCI interpreter version 1.001.055.</code>**
 
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
