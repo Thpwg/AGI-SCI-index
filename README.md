@@ -78,7 +78,7 @@ Dr. Brain 1 SCI (Game version 1.00, Interpreter version 1.000.068) German, also 
 Dr. Brain 1 SCI (Game version 1.1, Interpreter version 1.000.068) Tested<br>
 Dr. Brain 1 SCI (Game version*, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Dr. Brain 1 LOWRES EGA SCI (Game version 1.000, Interpreter version 1.000.066) Tested<br>
 
@@ -127,7 +127,7 @@ Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) French - Tested<
 Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) German - Tested<br>
 Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) Spanish - Tested<br>
 
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Freddy Pharkas CD dual MS-DOS and Windows interpreter SCI:<br>
 - CD SCI (Game version 1.000, Interpreter Version 1.001.095) Windows<br>
@@ -183,13 +183,13 @@ Gold Rush! AGI (Game version 3, Interpreter version 3.002.149)<br>
 1991 Hoyle 3: Great Board Games VGA SCI (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
 **Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).<br>
 
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 1993 Hoyle 4 VGA SCI (Game version 2.000, Interpreter version 1.001.069) Tested<br>
 1993 Hoyle 4 VGA SCI (Game version 2.000, Interpreter version x.yyy.zzz) Tested<br>
 
 **Note:** Although this is a floppy game, it does have some speech.<br>
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 1995 Hoyle 5 VGA SCI (Game version =5, Interpreter version/Windows interpreter 2.100.002) Tested<br>
 **Note:** The DATA.TAG file indicates Version 5.0.0.0.<br>
@@ -208,7 +208,7 @@ Jones LOWRES EGA SCI (Game version*, Interpreter version 1.000.172) With or with
 Jones VGA SCI (Game version 1.000.060, Interpreter version x.yyy.zzz) No debugger - Tested<br>
 Jones LOWRES EGA SCI (Game version 1.000.060, Interpreter version x.yyy.zzz) With debugger - Missing<br>
 
-**Note:** Some boxes indicated "640K + VGA/MCGA (256 COLOR) OR 640K + TANDY (16 CLR) OR 512K + EGA (16 CLR)".
+**Note: <code style="color : blue">Some boxes indicated "640K + VGA/MCGA (256 COLOR) OR 640K + TANDY (16 CLR) OR 512K + EGA (16 CLR)".</code>**
 
 Jones CD SCI (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Windows - Missing<br>
 Jones CD SCI (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - No debugger - Tested<br>
@@ -270,7 +270,7 @@ King's Quest 5 SCI (Game version 1.000, Interpreter version 1.000.784) Italian, 
 King's Quest 5 SCI (Game version 1.000, Interpreter version 1.000.784) Spanish, also includes English language - Tested<br>
 King's Quest 5 SCI (Game version *, Interpreter version 1.000.060) Italian, also includes English language - Missing<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 King's Quest 5 LOWRES EGA SCI (Game version 0.000.055, Interpreter version 1.000.060) Missing<br>
 King's Quest 5 LOWRES EGA SCI (Game version 0.000.55, Interpreter version 1.000.058) - Tested<br>
@@ -336,7 +336,7 @@ Laura Bow 2 SCI (Game version 1.1, Interpreter version 2.000.274) Spanish - Test
 Laura Bow 2 SCI (Game version 1.1, Interpreter version 2.000.274) Spanish - Tested<br>
 Laura Bow 2 SCI (Game version 1.000.000, Interpreter version 2.000.274) Spanish - Missing<br>
 
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Laura Bow 2 CD SCI (Game version 1.1, Interpreter version 1.001.072 + Windows interpreter 1.001.069) Talkie - Tested<br>
 
@@ -357,7 +357,7 @@ Larry 1 VGA SCI Remake (Game version 2.0 Interpreter version 1.000.510) No copy 
 Larry 1 VGA SCI Remake (Game version 2.1 Interpreter version 1.000.577) - Tested<br>
 Larry 1 VGA SCI Remake (Game version .1 Interpreter version 1.000.577) Polish - Edycja Kolekcjonerska - Tested<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Larry 1 LOWRES EGA SCI Remake (Game version*, Interpreter version 0.000.510 (or 0.000.577?) Missing<br>
 Larry 1 LOWRES EGA SCI Remake (Game version 2.0 Interpreter version 1.000.575) - Tested<br>
@@ -394,7 +394,7 @@ Larry 5 SCI (Game version 1.000, Interpreter version*) Polish - Edycja Kolekcjon
 
 **Note:** The Brasoft Brazilian edition is in English; no Portuguese localization.<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Larry 5 LOWRES EGA SCI (Game version 1.0, Interpreter version T.A00.159) Missing<br>
 Larry 5 LOWRES EGA SCI (Game version 1.000, Interpreter version T.A00.159) Tested<br>
@@ -467,7 +467,7 @@ Manhunter 2 AGI (Game version 3.03, Interpreter version 3.002.149) Tested<br>
 
 Fairy Tales SCI (Game version 1.000 Interpreter Version 1.000.145) Tested<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Fairy Tales LOWRES EGA SCI (Game version 1.000 Interpreter Version 1.000.158) Tested<br>
 
@@ -512,7 +512,7 @@ Phantasmagoria 2 SCI (Game version 001.0.06, Interpreter version 3.000.000) US (
 
 Pepper SCI (Game version 1.00 Interpreter, version 1.001.072 + Windows Interpreter 1.001.069) Tested<br>
 
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 ### POLICE QUEST SERIES: 
 
@@ -534,7 +534,7 @@ Note from ScummVM detection tables: SCI interpreter version 1.000.510.<br>
 Police Quest 3 SCI (Game version 1.000, Interpreter version T.A00.178) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables:** SCI interpreter version 1.000.510.<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Police Quest 3 LOWRES EGA SCI (Game version 1.000, Interpreter version 1.pq3.011) Tested<br>
 Police Quest 3 LOWRES EGA SCI (Game version 1.000, Interpreter version 1.pq3.018) Missing<br>
@@ -569,7 +569,7 @@ i.e. Quest for Glory and not Hero's Quest.
 Quest for Glory 1 VGA SCI Remake (Game version 2.000, Interpreter version 2.000.411) Tested<br>
 Quest for Glory 1 VGA SCI Remake (Game version 2.000, game interpreter L.rry.021) Tested<br>
 
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Quest for Glory 2 SCI (Game version 0.101, Interpreter version 0.001.026) Tested<br>
 Quest for Glory 2 SCI (Game version 0.101, Interpreter version 1.000.041) Tested<br>
@@ -644,7 +644,7 @@ Space Quest 1 VGA SCI Remake (Game version 2.000, Interpreter version T.A00.81) 
 **Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).<br>
 Space Quest 1 VGA SCI Remake (Game version 2.000, Interpreter version T.A00.81) By Kixx XL - English and Spanish - Tested<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Space Quest 1 LOWRES EGA SCI Remake (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
 
@@ -680,7 +680,7 @@ Space Quest 4 VGA SCI (Game version 1.1, Interpreter version 1.000.753) - Tested
 Space Quest 4 VGA SCI (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested.<br>
 **Note from ScummVM detection tables:** SCI interpreter version 1.000.200 (just a guess).<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Space Quest 4 LOWRES EGA SCI (Game version 1.60, Interpreter version 1.000.744) Tested<br>
 
@@ -696,7 +696,7 @@ Space Quest 5 SCI (Game version 1.04 Interpreter version 1.001.068) Tested<br>
 Space Quest 5 SCI (Game version 1.04 Interpreter version 1.001.068) French - Tested<br>
 Space Quest 5 SCI (Game version 1.04 Interpreter version 1.001.068) German - Tested<br>
 
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Space Quest 6 SCI (Game version 1.0, Interpreter version 2.100.002) Tested<br>
 Space Quest 6 SCI (Game version 1.0, Interpreter version 2.100.002) French - Tested<br>
