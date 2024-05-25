@@ -329,7 +329,7 @@ They were included as extras in the King's Quest Collector's Edition and the Kin
 Laura Bow 1 ${\color{Blue}SCI}$ (Game version 1.000.046, Interpreter version 0.000.631) Tested<br>
 
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.274) Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.001.069 (just a guess).<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.069 (just a guess).</code>**<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.yyy) Missing<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Missing<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
