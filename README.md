@@ -66,8 +66,8 @@ Rogr Wilco's Spaced Out Game Pack SCI (Game version 1.000, Interpreter version 1
 ### DONALD DUCK'S PLAYGROUND:
 
 Donald Duck's Playground ${\color{Red}AGI}$ (Game version 1.5, Interpreter version 2.440) Tested<br>
-**Note:** The version offered on Al Lowe's website is an Amiga version pirated to run on PC.<br>
-Game version 1.C, Interpreter version 2.27. **We love you Al, so you're forgiven :^)**
+**Note: <code style="color : gold">The version offered on Al Lowe's website is an Amiga version pirated to run on PC.<br>
+Game version 1.C, Interpreter version 2.27. We love you Al, so you're forgiven :^)</code>**
 
 ### DR. BRAIN SERIES:
 
