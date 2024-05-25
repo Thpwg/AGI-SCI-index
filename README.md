@@ -6,7 +6,7 @@ but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki,<
 ScummVM detection tables, Sluicebox's sci-scripts and SCIprogramming specialists.<br>
 
 I'd like to take this opportunity to say a friendly hello to Chris Benshoof,<br>
-aka Sluicebox, that guy Professor Hubert J. Farnsworth of the SCI engine.
+aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
 
 Special thanks to Collector for his Sierra Version Tool software.
 
