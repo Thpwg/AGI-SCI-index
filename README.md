@@ -1,5 +1,5 @@
 # AGI-SCI-index
-Official Sierra Game version and Interpreter version, AGI and SCI, PC only.
+### Official Sierra Game version and Interpreter version, AGI and SCI, PC only.
 
 This index is based on my experiences as a Sierra games-loving translator,
 but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki,
@@ -33,7 +33,7 @@ The EGA mode (or LOWRES compared with VGA release) made it possible to run the g
 Some boxes clearly state that VGA and EGA versions are sold separately.
 Some EGA editions even have separate version and interpreter numbers from the VGA edition.
 
-## CODE-NAME ICEMAN:
+### CODE-NAME ICEMAN:
 
 Code-Name ICEMAN SCI (Game version 1.022, Interpreter version 0.000.668) Missing
 Code-Name ICEMAN SCI (Game version 1.023, Interpreter version 0.000.668) Tested
@@ -53,7 +53,7 @@ Note: Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
 Conquests of the Longbow SCI LOWRES EGA (Game version*, Interpreter version 1.000.510) Missing
 Conquests of the Longbow SCI LOWRES EGA (Game version 1.000, Interpreter version 1.000.175) Tested
 
-CRAZY NICK'S SOFTWARE PICKS:
+### CRAZY NICK'S SOFTWARE PICKS:
 
 King Graham's Board Gam SCI (Game version 1.000, Interpreter version 1.001.029) Tested
 
@@ -65,13 +65,13 @@ Robin Hood's Game of Skill and Chance SCI (Game version 1.000, Interpreter versi
 
 Rogr Wilco's Spaced Out Game Pack SCI (Game version 1.000, Interpreter version 1.001.029) Tested
 
-DONALD DUCK'S PLAYGROUND:
+### DONALD DUCK'S PLAYGROUND:
 
 Donald Duck's Playground AGI (Game version 1.5, Interpreter version 2.440) Tested
 Note: The version offered on Al Lowe's website is an Amiga version pirated to run on PC.
 Game version 1.C, Interpreter version 2.27. We love you Al, so you're forgiven :^)
 
-DR. BRAIN SERIES:
+### DR. BRAIN SERIES:
 
 The Castle of Dr. Brain SCI (Game version 1.000, Interpreter version 1.000.044) Tested
 The Castle of Dr. Brain SCI (Game version 1.000.044, Interpreter version 1.000.510) Missing
@@ -89,7 +89,7 @@ The Island of Dr. Brain SCI (Game version 1.100, Interpreter version 1.001.053) 
 The Island of Dr. Brain CD SCI (Game version 1.0, Interpreter version 1.001.053) Semi-Talkie - Tested
 Note: There are some differences between island of dr brain floppy and CD, about 15 scripts have been changed.
 
-ECOQUEST SERIES:
+### ECOQUEST SERIES:
 
 Ecoquest: The Search for Cetus SCI (Game version 1.000, Interpreter version 1.ECO.013) Tested
 Ecoquest: The Search for Cetus SCI (Game version*, Interpreter version 1.000.510) Missing
@@ -111,7 +111,7 @@ Lost Secret of the Rainforest SCI (Game version 9.999.999, Interpreter version 1
 Note: Lost Secret of the Rainforest is a non-talkie game, but there are a few dubbed passages or interludes.
 Note: Some boxes indicated "VGA and EGA".
 
-FREDDY PHARKAS:
+### FREDDY PHARKAS:
 
 Freddy Pharkas dual MS-DOS and Windows interpreter SCI (Game version 1.000, Interpreter Version I.cfs.081, Windows interpreter 1.001.069):
 -Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.001.069 Windows
@@ -135,7 +135,7 @@ Note: The playable demo of Freddy Pharkas contains a short unique scenario that 
 Freddy Pharkas CD demo SCI (Game version 1.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.
 Note: The playable demo of Freddy Pharkas contains a short unique scenario that is not part of the adventure in the full game. 
 
-GABRIEL KNIGHT SERIES:
+### GABRIEL KNIGHT SERIES:
 
 Gabriel Knight: Sins of the Fathers SCI (Game version 1.0, Interpreter version 2.000.000) Tested
 Gabriel Knight: Sins of the Fathers SCI (Game version 1.000, Interpreter version 2.000.000) French - Tested
@@ -157,12 +157,12 @@ Gabriel Knight: The Beast Within SCI (Game version 1.1, Interpreter version 2.10
 Gabriel Knight: The Beast Within SCI (Game version 1.1, Interpreter version 2.100.002) German - Tested
 Gabriel Knight: The Beast Within SCI (Game version 1.11, Interpreter version 2.100.002) Limited Edition
 
-GOLD RUSH:
+### GOLD RUSH:
 
 Gold Rush! AGI (Game version 2.01, Interpreter version 3.002.149)
 Gold Rush! AGI (Game version 3, Interpreter version 3.002.149)
 
-HOYLE SERIES:
+### HOYLE SERIES:
 
 1989 Hoyle Official Book of Games, Volume 1 EGA SCI (Game version 1.000.104, Interpreter version 0.000.519) Tested
 1989 Hoyle Official Book of Games, Volume 1 EGA SCI (Game version 1.000.113, Interpreter version 0.000.530) Tested
@@ -192,7 +192,7 @@ Note: The DATA.TAG file indicates Version 5.0.0.0.
 Note from MobyGames: Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2 with the 28 solitaire games found in that old release,
 upgraded with new looks, sounds and mouse control. A Card Flick game has been added.
 
-JONES IN THE FAST LANE:
+### JONES IN THE FAST LANE:
 
 Jones in the Fast Lane VGA SCI (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing
 Jones in the Fast Lane LOWRES EGA SCI (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing
@@ -204,7 +204,7 @@ Jones in the Fast Lane CD SCI (Game version 1.0, Interpreter version x.yyy.zzz) 
 Jones in the Fast Lane CD SCI (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - No debugger - Tested
 Jones in the Fast Lane CD SCI (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - With debugger - Missing
 
-KING'S QUEST SERIES:
+### KING'S QUEST SERIES:
 
 King's Quest: Quest for the Crown EGA AGI (Game version 1.0U, Interpreter version 2.272) 1984 - Missing
 Note: The existence of this version on PC MS-DOS is confirmed by einstein95.
@@ -303,7 +303,7 @@ Inside The Chest/Behind the Developers' Shield (Game version*, Interpreter versi
 Note: Pair of freeware SCI slide shows of the King's Quest Series and their development.
 They were included as extras in the King's Quest Collector's Edition and the King's Quest Collection Series Collections.
 
-LAURA BOW SERIES:
+### LAURA BOW SERIES:
 
 The Colonel's Bequest SCI (Game version 1.000.046, Interpreter version 0.000.631) - Tested
 
@@ -320,7 +320,7 @@ Note: Some boxes indicated "VGA and EGA".
 
 The Dagger of Amon Ra CD SCI (Game version 1.1, Interpreter version 1.001.072 + Windows interpreter 1.001.069) Talkie - Tested
 
-LEISURE SUITE LARRY SERIES:
+### LEISURE SUITE LARRY SERIES:
 
 Leisure Suit Larry 1: In the Land of the Lounge Lizards AGI (Game version 1.00 Interpreter version 2.440) - Tested
 Leisure Suit Larry 1: In the Land of the Lounge Lizards AGI (Game version 1.00 Interpreter version 2.917) - Tested
@@ -414,7 +414,7 @@ Leisure Suit Larry 7: Love for Sail! SCI (Game version 1A01, Interpreter version
 Leisure Suit Larry 7: Love for Sail! Demo SCI (Game version 1.0 Interpreter version 2.100.002) Mini-game full
 Note: This is an interactive demo of the Leisure Suit Larry 7: Love for Sail! that consists of "liars dice".
 
-LIGHTHOUSE THE DARK BEING:
+### LIGHTHOUSE THE DARK BEING:
 
 Lighthouse: The Dark Being SCI (Game version 1.0, Interpreter version 3.000.000) Italian - Tested
 Lighthouse: The Dark Being SCI (Game version 1.0C, Interpreter version 3.000.000) Tested
@@ -427,7 +427,7 @@ Lighthouse: The Dark Being SCI (Game version 1.1, Interpreter version 3.000.000)
 Lighthouse: The Dark Being SCI (Game version 2.0, Interpreter version 3.000.000) Tested
 Note: Official game update with patch 2.0a.
 
-MANHUNTER SERIES:
+### MANHUNTER SERIES:
 
 Manhunter: New York AGI (Game version 1.22, Interpreter version 3.002.102) Tested
 Manhunter: New York AGI (Game version 1.22, Interpreter version 3.002.107) Tested
@@ -435,14 +435,14 @@ Manhunter: New York AGI (Game version 1.22, Interpreter version 3.002.107) Teste
 Manhunter 2: San Francisco AGI (Game version 3.02, Interpreter version 3.002.149) Tested
 Manhunter 2: San Francisco AGI (Game version 3.03, Interpreter version 3.002.149) Tested
 
-MIXED-UP FAIRY TALES:
+### MIXED-UP FAIRY TALES:
 
 Mixed-Up Fairy Tales SCI (Game version 1.000 Interpreter Version 1.000.145) Tested
 Note: Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
 
 Mixed-Up Fairy Tales LOWRES EGA SCI (Game version 1.000 Interpreter Version 1.000.158) Tested
 
-MIXED-UP MOTHER GOOSE:
+### MIXED-UP MOTHER GOOSE:
 
 Mixed-Up Mother Goose AGI (Game version*, Interpreter Version 1.013) Missing
 Mixed-Up Mother Goose AGI (Game version*, Interpreter Version 2.915) Tested
@@ -457,7 +457,7 @@ Mixed-Up Mother Goose Deluxe CD SVGA SCI (Game version*, Interpreter Version 2.1
 Mixed-Up Mother Goose Deluxe CD SVGA SCI (Game version*, Interpreter Version 2.100.002) English, French, German and Spanish - Tested
 Mixed-Up Mother Goose Deluxe CD SVGA SCI (Game version*, Interpreter Version 2.100.002) English and Spanish - Tested
 
-PHANTASMAGORIA SERIES:
+### PHANTASMAGORIA SERIES:
 
 Phantasmagoria SCI (Game version 1.000.000, Inerpreter version 2.100.002) Tested
 Phantasmagoria SCI (Game version 1.000.000, Inerpreter version 2.100.002) Russian - Tested
@@ -479,12 +479,12 @@ Phantasmagoria: A Puzzle of Flesh SCI (Game version 001.0.000, Interpreter versi
 Phantasmagoria: A Puzzle of Flesh SCI (Game version 001.0.06, Interpreter version 3.000.000) US (Uncensored) Tested
 Note: To learn more about the censorship of Phantasmagoria 2: https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship
 
-PEPPER'S ADVENTURE IN TIME:
+### PEPPER'S ADVENTURE IN TIME:
 
 Pepper's Adventures in Time SCI (Game version 1.00 Interpreter, version 1.001.072 + Windows Interpreter 1.001.069) Tested
 Note: Some boxes indicated "VGA and EGA".
 
-POLICE QUEST SERIES: 
+### POLICE QUEST SERIES: 
 
 Police Quest: In Pursuit of the Death Angel EGA AGI (Game version 2.0A, Interpreter version 2.903) Missing
 Police Quest: In Pursuit of the Death Angel EGA AGI (Game version 2.0A, Interpreter version 2.911) Missing
@@ -524,7 +524,7 @@ Police Quest: SWAT SCI (Game version 1.100, Interpreter version 2.100.002) Missi
 Police Quest: SWAT SCI (Game version 1.100, Interpreter version 2.100.002) French - Missing
 Police Quest: SWAT SCI (Game version 1.0c, Interpreter version 2.100.002) Missing
 
-QUEST FOR GLORY SERIES: 
+### QUEST FOR GLORY SERIES: 
 
 Hero's Quest: So You Want to Be a Hero EGA SCI (Game version 1.000, Interpreter version 0.000.566) Tested
 Hero's Quest: So You Want to Be a Hero EGA SCI (Game version 1.001, Interpreter version 0.000.566) Tested
@@ -562,7 +562,7 @@ Quest for Glory IV: Shadows of Darkness SCI (Game version 1.1, Interpreter versi
 
 Quest for Glory IV Shadows of Darkness CD SCI (Game version 1.0, Interpreter version 2.100.002) Talkie - MS-DOS and Windows - Tested
 
-RAMA:
+### RAMA:
 
 Rama SCI (Game version 001.000.000, Interpreter Version 3.000.000) Tested
 Rama SCI (Game version 1.100.000, Interpreter Version 3.000.000) Missing
@@ -571,7 +571,7 @@ Rama SCI (Game version 1.000.000, Interpreter Version 3.000.000) German - Tested
 Rama SCI (Game version 1.000.000, Interpreter Version 3.000.000) Italian - Tested
 Rama SCI (Game version 1.100.000, Interpreter Version 3.000.000) Japanese - Missing
 
-SHIVERS SERIES: 
+### SHIVERS SERIES: 
 
 Shivers SCI (Game version 1.02, Interpreter version 2.100.002) Tested
 Shivers SCI (Game version 1.02, Interpreter version 2.100.002) French - Tested
@@ -583,12 +583,12 @@ See ScummVM SCI/Sierra Pioneer Wiki: https://wiki.scummvm.org/index.php?title=SC
 
 Note from ScummVM detection tables: Shivers 2 doesn't contain SCI scripts. The whole game logic has been reimplemented from SCI in native code placed in DLL files. Each room has its own DLL file, and some SCI functions have been  reimplemented/rewritten for this purpose in native code. The game and demo have all the resources of a SCI game, apart from  the SCI scripts themselves. Thus, they cannot be directly supported, unless their whole room logic is rewritten from scratch, which classifies Shivers 2 as "not SCI".
 
-SLATER & CHARLIE GO CAMPING:
+### SLATER & CHARLIE GO CAMPING:
 
 Slater & Charlie Go Camping SCI (Game version 1.000, Interpreter version 1.001.069) Tested
 Slater & Charlie Go Camping SCI (Game version 1.000, Interpreter version 1.cfs.081) Tested
 
-SPACE QUEST SERIES:
+### SPACE QUEST SERIES:
 
 Space Quest I: The Sarien Encounter EGA AGI (Game version 1.0X, Interpreter version 2.089) Tested
 Space Quest I: The Sarien Encounter EGA AGI (Game version 1.1A, Interpreter version 2.272) Tested
@@ -671,7 +671,7 @@ Note: Mini game from Space Quest IV: Roger Wilco and the Time Rippers. Also know
 Fun Seekers Guide to East Madera County (Game version 1.02, Interpreter version 0.000.506) Tested
 Note: Mini game by Doug Oldfield that was included with the Space Quest Collector's Edition.
 
-SEASON'S GREETINGS SERIES:
+### SEASON'S GREETINGS SERIES:
 
 1986 A Computer Christmas AGI EGA (Game version 1, Interpreter Version 2.272) Tested
 
@@ -683,7 +683,7 @@ SEASON'S GREETINGS SERIES:
 
 1992 Season's Greeting Card SCI VGA (Game version 1.0, Interpreter Version 1.001.055) Tested
 
-THE BLACK CAULDRON:
+### THE BLACK CAULDRON:
 
 The Black Cauldron AGI (Game version 1.1J, Interpreter Version 1.??) Missing
 The Black Cauldron AGI (Game version 1.1K, Interpreter Version 1.12) Missing
@@ -693,7 +693,7 @@ The Black Cauldron AGI (Game version 2.10, Interpreter Version 3.002.089) Missin
 The Black Cauldron AGI (Game version 2.10, Interpreter Version 3.002.098) Tested
 The Black Cauldron AGI (Game version 3.00, Interpreter Version 3.002.097) Tested
 
-TORIN PASSAGE:
+### TORIN PASSAGE:
 
 Torin's Passage (Game version 1.0, Interpreter version 2.100.002) Edition US - Multilingual EN/FR/DE, English voices - Tested.
 Torin's Passage (Game version 1.0, Interpreter version 2.100.002) French edition - Multilingual EN/FR/DE/, French voices - Tested.
@@ -715,7 +715,7 @@ Torin's Passage (Game version 1.0, Interpreter version 2.100.002) Italian editio
 Note: The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.
 Note: This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.
 
-THE REALM ONLINE:
+### THE REALM ONLINE:
 
 The Realm Online (Game version 2.184, Interpreter version 2.100.002) Tested
 The Realm Online (Game version 3.43, Interpreter version 2.100.002) Missing
@@ -738,4 +738,4 @@ All Sierra games are more or less buggy. There are no exceptions!
 It may be a simple error in the code that prevents a phrase or action from being displayed, or it may be a serious crash.
 For Talkie games, dubbing is sometimes missing. In other words, there's a lot of work to be done.
 
-ThreepW & DoomL on Github.
+### ThreepW & DoomL on Github.
