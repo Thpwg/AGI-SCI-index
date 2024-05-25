@@ -254,7 +254,7 @@ Both are real interpreter version numbers so it's unclear if these are typos<br>
 or if there were versions of 1.000.111 that used 0.000.247.<br>
 Released: September 24th, 1988 (Information from K4092488.QA file).<br>
 King's Quest 4 (v1.003.006, Interpreter version 0.000.409) - Tested<br>
-[Requires KQ4FIX official patch to be playable.](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)<br>
+Requires [KQ4FIX official patch to be playable.](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)<br>
 King's Quest 4 (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 (Game version 1.1 Interpreter version 0.000.503) Didigal Distribution with Amiga sounds - Tested<br>
