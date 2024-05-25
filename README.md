@@ -256,7 +256,7 @@ Both are real interpreter version numbers so it's unclear if these are typos<br>
 or if there were versions of 1.000.111 that used 0.000.247.<br>
 Released: September 24th, 1988 (Information from K4092488.QA file).</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested<br>
-Requires [KQ4FIX official patch to be playable.](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)<br>
+**Note: <code style="color : blue">Requires [KQ4FIX official patch to be playable.](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.503) Didigal Distribution with Amiga sounds - Tested<br>
@@ -398,8 +398,8 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version*) Polish - 
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Larry 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version T.A00.159) Missing<br>
-Larry 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) Tested<br>
+Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version T.A00.159) Missing<br>
+Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) Tested<br>
 
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter ) Polish - Edycja Kolekcjonerska - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter) By Brasoft Games - Tested<br>
@@ -508,7 +508,7 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter versio
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) US (Uncensored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.06, Interpreter version 3.000.000) US (Uncensored) Tested<br>
-**Note:** To learn more about the censorship of [Phantasmagoria 2](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).
+**Note: <code style="color : blue">To learn more about the censorship of [Phantasmagoria 2](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).</code>**
 
 ### PEPPER'S ADVENTURE IN TIME:
 
@@ -615,8 +615,8 @@ Shivers ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 3.000.000) 
 
 Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Tested<br>
 **Note: <code style="color : blue">The Japanese version exists, but I haven't found any information<br>
-on the version number of the game or the Interpreter version.</code>**<br>
-See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).
+on the version number of the game or the Interpreter version.<br>
+See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
 
 **Note from ScummVM detection tables: <code style="color : blue">Shivers 2 doesn't contain SCI scripts.<br>
 The whole game logic has been reimplemented from SCI in native code placed in DLL files.<br>
@@ -688,7 +688,7 @@ Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ {\color{Blue}SCI}$
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested<br>
 
 Space Quest 5 ${\color{Blue}SCI}$ (v0.028 Interpreter version 1.001.067) Beta Version - Tested<br>
-**Note:** This Beta Version was leaked several months before SQ5's official release. Debug mode include.
+**Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**
 
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Spanish - Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Italian - Tested<br>
@@ -774,7 +774,7 @@ The Realm Online ${\color{Blue}SCI}$ (Game version 2.184, Interpreter version 2.
 The Realm Online ${\color{Blue}SCI}$ (Game version 3.43, Interpreter version 2.100.002) Missing<br>
 
 **There are two games, which I don't know if they exist in French or not,<br>**
-**${\color{Blue}Police Quest 3}$ and ${\color{Blue}Uuest for Glory 4}$ on floppy disk.<br>**
+**Police Quest 3 and Quest for Glory 4 on floppy disk.<br>**
 **There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
 
 To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions<br>
