@@ -52,7 +52,7 @@ Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Mi
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Longbow LOWRES EGA${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
+Longbow LOWRES EGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
 Longbow LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.175) Tested<br>
 
 ### CRAZY NICK'S SOFTWARE PICKS:
@@ -65,7 +65,7 @@ Rogr Wilco's Spaced Out Game Pack SCI (Game version 1.000, Interpreter version 1
 
 ### DONALD DUCK'S PLAYGROUND:
 
-Donald Duck's Playground AGI (Game version 1.5, Interpreter version 2.440) Tested<br>
+Donald Duck's Playground ${\color{Red}AGI}$ (Game version 1.5, Interpreter version 2.440) Tested<br>
 **Note:** The version offered on Al Lowe's website is an Amiga version pirated to run on PC.<br>
 Game version 1.C, Interpreter version 2.27. **We love you Al, so you're forgiven :^)**
 
@@ -83,7 +83,7 @@ Dr. Brain 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) S
 Dr. Brain 1 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.066) Tested<br>
 
 Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.053) Semi-Talkie - Missing<br>
-Dr. Brain 2 SCI (Game version 1.100, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
+Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
 
 Dr. Brain 2 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
 **Note:** There are some differences between island of dr brain floppy and CD, about 15 scripts have been changed.<br>
@@ -120,7 +120,7 @@ Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
 
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Missing<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) German - Missing<br>
-Pharkas${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Spanish - Missing<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Spanish - Missing<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) Tested<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) French - Tested<br>
@@ -143,10 +143,10 @@ that is not part of the adventure in the full game.
 
 ### GABRIEL KNIGHT SERIES:
 
-Gabriel Knight 1 SCI (Game version 1.0, Interpreter version 2.000.000) Tested<br>
-Gabriel Knight 1 SCI (Game version 1.000, Interpreter version 2.000.000) French - Tested<br>
-Gabriel Knight 1 SCI (Game version 1.000, Interpreter version 2.000.000) German - Tested<br>
-Gabriel Knight 1 SCI (Game version 1.000, Interpreter version 2.000.000) Spanish - Tested<br>
+Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.000.000) Tested<br>
+Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) French - Tested<br>
+Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) German - Tested<br>
+Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Spanish - Tested<br>
 
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 01.100.000, Interpreter version 2.000.000) MS-DOS and Windows<br>
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Tested<br>
@@ -165,8 +165,8 @@ Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.1
 
 ### GOLD RUSH:
 
-Gold Rush! AGI (Game version 2.01, Interpreter version 3.002.149)<br>
-Gold Rush! AGI (Game version 3, Interpreter version 3.002.149)<br>
+Gold Rush! ${\color{Red}AGI}$ (Game version 2.01, Interpreter version 3.002.149)<br>
+Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br>
 
 ### HOYLE SERIES:
 
@@ -216,11 +216,11 @@ Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) T
 
 ### KING'S QUEST SERIES:
 
-King's Quest 1 EGA AGI (Game version 1.0U, Interpreter version 2.272) 1984 - Missing<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1984 - Missing<br>
 **Note:** The existence of this version on PC MS-DOS is confirmed by einstein95.<br>
-King's Quest 1 EGA AGI (Game version 1.0U, Interpreter version 2.272) 1986 - Tested<br>
-King's Quest 1 EGA AGI (Game version 2.0F, Interpreter version 2.425) - Tested<br>
-King's Quest 1 EGA AGI (Game version 2.0F, Interpreter version 2.917) - Tested<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1986 - Tested<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.425) - Tested<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.917) - Tested<br>
 
 King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpreter version S.old.010) - Tested<br>
 **Note from ScummVM detection tables:** SCI interpreter version 0.000.999.<br>
@@ -229,20 +229,20 @@ making it visually similar to the series' fourth installment,<br>
 with more detailed EGA full-screen graphics and optional mouse support,<br>
 while retaining text-based input and interaction.
 
-King's Quest 2 AGI (Game version 2.2, Interpreter version 2.936) - Tested<br>
-King's Quest 2 AGI (Game version 1.0W, Interpreter version 1.??) - Missing<br>
-King's Quest 2 AGI (Game version 1.1H, Interpreter version 1.??) - Missing<br>
-King's Quest 2 AGI (Game version 2.1, Interpreter version 2.411) - Missing<br>
-King's Quest 2 AGI (Game version 2.2 Interpreter version 2.426) - Tested<br>
-King's Quest 2 AGI (Game version 2.2, Interpreter version 2.2917) - Tested<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) - Tested<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 1.0W, Interpreter version 1.??) - Missing<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 1.1H, Interpreter version 1.??) - Missing<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) - Missing<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2 Interpreter version 2.426) - Tested<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.2917) - Tested<br>
 
-King's Quest 3 AGI (Game version 1.01, Interpreter version 2.272) - Tested<br>
-King's Quest 3 AGI (Game version 2.00, Interpreter version 2.435) - Tested<br>
-King's Quest 3 AGI (Game version 2.14, Interpreter version 2.936) - Tested<br>
+King's Quest 3 ${\color{Red}AGI}$ (Game version 1.01, Interpreter version 2.272) - Tested<br>
+King's Quest 3 ${\color{Red}AGI}$ (Game version 2.00, Interpreter version 2.435) - Tested<br>
+King's Quest 3 ${\color{Red}AGI}$ (Game version 2.14, Interpreter version 2.936) - Tested<br>
 
-King's Quest 4 AGI (Game version 2.0, Interpreter version 3.002.086) - Tested<br>
-King's Quest 4 AGI (Game version 2.2, Interpreter version 3.002.086) - Tested<br>
-King's Quest 4 AGI (Game version 2.3, Interpreter version 3.002.086) - Tested<br>
+King's Quest 4 ${\color{Red}AGI}$ (Game version 2.0, Interpreter version 3.002.086) - Tested<br>
+King's Quest 4 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 3.002.086) - Tested<br>
+King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.086) - Tested<br>
 
 King's Quest 4 ${\color{Blue}SCI}$ (Game version *, Interpreter version 0.000.253) - Missing<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.253) - Missing<br>
@@ -342,11 +342,11 @@ Laura Bow 2 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.
 
 ### LEISURE SUITE LARRY SERIES:
 
-Larry 1 AGI (Game version 1.00 Interpreter version 2.440) Tested<br>
-Larry 1 AGI (Game version 1.00 Interpreter version 2.917) Tested<br>
-Larry 1 AGI (Game version 2.00 Interpreter version 2.440) Polish - Edycja Kolekcjonerska - Tested<br>
+Larry 1 ${\color{Red}AGI}$ (Game version 1.00 Interpreter version 2.440) Tested<br>
+Larry 1 ${\color{Red}AGI}$ (Game version 1.00 Interpreter version 2.917) Tested<br>
+Larry 1 ${\color{Red}AGI}$ (Game version 2.00 Interpreter version 2.440) Polish - Edycja Kolekcjonerska - Tested<br>
 **Note:** To my knowledge, this is the only AGI game officially translated into a foreign language.<br>
-Larry 1 AGI (Game version?, Interpreter version?) 1988 - Missing<br>
+Larry 1 A${\color{Red}AGI}$ (Game version?, Interpreter version?) 1988 - Missing<br>
 **Note:** AGI Programmers Wiki lists a version from 1988, one year after the game's release,<br>
 but the site gives no version number for the game or the interpreter.
 
@@ -354,7 +354,7 @@ Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ Remake (Game version 1.000 Interpreter version 1.SQ4.057 or 1.000.510) Spanish, also includes English language - Tested<br>
 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) No copy protection - Tested<br>
-Larry 1 VGA Remake ${\color{Blue}SCI}$e (Game version 2.1 Interpreter version 1.000.577) - Tested<br>
+Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) - Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version .1 Interpreter version 1.000.577) Polish - Edycja Kolekcjonerska - Tested<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
@@ -452,20 +452,20 @@ Lighthouse ${\color{Blue}SCI}$ (Game version 1.0C, Interpreter version 3.000.000
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Tested<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) French - Missing<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Spanish - Tested<br>
-Lighthous ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 3.000.000) Tested<br>
+LighthousE ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 3.000.000) Tested<br>
 **Note:** Official game update with patch 2.0a.
 
 ### MANHUNTER SERIES:
 
-Manhunter 1 AGI (Game version 1.22, Interpreter version 3.002.102) Tested<br>
-Manhunter 1 AGI (Game version 1.22, Interpreter version 3.002.107) Tested<br>
+Manhunter 1 ${\color{Red}AGI}$ (Game version 1.22, Interpreter version 3.002.102) Tested<br>
+Manhunter 1 ${\color{Red}AGI}$ (Game version 1.22, Interpreter version 3.002.107) Tested<br>
 
-Manhunter 2 AGI (Game version 3.02, Interpreter version 3.002.149) Tested<br>
-Manhunter 2 AGI (Game version 3.03, Interpreter version 3.002.149) Tested<br>
+Manhunter 2 ${\color{Red}AGI}$ (Game version 3.02, Interpreter version 3.002.149) Tested<br>
+Manhunter 2 ${\color{Red}AGI}$ (Game version 3.03, Interpreter version 3.002.149) Tested<br>
 
 ### MIXED-UP FAIRY TALES:
 
-Fairy Tales SCI (Game version 1.000 Interpreter Version 1.000.145) Tested<br>
+Fairy Tales ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Version 1.000.145) Tested<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
@@ -473,9 +473,9 @@ Fairy Tales LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Versi
 
 ### MIXED-UP MOTHER GOOSE:
 
-Mother Goose AGI (Game version*, Interpreter Version 1.013) Missing<br>
-Mother Goose AGI (Game version*, Interpreter Version 2.915) Tested<br>
-Mother Goose AGI (Game version 1.00D, Interpreter Version 2.915) Tested<br>
+Mother Goose ${\color{Red}AGI}$ (Game version*, Interpreter Version 1.013) Missing<br>
+Mother Goose ${\color{Red}AGI}$ (Game version*, Interpreter Version 2.915) Tested<br>
+Mother Goose ${\color{Red}AGI}$ (Game version 1.00D, Interpreter Version 2.915) Tested<br>
 
 Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 1.011, Interpreter Version 0.000.685) Tested<br>
 
@@ -516,10 +516,10 @@ Pepper ${\color{Blue}SCI}$ (Game version 1.00 Interpreter, version 1.001.072 + W
 
 ### POLICE QUEST SERIES: 
 
-Police Quest 1 EGA AGI (Game version 2.0A, Interpreter version 2.903) Missing<br>
-Police Quest 1 EGA AGI (Game version 2.0A, Interpreter version 2.911) Missing<br>
-Police Quest 1 EGA AGI (Game version 2.0E, Interpreter version 2.915) Tested<br>
-Police Quest 1 EGA AGI (Game version 2.0G, Interpreter version 2.917) Tested<br>
+Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.903) Missing<br>
+Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.911) Missing<br>
+Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0E, Interpreter version 2.915) Tested<br>
+Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0G, Interpreter version 2.917) Tested<br>
 
 Police Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.029) Tested<br>
 
@@ -631,10 +631,10 @@ Slater & Charlie ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.
 
 ### SPACE QUEST SERIES:
 
-Space Quest 1 EGA AGI (Game version 1.0X, Interpreter version 2.089) Tested<br>
-Space Quest 1 EGA AGI (Game version 1.1A, Interpreter version 2.272) Tested<br>
-Space Quest 1 EGA AGI (Game version 2.2, Interpreter version 2.426) Tested<br>
-Space Quest 1 EGA AGI (Game version 2.2, Interpreter version 2.917) Tested<br>
+Space Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0X, Interpreter version 2.089) Tested<br>
+Space Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.1A, Interpreter version 2.272) Tested<br>
+Space Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.426) Tested<br>
+Space Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.917) Tested<br>
 
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.181) Missing<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.SQ1.004) Patched - Missing<br>
@@ -648,11 +648,11 @@ Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter ve
 
 Space Quest 1 LOWRES EGA SCI Remake (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
 
-Space Quest 2 AGI (Game version 2.0A, Interpreter version 2.912) Tested<br>
-Space Quest 2 AGI (Game version 2.0C, interpreter version 2.915) Tested<br>
-Space Quest 2 AGI (Game version v2.0C, interpreter version 2.917) Tested<br>
-Space Quest 2 AGI (Game version 2.0D, interpreter version 2.936) Tested<br>
-Space Quest 2 AGI (Game version 2.0F, Interpreter version 2.936) Tested<br>
+Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.912) Tested<br>
+Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0C, interpreter version 2.915) Tested<br>
+Space Quest 2 ${\color{Red}AGI}$ (Game version v2.0C, interpreter version 2.917) Tested<br>
+Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0D, interpreter version 2.936) Tested<br>
+Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.936) Tested<br>
 
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0P, Interpreter version 0.000.453) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0U, Interpreter version 0.000.453) Tested<br>
@@ -720,7 +720,7 @@ Fun Seekers Guide to East Madera County ${\color{Blue}SCI}$ (Game version 1.02, 
 
 ### SEASON'S GREETINGS SERIES:
 
-1986 A Computer Christmas EGA AGI (Game version 1, Interpreter Version 2.272) Tested<br>
+1986 A Computer Christmas EGA ${\color{Red}AGI}$ (Game version 1, Interpreter Version 2.272) Tested<br>
 1988 A Computer Christmas EGA ${\color{Blue}SCI}$ (Game version 1.04, Interpreter Version 0.000.294) Tested<br>
 1990 Christmas Card - The Seasoned Professional EGA ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.172) Tested<br>
 1990 Christmas Card - The Seasoned Professional VGA ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.174) Tested<br>
@@ -728,13 +728,13 @@ Fun Seekers Guide to East Madera County ${\color{Blue}SCI}$ (Game version 1.02, 
 
 ### THE BLACK CAULDRON:
 
-Black Cauldron AGI (Game version 1.1J, Interpreter Version 1.??) Missing<br>
-Black Cauldron AGI (Game version 1.1K, Interpreter Version 1.12) Missing<br>
-Black Cauldron AGI (Game version 1.1M, Interpreter Version 1.12) Missing<br>
-Black Cauldron AGI (Game version 2.00, Interpreter Version 2.439) Tested<br>
-Black Cauldron AGI (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
-Black Cauldron AGI (Game version 2.10, Interpreter Version 3.002.098) Tested<br>
-Black Cauldron AGI (Game version 3.00, Interpreter Version 3.002.097) Tested<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 1.1J, Interpreter Version 1.??) Missing<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 1.1K, Interpreter Version 1.12) Missing<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) Missing<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter Version 2.439) Tested<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.098) Tested<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 3.00, Interpreter Version 3.002.097) Tested<br>
 
 ### TORIN PASSAGE:
 
