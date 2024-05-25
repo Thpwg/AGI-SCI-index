@@ -611,7 +611,7 @@ Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) F
 Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) German - Tested<br>
 Shivers ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 3.000.000) Missing<br>
 
-Shivers SCI (Game version*, Interpreter version*) Japanese - Tested<br>
+Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Tested<br>
 **Note:** The Japanese version exists, but I haven't found any information<br>
 on the version number of the game or the Interpreter version.<br>
 See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).
@@ -646,7 +646,7 @@ Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter ve
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 1 LOWRES EGA SCI Remake (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
+Space Quest 1 LOWRES EGA ${\color{Blue}SCI}$ Remake (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
 
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.912) Tested<br>
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0C, interpreter version 2.915) Tested<br>
