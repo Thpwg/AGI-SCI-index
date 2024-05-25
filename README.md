@@ -8,7 +8,7 @@ ScummVM detection tables, Sluicebox's sci-scripts and SCIprogramming specialists
 I'd like to take this opportunity to say a friendly hello to Chris Benshoof,<br>
 aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
 
-$${\color{Special thanks to Collector for his Sierra Version Tool software.}Blue}$$
+$${\color{Blue}Special thanks to Collector for his Sierra Version Tool software.}$$
 
 I'd also like to say hello to friends of the translation forums,<br>
 Abandonware-forums.org by Abandonware France, Planete-aventure.net<br>
