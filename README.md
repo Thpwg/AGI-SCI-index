@@ -379,7 +379,7 @@ Larry 3 SCI (Game version 1.056, Interpreter version S.old.114) German, also inc
 Larry 4: The Case of the Missing Floppies: https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html<br>
 
 Larry 5 SCI (Game version 1.000, Interpreter version 1.ls5.006) Italian - Tested<br>
-**Note from ScummVM detection tables**: SCI interpreter version 1.000.510 (just a guess).
+**Note from ScummVM detection tables**: SCI interpreter version 1.000.510 (just a guess).<br>
 Larry 5 SCI (Game version 1.000, Interpreter version 1.ls5.019) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).<br>
 Larry 5 SCI (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
