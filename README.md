@@ -20,7 +20,7 @@ For games marked **"tested"**, I have personally verified the game and interpret
 Games marked **"Missing"** are listed by other resources, but I was not personally able to 
 verify their existence.
 
-# About interpreter version x.yyy.yyy, Collector's note:
+**About interpreter version x.yyy.yyy, Collector's note:**
 "The int guess comes from the SVM hash tables. there are a number
 of interpreters that did not have a proper version number.
 A number of interpreters ID as **"x.yyy.zzz"**.
@@ -114,28 +114,31 @@ Ecoquest 2 SCI (Game version 9.999.999, Interpreter version 1.001.081) Spanish -
 ### FREDDY PHARKAS:
 
 Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
-- Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.001.069 Windows<br>
-- Freddy Pharkas SCI (Game version 1.000, Interpreter Version I.cfs.081) MS-DOS<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.001.132) Missing<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.001.132) German - Missing<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.001.132) Spanish - Missing<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) Tested<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) French - Tested<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) German - Tested<br>
-Freddy Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) Spanish - Tested<br>
+- SCI (Game version 1.000, Interpreter Version 1.001.069 Windows<br>
+- SCI (Game version 1.000, Interpreter Version I.cfs.081) MS-DOS<br>
+
+Pharkas SCI (Game version 1.000, Interpreter Version 1.001.132) Missing<br>
+Pharkas SCI (Game version 1.000, Interpreter Version 1.001.132) German - Missing<br>
+Pharkas SCI (Game version 1.000, Interpreter Version 1.001.132) Spanish - Missing<br>
+Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) Tested<br>
+Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
+Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) French - Tested<br>
+Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) German - Tested<br>
+Pharkas SCI (Game version 1.000, Interpreter Version 1.cfs.081) Spanish - Tested<br>
 
 **Note:** Some boxes indicated "VGA and EGA".
 
 Freddy Pharkas CD dual MS-DOS and Windows interpreter SCI:<br>
-- Freddy Pharkas CD SCI (Game version 1.000, Interpreter Version 1.001.095) Windows<br>
-- Freddy Pharkas CD SCI (Game version 1.000, Interpreter Version 1.001.132) MS-DOS<br>
+- CD SCI (Game version 1.000, Interpreter Version 1.001.095) Windows<br>
+- CD SCI (Game version 1.000, Interpreter Version 1.001.132) MS-DOS<br>
 
-Freddy Pharkas floppy disk demo disquette SCI (v1.000 Interpreter Version 1.001.069) Mini-game full<br>
-**Note:** The playable demo of Freddy Pharkas contains a short unique scenario that is not part of the adventure in the full game.
+Floppy disk demo disquette SCI (v1.000 Interpreter Version 1.001.069) Mini-game full<br>
+**Note:** The playable demo of Freddy Pharkas contains a short unique scenario<br>
+that is not part of the adventure in the full game.
 
-Freddy Pharkas CD demo SCI (Game version 1.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.
-**Note:** The playable demo of Freddy Pharkas contains a short unique scenario that is not part of the adventure in the full game. 
+CD demo SCI (Game version 1.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.
+**Note:** The playable demo of Freddy Pharkas contains a short unique scenario<br>
+that is not part of the adventure in the full game. 
 
 ### GABRIEL KNIGHT SERIES:
 
@@ -406,9 +409,12 @@ Larry 6 VGA SCI (Game version 1.000, Interpreter version 1.001.113) Spanish - Te
 Larry 6 CD VGA SCI (Game version 1.000.000, Interpreter version 1.001.115) Tested<br>
 Larry 6 CD VGA SCI (Game version*, Interpreter version 1.001.115) French - Missing<br>
 Larry 6 CD VGA SCI (Game version*, Interpreter version 1.001.115) German - Missing<br>
-**Note:** Larry 6 VGA is often presented as a LOWRES version, while the SVGA version is presented as a HIRES version.<br>
-This is true in terms of resolution, but in reality the SVGA CD-ROM version was released in 1994, a year after the VGA version.<br>
-The VGA version looks great, it's by no means a low-resolution version for a low-performance computer.  
+**Note:** Larry 6 VGA is often presented as a LOWRES version,<br>
+while the SVGA version is presented as a HIRES version.<br>
+This is true in terms of resolution, but in reality the SVGA CD-ROM<br>
+version was released in 1994, a year after the VGA version.<br>
+The VGA version looks great, it's by no means a low-resolution version<br>
+for a low-performance computer.  
 
 Larry 6 CD SVGA SCI (Game version*, Interpreter version 2.100.002) Missing<br>
 Larry 6 CD SVGA SCI (Game version*, Interpreter version 2.100.002) English or German - Missing<br>
@@ -611,7 +617,8 @@ See ScummVM SCI/Sierra Pioneer Wiki: https://wiki.scummvm.org/index.php?title=SC
 
 **Note from ScummVM detection tables:** Shivers 2 doesn't contain SCI scripts.<br>
 The whole game logic has been reimplemented from SCI in native code placed in DLL files.<br>
-Each room has its own DLL file, and some SCI functions have been reimplemented/rewritten for this purpose in native code.<br>
+Each room has its own DLL file, and some SCI functions have been reimplemented/rewritten<br>
+for this purpose in native code.<br>
 The game and demo have all the resources of a SCI game, apart from  the SCI scripts themselves.<br>
 Thus, they cannot be directly supported, unless their whole room logic is rewritten from scratch,<br>
 which classifies Shivers 2 as "not SCI".
@@ -695,7 +702,7 @@ Space Quest 6 SCI (Game version 1.0, Interpreter version 2.100.002) French - Tes
 Space Quest 6 SCI (Game version 1.0, Interpreter version 2.100.002) German - Tested<br>
 
 Space Quest 6 demo SCI (Game version 1.000.000, Interpreter version 2.100.002) No speech - Missing<br>
-**Note:** I don't know whether this playable demo of Space Quest 6 contains a short, unique scenario,
+**Note:** I don't know whether this playable demo of Space Quest 6 contains a short, unique scenario,<br>
 and if so, whether it's different from the demo with voices.<br>
 Space Quest 6 demo SCI (Game version 1.11, Interpreter version 2.100.002) Mini-game full - Tested<br>
 **Note:** The playable demo of Space Quest 6 contains a short unique scenario<br>
@@ -768,8 +775,8 @@ The Realm Online (Game version 3.43, Interpreter version 2.100.002) Missing<br>
 **Police Quest III and Quest for Glory IV on floppy disk.<br>**
 **There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
 
-To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions have not been translated.
-They are the original English versions.<br>
+To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions<br>
+have not been translated. They are the original English versions.
 
 It's always possible to add lots of details for each game version,<br>
 but my aim was to make the index as sober as possible.
@@ -777,17 +784,21 @@ but my aim was to make the index as sober as possible.
 This index is subject to evolved and may undergo corrections. Feel free to add your comments.<br>
 The aim is to identify existing or as yet unknown games, in order to save resources.
 
-Sometimes you'll find the same Game Version numbers and version Interpreter numbers with the same or different hashes,<br>
-but the game's root resources will look different. They're the exact same resources, merely spread out differently.<br>
-The hash for the map file is different because the spread is different. Have no doubt about it.<br>
-This with the fact the game source contains bat files and makevols scripts to create both "360" and "720" versions.<br>
-For example, an "overnite.bat" file that does everything short of actually copying things to diskettes,<br>
-for both four and eight disk versions. Hence the name. They're "nightly builds", and they come in both 5.25" and 3.5",<br>
+Sometimes you'll find the same Game Version numbers and version Interpreter numbers<br>
+with the same or different hashes, but the game's root resources will look different.<br>
+They're the exact same resources, merely spread out differently.<br>
+The hash for the map file is different because the spread is different.<br>
+Have no doubt about it.  This with the fact the game source contains bat files<br>
+and makevols scripts to create both "360" and "720" versions.<br>
+For example, an "overnite.bat" file that does everything short<br>
+of actually copying things to diskettes,<br> for both four and eight disk versions.<br>
+Hence the name. They're "nightly builds", and they come in both 5.25" and 3.5",<br>
 from the exact same resources.
 
 A small detail to bear in mind for potential translators, or for any other project.<br>
 All Sierra games are more or less buggy. There are no exceptions!<br>
-It may be a simple error in the code that prevents a phrase or action from being displayed, or it may be a serious crash.<br>
+It may be a simple error in the code that prevents a phrase or action from being displayed,<br>
+or it may be a serious crash.<br>
 For Talkie games, dubbing is sometimes missing. In other words, there's a lot of work to be done.
 
 ### ThreepW & DoomL on Github.
