@@ -372,7 +372,7 @@ but in game the About LSL3 tab indicates Version 1.003.<br>
 Larry 3 SCI (Game version 1.021, Interpreter version 0.000.572) - Tested<br>
 Larry 3 SCI (Game version 1.021, Interpreter version 0.000.572) Polish - Edycja Kolekcjonerska - Tested<br>
 Larry 3 SCI (Game version 1.050, Interpreter version S.old.123 or 0.000.572) French, also includes English language - Tested<br>
-Larry 3 SCI (Game version*, Interpreter version S.old.123) Ger - Missing
+Larry 3 SCI (Game version*, Interpreter version S.old.123) Ger - Missing<br>
 **Note from ScummVM detection tables:** SCI interpreter version 0.000.572 (just a guess).<br>
 Larry 3 SCI (Game version 1.056, Interpreter version S.old.114) German, also includes English language - Tested<br>
 
