@@ -10,9 +10,11 @@
 > ```
 
 
-This index is based on my experiences as a Sierra games-loving translator,<br>
+> ```diff
+> This index is based on my experiences as a Sierra games-loving translator,<br>
 but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki,<br>
 ScummVM detection tables, Sluicebox's sci-scripts and SCIprogramming specialists.<br>
+> ```
 
 I'd like to take this opportunity to say a friendly hello to Chris Benshoof,<br>
 aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
