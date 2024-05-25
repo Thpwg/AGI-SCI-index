@@ -36,19 +36,19 @@ Some EGA editions even have separate version and interpreter numbers from the VG
 
 ### CODE-NAME ICEMAN:
 
-Code-Name ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Missing<br>
-Code-Name ICEMAN ${\color{Blue}SCI}$ (Game version 1.023, Interpreter version 0.000.668) Tested<br>
-Code-Name ICEMAN ${\color{Blue}SCI}$ (Game version 1.033, Interpreter version 0.000.685) Tested<br>
+ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Missing<br>
+ICEMAN ${\color{Blue}SCI}$ (Game version 1.023, Interpreter version 0.000.668) Tested<br>
+ICEMAN ${\color{Blue}SCI}$ (Game version 1.033, Interpreter version 0.000.685) Tested<br>
 
 ### CONQUEST SERIES:
 
-Camelot SCI (Game version*, Interpreter version 1.000.510) Missing<br>
-Camelot SCI (Game version 1.001.000, Interpreter version 0.000.685) Tested<br>
+Camelot ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
+Camelot ${\color{Blue}SCI}$ (Game version 1.001.000, Interpreter version 0.000.685) Tested<br>
 
-Longbow SCI (Game version 1.000, Interpreter version 1.000.168) Tested<br>
-Longbow SCI (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested<br>
-Longbow SCI (Game version 1.1, Interpreter version 1.000.168) Tested<br>
-Longbow SCI (Game version 1.1, Interpreter version 1.000.510) Missing<br>
+Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.168) Tested<br>
+Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested<br>
+Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.168) Tested<br>
+Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Missing<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
