@@ -254,7 +254,7 @@ Both are real interpreter version numbers so it's unclear if these are typos<br>
 or if there were versions of 1.000.111 that used 0.000.247.<br>
 Released: September 24th, 1988 (Information from K4092488.QA file).<br>
 King's Quest 4 (v1.003.006, Interpreter version 0.000.409) - Tested<br>
-**Requires KQ4FIX official patch to be playable:** http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella<br>
+[**Requires KQ4FIX official patch to be playable.**](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)<br>
 King's Quest 4 (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 (Game version 1.1 Interpreter version 0.000.503) Didigal Distribution with Amiga sounds - Tested<br>
@@ -377,7 +377,7 @@ Larry 3 SCI (Game version*, Interpreter version S.old.123) Ger - Missing<br>
 **Note from ScummVM detection tables:** SCI interpreter version 0.000.572 (just a guess).<br>
 Larry 3 SCI (Game version 1.056, Interpreter version S.old.114) German, also includes English language - Tested<br>
 
-Larry 4: The Case of the Missing Floppies: https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html<br>
+Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html).
 
 Larry 5 SCI (Game version 1.000, Interpreter version 1.ls5.006) Italian - Tested<br>
 **Note from ScummVM detection tables**: SCI interpreter version 1.000.510 (just a guess).<br>
@@ -506,7 +506,7 @@ Phantasmagoria 2 SCI (Game version 000.1P.0v, Interpreter version 3.000.000) US 
 Phantasmagoria 2 SCI (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) Missing<br>
 Phantasmagoria 2 SCI (Game version 001.0.000, Interpreter version 3.000.000) US (Uncensored) Missing<br>
 Phantasmagoria 2 SCI (Game version 001.0.06, Interpreter version 3.000.000) US (Uncensored) Tested<br>
-**Note:** To learn more about the censorship of Phantasmagoria 2: https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship
+**Note:** To learn more about the censorship of [Phantasmagoria 2](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).
 
 ### PEPPER'S ADVENTURE IN TIME:
 
@@ -614,7 +614,7 @@ Shivers SCI (Game version 2.00b, Interpreter version 3.000.000) Missing<br>
 Shivers SCI (Game version*, Interpreter version*) Japanese - Tested<br>
 **Note:** The Japanese version exists, but I haven't found any information<br>
 on the version number of the game or the Interpreter version.<br>
-See ScummVM SCI/Sierra Pioneer Wiki: https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer
+See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).
 
 **Note from ScummVM detection tables:** Shivers 2 doesn't contain SCI scripts.<br>
 The whole game logic has been reimplemented from SCI in native code placed in DLL files.<br>
