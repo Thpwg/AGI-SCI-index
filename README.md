@@ -250,11 +250,11 @@ King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 
 **Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.001.111, Interpreter version 0.000.274) - Tested<br>
-**An interesting example of from ScummVM detection tables: <code style="color : blue"><br>
-Floppy disks are labeled 0.000.247 or 0.000.274.<br>
+**An interesting example of from ScummVM detection tables:**
+**<code style="color : blue">Floppy disks are labeled 0.000.247 or 0.000.274.<br>
 Both are real interpreter version numbers so it's unclear if these are typos<br>
-or if there were versions of 1.000.111 that used 0.000.247.</code>**<br>
-Released: September 24th, 1988 (Information from K4092488.QA file).<br>
+or if there were versions of 1.000.111 that used 0.000.247.<br>
+Released: September 24th, 1988 (Information from K4092488.QA file).</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested<br>
 Requires [KQ4FIX official patch to be playable.](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
