@@ -52,8 +52,8 @@ Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Mi
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Longbow LOWRES EGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
-Longbow LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.175) Tested<br>
+Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
+Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.175) Tested<br>
 
 ### CRAZY NICK'S SOFTWARE PICKS:
 
@@ -80,7 +80,7 @@ Dr. Brain 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) S
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Dr. Brain 1 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.066) Tested<br>
+Dr. Brain 1 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.066) Tested<br>
 
 Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.053) Semi-Talkie - Missing<br>
 Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
@@ -274,11 +274,11 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version *, Interpreter version 1.000.06
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.060) Missing<br>
-King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.55, Interpreter version 1.000.058) - Tested<br>
-King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.55, Interpreter version 1.000.073) - Tested<br>
-King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) - Tested<br>
-King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Missing<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.060) Missing<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.55, Interpreter version 1.000.058) - Tested<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.55, Interpreter version 1.000.073) - Tested<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) - Tested<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box,<br>
 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
 
@@ -361,8 +361,8 @@ Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version .1 Interpreter version 1.00
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Larry 1 LOWRES EGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.510 (or 0.000.577?) Missing<br>
-Larry 1 LOWRES EGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.575) - Tested<br>
+Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.510 (or 0.000.577?) Missing<br>
+Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.575) - Tested<br>
 
 Larry 2 ${\color{Blue}SCI}$ (Game version, 1.000.011 Interpreter version 0.000.343) Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000 Interpreter version 0.000.409) - Tested<br>
@@ -538,8 +538,8 @@ Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A0
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Police Quest 3 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.011) Tested<br>
-Police Quest 3 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.018) Missing<br>
+Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.011) Tested<br>
+Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.018) Missing<br>
 
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Tested<br>
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) French - Tested<br>
@@ -648,7 +648,7 @@ Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter ve
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 1 LOWRES EGA ${\color{Blue}SCI}$ Remake (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
+Space Quest 1 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ Remake (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
 
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.912) Tested<br>
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0C, interpreter version 2.915) Tested<br>
@@ -684,7 +684,7 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.S
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 4 ${\color{Green}LOWRES EGA}$ ${\color{Blue}SCI}$ {\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested<br>
+Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ {\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested<br>
 
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested<br>
 
