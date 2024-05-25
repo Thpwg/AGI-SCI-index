@@ -49,7 +49,7 @@ Longbow SCI (Game version 1.000, Interpreter version 1.000.169) German, also inc
 Longbow SCI (Game version 1.1, Interpreter version 1.000.168) Tested<br>
 Longbow SCI (Game version 1.1, Interpreter version 1.000.510) Missing<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note:** $${\color{Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".}Blue}$$
 
 Longbow SCI LOWRES EGA (Game version*, Interpreter version 1.000.510) Missing<br>
 Longbow SCI LOWRES EGA (Game version 1.000, Interpreter version 1.000.175) Tested<br>
