@@ -175,7 +175,7 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 1989 Hoyle 1 EGA ${\color{Blue}SCI}$ (Game version 1.000.113, Interpreter version 0.000.530) Tested<br>
 1989 Hoyle 1 EGA ${\color{Blue}SCI}$ (Game version 1.000.115, Interpreter version 0.000.668) Tested<br>
 
-1990 Hoyl 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.572) Tested<br>
+1990 Hoyle 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.572) Tested<br>
 1990 Hoyle 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.014, Interpreter version 0.000.668) Tested<br>
 1990 Hoyl 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.016, Interpreter version 0.000.668) Tested<br>
 
@@ -205,9 +205,9 @@ A Card Flick game has been added.</code>**
 ### JONES IN THE FAST LANE:
 
 Jones VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
-Jones LOWRES EGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
+Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
 Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) No debugger - Tested<br>
-Jones LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) With debugger - Missing<br>
+Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) With debugger - Missing<br>
 
 **Note: <code style="color : blue">Some boxes indicated "640K + VGA/MCGA (256 COLOR) OR 640K + TANDY (16 CLR) OR 512K + EGA (16 CLR)".</code>**
 
@@ -258,7 +258,7 @@ Released: September 24th, 1988 (Information from K4092488.QA file).</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested<br>
 Requires [KQ4FIX official patch to be playable.](http://sciwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella)<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
-King's Quest 4 $ {\color{Blue}SCI}$ (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.503) Didigal Distribution with Amiga sounds - Tested<br>
 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) German, also includes English language - Missing.<br>
@@ -348,7 +348,7 @@ Larry 1 ${\color{Red}AGI}$ (Game version 1.00 Interpreter version 2.440) Tested<
 Larry 1 ${\color{Red}AGI}$ (Game version 1.00 Interpreter version 2.917) Tested<br>
 Larry 1 ${\color{Red}AGI}$ (Game version 2.00 Interpreter version 2.440) Polish - Edycja Kolekcjonerska - Tested<br>
 **Note:** To my knowledge, this is the only AGI game officially translated into a foreign language.<br>
-Larry 1 A${\color{Red}AGI}$ (Game version?, Interpreter version?) 1988 - Missing<br>
+Larry 1 ${\color{Red}AGI}$ (Game version?, Interpreter version?) 1988 - Missing<br>
 **Note:** AGI Programmers Wiki lists a version from 1988, one year after the game's release,<br>
 but the site gives no version number for the game or the interpreter.
 
@@ -388,7 +388,7 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.019) 
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8) German, also includes English language - Tested<br>
-Larry 5${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) - Tested<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) - Tested<br>
 **Note from ScummVM detection tables:** SCI interpreter version 1.000.510.<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version T.A00.196) German - Missing<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) German, also includes English language - Missing<br>
@@ -471,7 +471,7 @@ Fairy Tales ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Version 1.000.14
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Fairy Tales LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Version 1.000.158) Tested<br>
+Fairy Tales ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Version 1.000.158) Tested<br>
 
 ### MIXED-UP MOTHER GOOSE:
 
