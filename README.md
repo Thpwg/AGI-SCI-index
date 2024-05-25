@@ -50,6 +50,7 @@ Longbow SCI (Game version 1.1, Interpreter version 1.000.168) Tested<br>
 Longbow SCI (Game version 1.1, Interpreter version 1.000.510) Missing<br>
 
 **Note:** <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>
+**Note:** \color{blue}Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".$$$$
 
 Longbow SCI LOWRES EGA (Game version*, Interpreter version 1.000.510) Missing<br>
 Longbow SCI LOWRES EGA (Game version 1.000, Interpreter version 1.000.175) Tested<br>
