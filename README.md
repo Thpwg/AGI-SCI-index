@@ -11,8 +11,9 @@ aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
 Special thanks to Collector for his Sierra Version Tool software.
 
 I'd also like to say hello to friends of the translation forums,<br>
-Abandonware-forums.org by Abandonware France, AbandonSocios.org,<br>
-OldGamesItalia.ne, Forum.Arena80.it, Compiware-forum.de, Old-Games.ru, etc.
+Abandonware-forums.org by Abandonware France, Planete-aventure.net<br>
+AbandonSocios.org, OldGamesItalia.net, Forum.Arena80.it,<br>
+Compiware-forum.de, Old-Games.ru, etc.
 
 Many thanks to Doomlazer, friend, teammate and Sierra games enthusiast!
 
@@ -98,7 +99,7 @@ Ecoquest 1 SCI (Game version 1.000, Interpreter version 1.ECO.013) Spanish, also
 Ecoquest 1 SCI (Game version 1.000, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
 Ecoquest 1 SCI (Game version 1.10, Interpreter version 2.000.286) Tested<br>
 
-**Note:** Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Ecoquest 1 CD SCI (Game version 1.1, Interpreter version 1.001.64) Talkie - Tested<br>
 
@@ -109,7 +110,7 @@ Ecoquest 2 SCI (Game version 1.000, Interpreter version 1.001.081) German - Test
 Ecoquest 2 SCI (Game version 9.999.999, Interpreter version 1.001.081) Spanish - Tested<br>
 
 **Note:** Lost Secret of the Rainforest is a non-talkie game, but there are a few dubbed passages or interludes.<br>
-**Note:** Some boxes indicated "VGA and EGA".
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 ### FREDDY PHARKAS:
 
