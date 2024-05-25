@@ -442,7 +442,7 @@ Larry 7 ${\color{Blue}SCI}$ (Game version 1.020, Interpreter version 3.000.000) 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1A01, Interpreter version*) Russian by SoftClub - Tested<br>
 
 Larry 7 Demo ${\color{Blue}SCI}$ (Game version 1.0 Interpreter version 2.100.002) Mini-game full<br>
-**Note: <code style="color : blue">This is an interactive demo of the Leisure Suit Larry 7: Love for Sail! that consists of "liars dice".</code>**
+**Note: <code style="color : blue">This is an interactive demo of Larry 7. That consists of "liars dice".</code>**
 
 ### LIGHTHOUSE THE DARK BEING:
 
@@ -455,7 +455,7 @@ Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000)
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) French - Missing<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Spanish - Tested<br>
 LighthousE ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 3.000.000) Tested<br>
-**Note:** Official game update with patch 2.0a.
+**Note: <code style="color : blue">Official game update with patch 2.0a.</code>**
 
 ### MANHUNTER SERIES:
 
@@ -482,7 +482,7 @@ Mother Goose ${\color{Red}AGI}$ (Game version 1.00D, Interpreter Version 2.915) 
 Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 1.011, Interpreter Version 0.000.685) Tested<br>
 
 Mother Goose CD VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version x.yyy.zzz) Talkie - English, French and German.<br>
-**Note from ScummVM detection tables:** SCI interpreter version  0.000.999 (just a guess).
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version  0.000.999 (just a guess).</code>**
 
 Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version 2.100.002) Tested<br>
 Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version 2.100.002) English, French, German and Spanish - Tested<br>
@@ -502,7 +502,7 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version*, Interpreter version 3.000.0
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1<.0t, Interpreter version 3.000.000) French (Uncensored, but missing one scene) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German (Uncensored) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese (Uncensored) Tested<br>
-**Note from ScummVM detection tables:** Features English voices, Japanese subtitles. Background images were also localized to Japanese.<br>
+**Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) UK (Censored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) US ou UE (Uncensored) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) Missing<br>
@@ -534,7 +534,7 @@ Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version T.A00.178)<br>
 Note from ScummVM detection tables: SCI interpreter version 1.000.510.<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.178) German, also includes English language - Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.510.<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
@@ -564,9 +564,9 @@ Hero's Quest EGA ${\color{Blue}SCI}$ (Game version 1.001, Interpreter version 0.
 Hero's Quest EGA ${\color{Blue}SCI}$ Game version 1.102, Interpreter version 0.000.629) Tested<br>
 
 Quest for Glory 1 EGA ${\color{Blue}SCI}$ (Game version 1.200, Interpreter version 0.000.629) Tested<br>
-**Note:** This is not a LOWRES EGA edition of the 1992 remake,<br>
+**Note: <code style="color : blue">This is not a LOWRES EGA edition of the 1992 remake,<br>
 but the edition with the definitive name of the series,<br>
-i.e. Quest for Glory and not Hero's Quest.
+i.e. Quest for Glory and not Hero's Quest.</code>**
 
 Quest for Glory 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 2.000.411) Tested<br>
 Quest for Glory 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, game interpreter L.rry.021) Tested<br>
@@ -614,17 +614,16 @@ Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Germa
 Shivers ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 3.000.000) Missing<br>
 
 Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Tested<br>
-**Note:** The Japanese version exists, but I haven't found any information<br>
-on the version number of the game or the Interpreter version.<br>
+**Note: <code style="color : blue">The Japanese version exists, but I haven't found any information<br>
+on the version number of the game or the Interpreter version.</code>**<br>
 See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).
 
-**Note from ScummVM detection tables:** Shivers 2 doesn't contain SCI scripts.<br>
+**Note from ScummVM detection tables: <code style="color : blue">Shivers 2 doesn't contain SCI scripts.<br>
 The whole game logic has been reimplemented from SCI in native code placed in DLL files.<br>
 Each room has its own DLL file, and some SCI functions have been reimplemented/rewritten<br>
-for this purpose in native code.<br>
-The game and demo have all the resources of a SCI game, apart from  the SCI scripts themselves.<br>
-Thus, they cannot be directly supported, unless their whole room logic is rewritten from scratch,<br>
-which classifies Shivers 2 as "not SCI".
+for this purpose in native code. The game and demo have all the resources of a SCI game,
+apart from  the SCI scripts themselves. Thus, they cannot be directly supported,
+unless their whole room logic is rewritten from scratch,<br> which classifies Shivers 2 as "not SCI".</code>**
 
 ### SLATER & CHARLIE GO CAMPING:
 
@@ -641,9 +640,9 @@ Space Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.91
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.181) Missing<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.SQ1.004) Patched - Missing<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) Spanish - Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) By Kixx XL - English and Spanish - Tested<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
@@ -665,22 +664,22 @@ Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version S.old
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.00.685) Tested<br>
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version TGH!, Interpreter version 1.000342) Beta Version - Tested<br>
-**Note:** This Beta Version was leaked several months before SQ4's official release. Debug mode include.
+**Note: <code style="color : blue">This Beta Version was leaked several months before SQ4's official release. Debug mode include.</code>**
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) Missing<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.200 (just a guess).<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) German, also includes English language - Tested.<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.200 (just a guess).<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) French, also includes English language - Tested.<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Missing.<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested.<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.200 (just a guess).<br>
-**Note:** Floppy disk version distributed on CD-ROM, but not talkie.<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+**Note: <code style="color : blue">Floppy disk version distributed on CD-ROM, but not talkie.</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) - Tested<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.200 (just a guess).<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) - Tested<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested.<br>
-**Note from ScummVM detection tables:** SCI interpreter version 1.000.200 (just a guess).<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
@@ -705,20 +704,20 @@ Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.0
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German - Tested<br>
 
 Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) No speech - Missing<br>
-**Note:** I don't know whether this playable demo of Space Quest 6 contains a short, unique scenario,<br>
-and if so, whether it's different from the demo with voices.<br>
+**Note: <code style="color : blue">I don't know whether this playable demo of Space Quest 6 contains a short, unique scenario,<br>
+and if so, whether it's different from the demo with voices.</code>**<br>
 Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) Mini-game full - Tested<br>
-**Note:** The playable demo of Space Quest 6 contains a short unique scenario<br>
-that is not part of the adventure in the full game.
+**Note: <code style="color : blue">The playable demo of Space Quest 6 contains a short unique scenario<br>
+that is not part of the adventure in the full game.</code>**
 
 Astro Chicken EGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.453) Tested<br>
-**Note:** Mini game is an arcade sequence from Space Quest III: The Pirates of Pestulon.<br>
+**Note: <code style="color : blue">Mini game is an arcade sequence from Space Quest III: The Pirates of Pestulon.</code>**
 
 Ms. Astro Chicken Flight of the Pullet VGA ${\color{Blue}SCI}$ (Game version x.yyy, Interpreter version 1.000.679) Tested<br>
-**Note** Mini game from Space Quest IV: Roger Wilco and the Time Rippers. Also known as Astro Chicken II.
+**Note: <code style="color : blue">Mini game from Space Quest IV: Roger Wilco and the Time Rippers. Also known as Astro Chicken II.</code>**
 
 Fun Seekers Guide to East Madera County ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 0.000.506) Tested<br>
-**Note:** Mini game by Doug Oldfield that was included with the Space Quest Collector's Edition.
+**Note: <code style="color : blue">Mini game by Doug Oldfield that was included with the Space Quest Collector's Edition.</code>**
 
 ### SEASON'S GREETINGS SERIES:
 
@@ -742,32 +741,32 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 3.00, Interpreter Version 3.002.
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Edition US - Multilingual EN/FR/DE, English voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French edition - Multilingual EN/FR/DE/, French voices - Tested.<br>
-**Note:** This version of Torin has an ITALIAN directory, but it contains English language data, not Italian.<br>
+**Note: <code style="color : blue">This version of Torin has an ITALIAN directory, but it contains English language data, not Italian</code>**.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German edition - Multilingual EN/DE/FR, German voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Russian edition by SoftClub - RU, Russian voices - Tested<br>
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Spanish edition - Multilingual ES/FR/DE/, English voices - Tested.<br>
-**Note:** This version of Torin has an ENGLISH directory, but it does not contain any English texts.<br>
-**Note:** Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
+**Note: <code style="color : blue">This version of Torin has an ENGLISH directory, but it does not contain any English texts.</code>**<br>
+**Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
 a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks.<br>
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
-because the subtitles can't be activated until the prologue is over and we control the character.
+because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Polish edition - Partial Polish texts, English voices - Tested.<br>
-**Note:** Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
+**Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
 a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks.<br>
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
-because the subtitles can't be activated until the prologue is over and we control the character.
+because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Brazilian edition by Brasoft Games - PT, English voices - Tested.<br>
-**Note:** Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
+**Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
 a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks.<br>
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
-because the subtitles can't be activated until the prologue is over and we control the character.
+because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian edition - Multilingual EN/DE/FR/IT/, English voices - Tested.<br>
-**Note:** The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.<br>
-**Note:** This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.
+**Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.</code>**<br>
+**Note: <code style="color : blue">This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.</code>**
 
 ### THE REALM ONLINE:
 
@@ -775,7 +774,7 @@ The Realm Online ${\color{Blue}SCI}$ (Game version 2.184, Interpreter version 2.
 The Realm Online ${\color{Blue}SCI}$ (Game version 3.43, Interpreter version 2.100.002) Missing<br>
 
 **There are two games, which I don't know if they exist in French or not,<br>**
-**Police Quest III and Quest for Glory IV on floppy disk.<br>**
+**${\color{Blue}Police Quest 3}$ and ${\color{Blue}Uuest for Glory 4}$ on floppy disk.<br>**
 **There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
 
 To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions<br>
