@@ -86,7 +86,8 @@ Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.053
 Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
 
 Dr. Brain 2 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
-**Note: <code style="color : blue">There are some differences between island of dr brain floppy and CD, about 15 scripts have been changed.</code>**
+**Note: <code style="color : blue">There are some differences between island of dr brain floppy and CD,<br>
+about 15 scripts have been changed.</code>**
 
 ### ECOQUEST SERIES:
 
@@ -188,7 +189,7 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 1993 Hoyle 4 VGA ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.069) Tested<br>
 1993 Hoyle 4 VGA ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version x.yyy.zzz) Tested<br>
 
-**Note: <code style="color : blue">**Although this is a floppy game, it does have some speech.</code>**<br>
+**Note: <code style="color : blue">Although this is a floppy game, it does have some speech.</code>**<br>
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version =5, Interpreter version/Windows interpreter 2.100.002) Tested<br>
@@ -277,7 +278,8 @@ King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.55, Interprete
 King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.55, Interpreter version 1.000.073) - Tested<br>
 King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) - Tested<br>
 King's Quest 5 LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Missing<br>
-**Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box,<br>
+1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
 
 King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter version x.yyy.zzz) - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.784.</code>**
