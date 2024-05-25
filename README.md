@@ -179,8 +179,8 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 1990 Hoyle 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.014, Interpreter version 0.000.668) Tested<br>
 1990 Hoyl 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.016, Interpreter version 0.000.668) Tested<br>
 
-1991 Hoyle 3: Great Board Games LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version*) Missing<br>
-1991 Hoyle 3: Great Board Games LOWRES EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
+1991 Hoyle 3: Great Board Games ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version*) Missing<br>
+1991 Hoyle 3: Great Board Games ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
 1991 Hoyle 3: Great Board Games VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
 **Note: <code style="color : blue">**Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).</code>**
 
