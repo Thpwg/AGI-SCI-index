@@ -247,7 +247,7 @@ King's Quest 4 ${\color{Red}AGI}$ (Game version 2.0, Interpreter version 3.002.0
 King's Quest 4 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 3.002.086) - Tested<br>
 King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.086) - Tested<br>
 
-King's Quest 4 ${\color{Blue}SCI}$ (Game version *, Interpreter version 0.000.253) - Missing<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.253) - Missing<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.253) - Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
@@ -272,7 +272,7 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) German, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Italian, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Spanish, also includes English language - Tested<br>
-King's Quest 5 ${\color{Blue}SCI}$ (Game version *, Interpreter version 1.000.060) Italian, also includes English language - Missing<br>
+King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) Italian, also includes English language - Missing<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
