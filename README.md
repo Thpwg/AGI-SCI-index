@@ -151,7 +151,7 @@ Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.
 Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) German - Tested<br>
 Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Spanish - Tested<br>
 
-Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 01.100.000, Interpreter version 2.000.000) MS-DOS and Windows<br>
+Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 01.100.000, Interpreter version 2.000.000) MS-DOS and Windows - Tested<br>
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Tested<br>
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Talkie, French text, English speech - Tested<br>
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Talkie, German text, English speech - Tested<br>
