@@ -670,17 +670,17 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version TGH!, Interpreter version 1.
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) German, also includes English language - Tested.<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) French, also includes English language - Tested.<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Missing.<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested.<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) French, also includes English language - Tested<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Missing<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 **Note: <code style="color : blue">Floppy disk version distributed on CD-ROM, but not talkie.</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) - Tested<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested.<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
