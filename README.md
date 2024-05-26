@@ -798,6 +798,7 @@ A small detail to bear in mind for potential translators, or for any other proje
 All Sierra games are more or less buggy. There are no exceptions!<br>
 It may be a simple error in the code that prevents a phrase or action<br> 
 from being displayed, or it may be a serious crash.<br>
-For Talkie games, dubbing is sometimes missing. In other words, there's a lot of work to be done.
+For Talkie games, dubbing is sometimes missing.<br>
+In other words, there's a lot of work to be done.
 
 ### ThreepW & DoomL on Github.
