@@ -164,7 +164,7 @@ Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.10
 Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian - Tested<br>
 Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.100.002) Tested<br>
 Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.100.002) German - Tested<br>
-Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) Limited Edition
+Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) Limited Edition - Tested
 
 ### GOLD RUSH:
 
