@@ -30,8 +30,8 @@ that was not updated to what it should have been before the build.<br>
 The SVM guess is probably based on features and how it reads game data."
 
 **Note:** At the time, VGA and EGA were indicated on the blue Front Cover label.<br>
-The EGA mode (or LOWRES compared with VGA release) made it possible<br>
-to run the game on low-capacity computers.<br>
+The EGA mode (or LOWRES compared with VGA release)<br>
+made it possible to run the game on low-capacity computers.<br>
 Some boxes clearly state that VGA and EGA versions are sold separately.<br>
 Some EGA editions even have separate version and interpreter numbers from the VGA edition.
 
