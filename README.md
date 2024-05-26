@@ -17,7 +17,7 @@ Compiware-forum.de, Old-Games.ru, etc.
 
 Many thanks to Doomlazer, friend, teammate and Sierra games enthusiast!
 
-For games marked **"tested"**, I have personally verified the game and interpreter versions.<br>
+For games marked **"Tested"**, I have personally verified the game and interpreter versions.<br>
 Games marked **"Missing"** are listed by other resources,<br>
 but I was not personally able to  verify their existence.
 
