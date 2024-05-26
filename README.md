@@ -111,7 +111,8 @@ Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.00
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.081) German - Tested<br>
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 9.999.999, Interpreter version 1.001.081) Spanish - Tested<br>
 
-**Note: <code style="color : blue">Lost Secret of the Rainforest is a non-talkie game, but there are a few dubbed passages or interludes.</code>**<br>
+**Note: <code style="color : blue">Lost Secret of the Rainforest is a non-talkie game,<br>
+but there are a few dubbed passages or interludes.</code>**<br>
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 ### FREDDY PHARKAS:
@@ -766,7 +767,8 @@ The best thing to do is to start over and load the intro again, but now with Spa
 because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian edition - Multilingual EN/DE/FR/IT/, English voices - Tested.<br>
-**Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.</code>**<br>
+**Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies),<br>
+while the speech remains in English.</code>**<br>
 **Note: <code style="color : blue">This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.</code>**
 
 ### THE REALM ONLINE:
