@@ -786,9 +786,10 @@ but my aim was to make the index as sober as possible.
 This index is subject to evolved and may undergo corrections. Feel free to add your comments.<br>
 The aim is to identify existing or as yet unknown games, in order to save resources.
 
-Sometimes you'll find the same Game and Interpreter version, but with different hashes.
-This is typically because of how the resources are spread out accross the 5.25" and 3.5" disks. The higher capacity
-3.5" disks can hold more resources, hence the different hash values, but the game resources are still identical. 
+Sometimes you'll find the same Game and Interpreter version, but with different hashes.<br>
+This is typically because of how the resources are spread out accross the 5.25" and 3.5" disks.<br>
+The higher capacity 3.5" disks can hold more resources, hence the different hash values,<br>
+but the game resources are still identical. 
 
 A small detail to bear in mind for potential translators, or for any other project.<br>
 All Sierra games are more or less buggy. There are no exceptions!<br>
