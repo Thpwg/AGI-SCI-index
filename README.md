@@ -786,16 +786,9 @@ but my aim was to make the index as sober as possible.
 This index is subject to evolved and may undergo corrections. Feel free to add your comments.<br>
 The aim is to identify existing or as yet unknown games, in order to save resources.
 
-Sometimes you'll find the same Game Version numbers and version Interpreter numbers<br>
-with the same or different hashes, but the game's root resources will look different.<br>
-They're the exact same resources, merely spread out differently.<br>
-The hash for the map file is different because the spread is different.<br>
-Have no doubt about it.  This with the fact the game source contains bat files<br>
-and makevols scripts to create both "360" and "720" versions.<br>
-For example, an "overnite.bat" file that does everything short<br>
-of actually copying things to diskettes, for both four and eight disk versions.<br>
-Hence the name. They're "nightly builds", and they come in both 5.25" and 3.5",<br>
-from the exact same resources.
+Sometimes you'll find the same Game and Interpreter version, but with different hashes.
+This is typically because of how the resources are spread out accross the 5.25" and 3.5" disks. The higher capacity
+3.5" disks can hold more resources, hence the different hash values, but the game resources are still identical. 
 
 A small detail to bear in mind for potential translators, or for any other project.<br>
 All Sierra games are more or less buggy. There are no exceptions!<br>
