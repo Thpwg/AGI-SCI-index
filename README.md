@@ -591,7 +591,7 @@ Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version L.r
 Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version L.rry.083) German - Tested<br>
 Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version L.rry.083) Italian - Tested<br>
 Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version L.rry.083) Spanish - Tested<br>
-Quest for Glory 3${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version L.rry.083) Spanish - Tested<br>
+Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version L.rry.083) Spanish - Tested<br>
 
 Quest for Glory 4 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.000) Tested<br>
 Quest for Glory 4 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.000) Tested<br>
