@@ -649,7 +649,7 @@ Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter ve
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 1 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ Remake (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
+Space Quest 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
 
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.912) Tested<br>
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0C, interpreter version 2.915) Tested<br>
