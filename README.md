@@ -784,11 +784,6 @@ while the speech remains in English.</code>**<br>
 **Note: <code style="color : blue">This version of Torin has an SPANISH directory,<br>
 but it contains English language data, not Spanish.</code>**
 
-### THE REALM ONLINE:
-
-The Realm Online ${\color{Blue}SCI}$ (Game version 2.184, Interpreter version 2.100.002) Tested<br>
-The Realm Online ${\color{Blue}SCI}$ (Game version 3.43, Interpreter version 2.100.002) Missing<br>
-
 **There are two games, which I don't know if they exist in French or not,<br>**
 **Police Quest 3 and Quest for Glory 4 on floppy disk.<br>**
 **There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
