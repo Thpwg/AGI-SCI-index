@@ -200,8 +200,10 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 - 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version =5.1 Interpreter version 2.100.002) Tested
 
 1996 Hoyle Classic Solitaire VGA ${\color{Blue}SCI}$ (Game version* Interpreter version 2.100.002) CD and Hard Drive versions - Tested<br>
-**Note from MobyGames: <code style="color : blue"> Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2<br>
-with the 28 solitaire games found in that old release, upgraded with new looks, sounds and mouse control.<br>
+**Note from MobyGames: <code style="color : blue">
+Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2<br>
+with the 28 solitaire games found in that old release,<br>
+upgraded with new looks, sounds and mouse control.<br>
 A Card Flick game has been added.</code>**
 
 ### JONES IN THE FAST LANE:
@@ -317,14 +319,16 @@ King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) MS-DOS - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) Windows - Missing<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.1b, Interpreter version 2.100.002) Russian by SoftClub - Windows - Tested.<br>
-**Note from ScummVM detection tables: <code style="color : blue">Only the Windows AVI files were translated. The DOS RBT files weren't.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Only the Windows AVI files were translated.<br>
+The DOS RBT files weren't.</code>**
 
 The King's Questions VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
 **Note: <code style="color : blue">Mini-game from the King's Quest Collection.</code>**
 
 Inside The Chest/Behind the Developers' Shield ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
 **Note: <code style="color : blue">Pair of freeware SCI slide shows of the King's Quest Series and their development.<br>
-They were included as extras in the King's Quest Collector's Edition and the King's Quest Collection Series Collections.</code>**
+They were included as extras in the King's Quest Collector's Edition<br>
+and the King's Quest Collection Series Collections.</code>**
 
 ### LAURA BOW SERIES:
 
@@ -429,7 +433,8 @@ Larry 6 CD SVGA & VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter v
 Larry 6 CD SVGA & VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version SVGA 2.100.002 & VGA 1.001.115) (EU) French, German or English - Tested<br>
 Larry 6 CD SVGA & VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version SVGA 2.100.002 & VGA 1.001.115) German - Tested<br>
 
-**Note: <code style="color : blue">The SVGA remake was released in 1994 on CD-ROM, with updated graphics and full voice acting.<br>
+**Note: <code style="color : blue">The SVGA remake was released in 1994 on CD-ROM,<br>
+with updated graphics and full voice acting.<br>
 English, French or German text, English speech.</code>**
 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169 Tested<br>
@@ -504,7 +509,8 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version*, Interpreter version 3.000.0
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1<.0t, Interpreter version 3.000.000) French (Uncensored, but missing one scene) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German (Uncensored) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese (Uncensored) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles.<br>
+Background images were also localized to Japanese.</code>**<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) UK (Censored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) US ou UE (Uncensored) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) Missing<br>
@@ -706,8 +712,8 @@ Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.0
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German - Tested<br>
 
 Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) No speech - Missing<br>
-**Note: <code style="color : blue">I don't know whether this playable demo of Space Quest 6 contains a short, unique scenario,<br>
-and if so, whether it's different from the demo with voices.</code>**<br>
+**Note: <code style="color : blue">I don't know whether this playable demo of Space Quest 6 contains a short,<br>
+unique scenario, and if so, whether it's different from the demo with voices.</code>**<br>
 Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) Mini-game full - Tested<br>
 **Note: <code style="color : blue">The playable demo of Space Quest 6 contains a short unique scenario<br>
 that is not part of the adventure in the full game.</code>**
@@ -716,7 +722,8 @@ Astro Chicken EGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.
 **Note: <code style="color : blue">Mini game is an arcade sequence from Space Quest III: The Pirates of Pestulon.</code>**
 
 Ms. Astro Chicken Flight of the Pullet VGA ${\color{Blue}SCI}$ (Game version x.yyy, Interpreter version 1.000.679) Tested<br>
-**Note: <code style="color : blue">Mini game from Space Quest IV: Roger Wilco and the Time Rippers. Also known as Astro Chicken II.</code>**
+**Note: <code style="color : blue">Mini game from Space Quest IV: Roger Wilco and the Time Rippers.<br>
+Also known as Astro Chicken II.</code>**
 
 Fun Seekers Guide to East Madera County ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 0.000.506) Tested<br>
 **Note: <code style="color : blue">Mini game by Doug Oldfield that was included with the Space Quest Collector's Edition.</code>**
@@ -743,33 +750,39 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 3.00, Interpreter Version 3.002.
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Edition US - Multilingual EN/FR/DE, English voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French edition - Multilingual EN/FR/DE/, French voices - Tested.<br>
-**Note: <code style="color : blue">This version of Torin has an ITALIAN directory, but it contains English language data, not Italian</code>**.<br>
+**Note: <code style="color : blue">This version of Torin has an ITALIAN directory,<br>
+but it contains English language data, not Italian</code>**.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German edition - Multilingual EN/DE/FR, German voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Russian edition by SoftClub - RU, Russian voices - Tested<br>
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Spanish edition - Multilingual ES/FR/DE/, English voices - Tested.<br>
-**Note: <code style="color : blue">This version of Torin has an ENGLISH directory, but it does not contain any English texts.</code>**<br>
-**Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
-a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks.<br>
+**Note: <code style="color : blue">This version of Torin has an ENGLISH directory,<br>
+but it does not contain any English texts.</code>**<br>
+**Note: <code style="color : blue">Subtitles must be activated in the game.<br>
+To do this, place the cursor in the top left-hand corner, a menu will appear,<br>
+in the game we activate closed subtitles so that they appear when the character speaks.<br>
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
 because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Polish edition - Partial Polish texts, English voices - Tested.<br>
-**Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
-a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks.<br>
+**Note: <code style="color : blue">Subtitles must be activated in the game.<br>
+To do this, place the cursor in the top left-hand corner, a menu will appear,<br>
+in the game we activate closed subtitles so that they appear when the character speaks.<br>
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
 because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Brazilian edition by Brasoft Games - PT, English voices - Tested.<br>
-**Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner,<br>
-a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks.<br>
+**Note: <code style="color : blue">Subtitles must be activated in the game.<br>
+To do this, place the cursor in the top left-hand corner, a menu will appear,<br>
+in the game we activate closed subtitles so that they appear when the character speaks.<br>
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
 because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian edition - Multilingual EN/DE/FR/IT/, English voices - Tested.<br>
 **Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies),<br>
 while the speech remains in English.</code>**<br>
-**Note: <code style="color : blue">This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.</code>**
+**Note: <code style="color : blue">This version of Torin has an SPANISH directory,<br>
+but it contains English language data, not Spanish.</code>**
 
 ### THE REALM ONLINE:
 
