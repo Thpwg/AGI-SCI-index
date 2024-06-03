@@ -68,23 +68,26 @@ Rogr Wilco's Spaced Out Game Pack SCI (Game version 1.000, Interpreter version 1
 
 Donald Duck's Playground ${\color{Red}AGI}$ (Game version 1.5, Interpreter version 2.440) Tested<br>
 **Note: <code style="color : blue">The version offered on Al Lowe's website is an Amiga version pirated to run on PC.<br>
-Game version 1.C, Interpreter version 2.27. We love you Al, so you're forgiven :^)</code>**
+Game version 1.C, Interpreter version 2.227. We love you Al, so you're forgiven :^)</code>**
 
 ### DR. BRAIN SERIES:
 
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.044) Tested<br>
-Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000.044, Interpreter version 1.000.510) Missing<br>
+Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) Missing<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports 1.000.044.</code>**<br>
+Dr. Brain 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.004, Interpreter version 1.000.068) Spanish, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version 1.000.068) German, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.068) Tested<br>
-Dr. Brain 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Dr. Brain 1 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.066) Tested<br>
 
-Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.053) Semi-Talkie - Missing<br>
+Dr. Brain 1 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.068) Tested<br>
+
 Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
+Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.053) Semi-Talkie - Missing<br>
 
 Dr. Brain 2 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
 **Note: <code style="color : blue">There are some differences between island of dr brain floppy and CD,<br>
@@ -118,23 +121,23 @@ but there are a few dubbed passages or interludes.</code>**<br>
 ### FREDDY PHARKAS:
 
 Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.069 Windows<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version I.cfs.081) MS-DOS<br>
+- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version I.cfs.081) MS-DOS - Tested
+- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.069 Windows - Tested<br>
 
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Missing<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) German - Missing<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Spanish - Missing<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) Tested<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) French - Tested<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) German - Tested<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) Spanish - Tested<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Missing<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) German - Missing<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Spanish - Missing<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Freddy Pharkas CD dual MS-DOS and Windows interpreter SCI:<br>
-- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.095) Windows<br>
-- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) MS-DOS<br>
+- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) MS-DOS - Tested<br>
+- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.095) Windows - Tested<br>
 
 Floppy disk demo disquette SCI (v1.000 Interpreter Version 1.001.069) Mini-game full<br>
 **Note: <code style="color : blue">The playable demo of Freddy Pharkas contains a short unique scenario<br>
@@ -169,7 +172,7 @@ Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.1
 ### GOLD RUSH:
 
 Gold Rush! ${\color{Red}AGI}$ (Game version 2.01, Interpreter version 3.002.149)<br>
-Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br>
+Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)<br>
 
 ### HOYLE SERIES:
 
@@ -181,9 +184,9 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 1990 Hoyle 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.014, Interpreter version 0.000.668) Tested<br>
 1990 Hoyl 2 EGA ${\color{Blue}SCI}$ (Game version 1.000.016, Interpreter version 0.000.668) Tested<br>
 
-1991 Hoyle 3: Great Board Games ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version*) Missing<br>
-1991 Hoyle 3: Great Board Games ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
-1991 Hoyle 3: Great Board Games VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
+1991 Hoyle 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version*) Missing<br>
+1991 Hoyle 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
+1991 Hoyle 3 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
 **Note: <code style="color : blue">**Note from ScummVM detection tables:** SCI interpreter version 1.000.510 (just a guess).</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
@@ -194,10 +197,10 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3, Interpreter version 3.002.149)<br
 **Note: <code style="color : blue">Although this is a floppy game, it does have some speech.</code>**<br>
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
-1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version =5, Interpreter version/Windows interpreter 2.100.002) Tested<br>
+1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version 5, Interpreter version/Windows interpreter 2.100.002) Tested<br>
 **Note: <code style="color : blue">The DATA.TAG file indicates Version 5.0.0.0.</code>**<br>
 - 1996 Hoyle Bridge VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
-- 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version =5.1 Interpreter version 2.100.002) Tested
+- 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version 5.1, Interpreter version 2.100.002) Tested
 
 1996 Hoyle Classic Solitaire VGA ${\color{Blue}SCI}$ (Game version* Interpreter version 2.100.002) CD and Hard Drive versions - Tested<br>
 **Note from MobyGames: <code style="color : blue">
@@ -209,15 +212,17 @@ A Card Flick game has been added.</code>**
 ### JONES IN THE FAST LANE:
 
 Jones VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
-Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
-Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) No debugger - Tested<br>
-Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) With debugger - Missing<br>
+Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) no debugger - Tested<br>
+Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) with debugger - Tested<br>
 
 **Note: <code style="color : blue">Some boxes indicated "640K + VGA/MCGA (256 COLOR) OR 640K + TANDY (16 CLR) OR 512K + EGA (16 CLR)".</code>**
 
-Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Windows - Missing<br>
+Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
+Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) With debugger - Missing<br>
+
 Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - No debugger - Tested<br>
 Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - With debugger - Missing<br>
+Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Windows - Missing<br>
 
 ### KING'S QUEST SERIES:
 
