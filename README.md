@@ -295,6 +295,7 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) German - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version l.cfs.158) Spanish - Missing<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.158 ) Italian - Tested<br>
+King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version l.cfs.158) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158",<br>
 VERSION file reports "1.000.000" SCI interpreter version 1.001.055.</code>**
 
@@ -317,7 +318,7 @@ King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Italian - Windows - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - MS-DOS - Missing<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - Windows - Missing<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - MS-DOS and Windows - Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - MS-DOS/Windows - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) MS-DOS - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) Windows - Missing<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.1b, Interpreter version 2.100.002) Russian by SoftClub - Windows - Tested.<br>
