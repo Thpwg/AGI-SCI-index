@@ -390,7 +390,7 @@ Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe
 
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
-**Note: <code style="color : blue">The Brasoft Brazilian edition is in English; no Portuguese localization.</code>**
+**Note: <code style="color : blue">The Brasoft Brazilian edition is in English; no Portuguese localization.</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) German, also includes English language - Missing<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version T.A00.196) German only - Missing<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8) German, also includes English language - Tested<br>
@@ -480,13 +480,14 @@ Fairy Tales ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000 
 
 ### MIXED-UP MOTHER GOOSE:
 
-Mother Goose ${\color{Red}AGI}$ (Game version*, Interpreter Version 1.013) Missing<br>
-Mother Goose ${\color{Red}AGI}$ (Game version*, Interpreter Version 2.915) Tested<br>
 Mother Goose ${\color{Red}AGI}$ (Game version 1.00D, Interpreter Version 2.915) Tested<br>
 
 Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 1.011, Interpreter Version 0.000.685) Tested<br>
+Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter Version 0.000.685) Missing<br>
 
-Mother Goose CD VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version x.yyy.zzz) Talkie - English, French and German.<br>
+Mother Goose VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter Version 1.001.031) Tested<br>
+
+Mother Goose CD VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version x.yyy.zzz) Talkie - English, French and German - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version  0.000.999 (just a guess).</code>**
 
 Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version 2.100.002) Tested<br>
