@@ -438,6 +438,7 @@ including VGA and SVGA versions.</code>**
 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.00.000, Interpreter version*) Polish - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">GOG release 1.01v2.</code>**
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Polish - Missing<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version*) Russian by SoftClub - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.05f, Interpreter version 3.000.000) French - Tested<br>
@@ -507,7 +508,7 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) US (Uncensored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) Missing<br>
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.006, Interpreter version 3.000.000) US (Uncensored) Missing
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.006, Interpreter version 3.000.000) US (Uncensored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German (Uncensored) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version 3.000.000) French (Uncensored, but missing one scene) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) US/UE (Uncensored) Tested<br>
@@ -542,7 +543,7 @@ Police Quest 2 ${\color{Blue}SCI}$ (Game version 1.002.011 Interpreter version 0
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version T.A00.178)<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.178) German, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.021) Spanish - Tested<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.pq3.021) Missing
 
@@ -653,17 +654,17 @@ Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter ve
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
-Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) By Kixx XL - English and Spanish - Tested<br>
+Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) By Kixx XL - English and Spanish - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 1.SQ1.004) Tested<br>
+Space Quest 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 1.SQ1.004) Tested
 
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.912) Tested<br>
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0C, interpreter version 2.915) Tested<br>
-Space Quest 2 ${\color{Red}AGI}$ (Game version v2.0C, interpreter version 2.917) Tested<br>
+Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0C, interpreter version 2.917) Tested<br>
 Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0D, interpreter version 2.936) Tested<br>
-Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.936) Tested<br>
+Space Quest 2 ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.936) Tested
 
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0P, Interpreter version 0.000.453) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0U, Interpreter version 0.000.453) Tested<br>
@@ -671,52 +672,51 @@ Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0V, Interpreter version 0.000.
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.000.453) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.453) German, also includes English language - Missing<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version S.old.114) German, also includes English language - Tested<br>
-Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.00.685) Tested<br>
+Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.00.685) Tested
 
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version TGH!, Interpreter version 1.000342) Beta Version - Tested<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version thg!, Interpreter version 1.000342) Beta Version - Tested<br>
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ4's official release. Debug mode include.</code>**
+
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) - Tested<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) French, also includes English language - Tested<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Missing<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
-**Note: <code style="color : blue">Floppy disk version distributed on CD-ROM, but not talkie.</code>**<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) - Tested<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) French, also includes English language - Tested<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+**Note: <code style="color : blue">Floppy disk version distributed on CD-ROM, but not talkie.</code>**
 
-**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
+**Note: <code style="color : blue">Some oxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ {\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested<br>
+Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ {\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested
 
-Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested<br>
+Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested
 
 Space Quest 5 ${\color{Blue}SCI}$ (v0.028 Interpreter version 1.001.067) Beta Version - Tested<br>
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**
-
-Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Spanish - Tested<br>
-Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Italian - Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.03 Interpreter version 1.001.068) Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) Tested<br>
-Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) French - Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) German - Tested<br>
+Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Italian - Tested<br
+Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) French - Tested<br>
+Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Spanish - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Tested<br>
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French - Tested<br>
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German - Tested<br>
+Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) - Tested
 
-Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) No speech - Missing<br>
-**Note: <code style="color : blue">I don't know whether this playable demo of Space Quest 6 contains a short,<br>
-unique scenario, and if so, whether it's different from the demo with voices.</code>**<br>
-Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) Mini-game full - Tested<br>
+Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) From Sneak Peeks - No speech - Missing<br>
+Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.100.002) Mini-game full - Tested<br>
 **Note: <code style="color : blue">The playable demo of Space Quest 6 contains a short unique scenario<br>
 that is not part of the adventure in the full game.</code>**
 
@@ -736,7 +736,7 @@ Fun Seekers Guide to East Madera County ${\color{Blue}SCI}$ (Game version 1.02, 
 1988 A Computer Christmas EGA ${\color{Blue}SCI}$ (Game version 1.04, Interpreter Version 0.000.294) Tested<br>
 1990 Christmas Card - The Seasoned Professional EGA ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.172) Tested<br>
 1990 Christmas Card - The Seasoned Professional VGA ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.174) Tested<br>
-1992 Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) Tested<br>
+1992 Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) Tested
 
 ### THE BLACK CAULDRON:
 
@@ -746,7 +746,7 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) 
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter Version 2.439) Tested<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.098) Tested<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 3.00, Interpreter Version 3.002.097) Tested<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 3.00, Interpreter Version 3.002.097) Tested
 
 ### TORIN PASSAGE:
 
@@ -773,7 +773,7 @@ in the game we activate closed subtitles so that they appear when the character 
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
 because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
-Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Brazilian edition by Brasoft Games - PT, English voices - Tested.<br>
+Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Brazilian edition by Brasoft Games - PT, English voices - Tested.
 **Note: <code style="color : blue">Subtitles must be activated in the game.<br>
 To do this, place the cursor in the top left-hand corner, a menu will appear,<br>
 in the game we activate closed subtitles so that they appear when the character speaks.<br>
