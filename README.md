@@ -359,95 +359,92 @@ Larry 1 ${\color{Red}AGI}$ (Game version?, Interpreter version?) 1988 - Missing<
 **Note: <code style="color : blue">AGI Programmers Wiki lists a version from 1988, one year after the game's release,<br>
 but the site gives no version number for the game or the interpreter.</code>**
 
-Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056 or 1.000.510) Spanish, also includes English language - Missing<br>
-Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.SQ4.057 or 1.000.510) Spanish, also includes English language - Tested<br>
-
+Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">This version is known to be corrupted, SCI interpreter version 1.000.510.</code>**<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) No copy protection - Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) - Tested<br>
-Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version .1 Interpreter version 1.000.577) Polish - Edycja Kolekcjonerska - Tested<br>
+Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Polish - Edycja Kolekcjonerska - Tested<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
+Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Missing<br>
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.510 (or 0.000.577?) Missing<br>
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.575) - Tested<br>
 
-Larry 2 ${\color{Blue}SCI}$ (Game version, 1.000.011 Interpreter version 0.000.343) Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000 Interpreter version 0.000.409) - Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000 Interpreter version 0.000.409) Polish - Missing<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.343) Tested<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Missing<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Polish - Edycja Kolekcjonerska - Tested<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000, Interpreter version 0.000.409) - Tested<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - Missing<br>
 
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 - Tested<br>
-**Note: <code style="color : blue">Sierra Version Tool software identifies the game as SCI interpreter version 1.0036,<br>
-but in game the About LSL3 tab indicates Version 1.003.</code>**<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - Edycja Kolekcjonerska - Tested<br>
-Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123 or 0.000.572) French, also includes English language - Tested<br>
+Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123) French, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version S.old.123) Ger - Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114) German, also includes English language - Tested<br>
 
 Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html).
 
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
+**Note: <code style="color : blue">The Brasoft Brazilian edition is in English; no Portuguese localization.</code>**
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) German, also includes English language - Missing<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version T.A00.196) German only - Missing<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8) German, also includes English language - Tested<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Italian - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.019) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8) German, also includes English language - Tested<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version T.A00.196) German - Missing<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) German, also includes English language - Missing<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version*) Polish - Edycja Kolekcjonerska - Tested
-
-**Note: <code style="color : blue">The Brasoft Brazilian edition is in English; no Portuguese localization.</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version T.A00.159) Missing<br>
 Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) Tested<br>
 
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter ) Polish - Edycja Kolekcjonerska - Tested<br>
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter) By Brasoft Games - Tested<br>
-**Note: <code style="color : blue">The Brasoft Brazilian edition is in VGA SCI only and English; no Portuguese localization.</code>**<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) MS-DOS and Windows - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) French - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) German - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Spanish - Tested<br>
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter ) Polish - Edycja Kolekcjonerska - Tested<br>
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter) By Brasoft Games - Tested<br>
+**Note: <code style="color : blue">The Brasoft Brazilian edition is in VGA SCI only and English; no Portuguese localization.</code>**<br>
 
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) Tested<br>
-Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.001.115) French - Missing<br>
-Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.001.115) German - Missing<br>
+Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) French - Testedg<br>
+Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) German - Tested<br>
 **Note: <code style="color : blue">Larry 6 VGA is often presented as a LOWRES version,<br>
 while the SVGA version is presented as a HIRES version.<br>
 This is true in terms of resolution, but in reality the SVGA CD-ROM<br>
 version was released in 1994, a year after the VGA version.<br>
 The VGA version looks great, it's by no means a low-resolution version<br>
-for a low-performance computer.</code>**  
+for a low-performance computer.</code>**
 
-Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Missing<br>
-Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) English or German - Missing<br>
-Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) German - Missing<br>
-Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) French - Missing<br>
-Larry 6 CD SVGA & VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version SVGA 2.100.002 & VGA 1.001.115) (USA) - Tested<br>
-Larry 6 CD SVGA & VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version SVGA 2.100.002 & VGA 1.001.115) (EU) French, German or English - Tested<br>
-Larry 6 CD SVGA & VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version SVGA 2.100.002 & VGA 1.001.115) German - Tested<br>
+Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Tested<br>
+Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) German - Tested<br>
+Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version1.000.000, Interpreter version 2.100.002) French - Tested<br>
 
 **Note: <code style="color : blue">The SVGA remake was released in 1994 on CD-ROM,<br>
 with updated graphics and full voice acting.<br>
 English, French or German text, English speech.</code>**
 
-Larry 7 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169 Tested<br>
-Larry 7 ${\color{Blue}SCI}$ (Game version 1.00.000, Interpreter version*) Polish Tested<br>
+**Note: Many CD-ROM editions offer the game in several languages,<br>
+including VGA and SVGA versions.</code>** 
+
+Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Tested<br>
+Larry 7 ${\color{Blue}SCI}$ (Game version 1.00.000, Interpreter version*) Polish - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Polish - Missing<br>
+Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version*) Russian by SoftClub - Tested<br>
+Larry 7 ${\color{Blue}SCI}$ (Game version 1.05f, Interpreter version 3.000.000) French - Tested<br>
+Larry 7 ${\color{Blue}SCI}$ (Game version 1.04g, Interpreter version 3.000.000) German - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.0i, Interpreter version 3.000.000) Italian - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.0s, Interpreter version 3.000.000) Spanish - Tested<br>
-Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Tested<br>
-Larry 7 ${\color{Blue}SCI}$ (Game version 1.04g, Interpreter version 3.000.000) German - Tested<br>
-Larry 7 ${\color{Blue}SCI}$ (Game version 1.05f, Interpreter version 3.000.000) French - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.020, Interpreter version 3.000.000) Missing<br>
-Larry 7 ${\color{Blue}SCI}$ (Game version 1A01, Interpreter version*) Russian by SoftClub - Tested<br>
 
 Larry 7 Demo ${\color{Blue}SCI}$ (Game version 1.0 Interpreter version 2.100.002) Mini-game full<br>
 **Note: <code style="color : blue">This is an interactive demo of Larry 7. That consists of "liars dice".</code>**
