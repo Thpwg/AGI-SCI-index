@@ -429,16 +429,16 @@ Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) German - Tested<br>
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version1.000.000, Interpreter version 2.100.002) French - Tested
 
-**Note: <code style="color : blue">The SVGA remake was released in 1994 on CD-ROM,<br>
+**Note:<code style="color : blue">The SVGA remake was released in 1994 on CD-ROM,<br>
 with updated graphics and full voice acting.<br>
-English, French or German text, English speech.</code>**
+English, French or German text, English speech.</code>** 
 
-**Note: Many CD-ROM editions offer the game in several languages,<br>
+**Note:<code style="color : blue">Many CD-ROM editions offer the game in several languages,<br>
 including VGA and SVGA versions.</code>** 
 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.00.000, Interpreter version*) Polish - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">GOG release 1.01v2.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">GOG release 1.01v2.</code>**<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Polish - Missing<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version*) Russian by SoftClub - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.05f, Interpreter version 3.000.000) French - Tested<br>
@@ -504,7 +504,6 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version 2.100.002) French - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version 2.100.002) German - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version 2.100.002) Italian - Tested
-
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) US (Uncensored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) Missing<br>
@@ -695,16 +694,16 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1
 
 **Note: <code style="color : blue">Some oxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ {\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested
+Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested
 
-Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested
+Space Quest 4 CD VGA ${\color{blue}LOWRES-EGA}$ (Game version 1.0, Interpreter version 1.001.064) - Tested
 
 Space Quest 5 ${\color{Blue}SCI}$ (v0.028 Interpreter version 1.001.067) Beta Version - Tested<br>
-**Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**
+**Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.03 Interpreter version 1.001.068) Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) German - Tested<br>
-Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Italian - Tested<br
+Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Italian - Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) French - Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.068) Spanish - Tested
 
@@ -773,7 +772,7 @@ in the game we activate closed subtitles so that they appear when the character 
 The best thing to do is to start over and load the intro again, but now with Spanish text,<br>
 because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
-Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Brazilian edition by Brasoft Games - PT, English voices - Tested.
+Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Brazilian edition by Brasoft Games - PT, English voices - Tested.<br>
 **Note: <code style="color : blue">Subtitles must be activated in the game.<br>
 To do this, place the cursor in the top left-hand corner, a menu will appear,<br>
 in the game we activate closed subtitles so that they appear when the character speaks.<br>
