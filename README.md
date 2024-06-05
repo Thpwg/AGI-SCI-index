@@ -139,11 +139,11 @@ Freddy Pharkas CD dual MS-DOS and Windows interpreter SCI:<br>
 - CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) MS-DOS - Tested<br>
 - CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.095) Windows - Tested
 
-Floppy disk demo disquette SCI (v1.000 Interpreter Version 1.001.069) Mini-game full<br>
+Freddy Pharkas Floppy disk ${\color{Blue}SCI}$ (v1.000 Interpreter Version 1.001.069) Mini-game full<br>
 **Note: <code style="color : blue">The playable demo of Freddy Pharkas contains a short unique scenario<br>
 that is not part of the adventure in the full game.</code>**
 
-CD demo ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.<br>
+Freddy Pharkas CD demo ${\color{Blue}SCI}$ (Game version 1.000.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.<br>
 **Note: <code style="color : blue">The playable demo of Freddy Pharkas contains a short unique scenario<br>
 that is not part of the adventure in the full game.</code>**
 
