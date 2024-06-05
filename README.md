@@ -368,7 +368,7 @@ Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.0
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Missing<br>
+Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.510 (or 0.000.577?) Missing<br>
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.575) - Tested
 
@@ -715,8 +715,8 @@ Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.0
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German - Tested<br>
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) - Tested
 
-Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) From Sneak Peeks 2 - No speech - Tested<br>
-Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.100.002) Talkie - Tested<br>
+Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) From Sneak Peeks 2 - Mini-game full - No speech - Tested<br>
+Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.100.002) Mini-game full - Talkie - Tested<br>
 **Note: <code style="color : blue">The playable demo of Space Quest 6 contains a short unique scenario<br>
 that is not part of the adventure in the full game.</code>**
 
