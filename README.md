@@ -259,8 +259,8 @@ King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 
 **Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.111, Interpreter version 0.000.274) - Tested<br>
-King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested
-**Note: <code style="color : blue">Requires [KQ4FIX official patch to be playable](http://sierrahelp.com/Files/download.php?file=Patches/KingsQuest/KQ4(KQ4FIX).zip).</code>**
+King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested<br>
+**Note: <code style="color : blue">Requires [KQ4FIX official patch to be playable](http://sierrahelp.com/Files/download.php?file=Patches/KingsQuest/KQ4(KQ4FIX).zip).</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.503) By Didigal Distribution, with Amiga sounds - Tested
