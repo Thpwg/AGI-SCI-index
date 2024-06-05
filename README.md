@@ -715,10 +715,8 @@ Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.0
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German - Tested<br>
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) - Tested
 
-Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) From Sneak Peeks 2 - No speech - Tested<br>
-**Note: <code style="color : blue">The playable demo of Space Quest 6 contains a short unique scenario<br>
-that is not part of the adventure in the full game.</code>**<br>
-Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.100.002) Mini-game full - Talkie - Tested<br>
+Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) From Sneak Peeks 2 - No speech - Tested<br>
+Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.100.002) Talkie - Tested<br>
 **Note: <code style="color : blue">The playable demo of Space Quest 6 contains a short unique scenario<br>
 that is not part of the adventure in the full game.</code>**
 
