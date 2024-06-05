@@ -695,7 +695,7 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1
 
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested
 
-Space Quest 4 CD VGA ${\color{blue}LOWRES-EGA}$ (Game version 1.0, Interpreter version 1.001.064) - Tested
+Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested
 
 Space Quest 5 ${\color{Blue}SCI}$ (v0.028 Interpreter version 1.001.067) Beta Version - Tested<br>
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**<br>
