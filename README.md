@@ -415,7 +415,7 @@ Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.1
 **Note: <code style="color : blue">The Brasoft Brazilian edition is in VGA SCI only and English; no Portuguese localization.</code>**
 
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) Tested<br>
-Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) French - Testedg<br>
+Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) French - Tested<br>
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) German - Tested<br>
 **Note: <code style="color : blue">Larry 6 VGA is often presented as a LOWRES version,<br>
 while the SVGA version is presented as a HIRES version.<br>
