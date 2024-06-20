@@ -3,7 +3,10 @@
 
 This index is based on my experiences as a Sierra games-loving translator,<br>
 but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki,<br>
-ScummVM detection tables, Sluicebox's sci-scripts and SCIprogramming specialists.
+ScummVM detection tables, EricOakford SCI-Decompilation-Archive,
+Sluicebox's sci-scripts and SCIprogramming specialists.
+
+Special recognition to Eric Oakford, pioneer of SCI engine decompilation.
 
 I'd like to take this opportunity to say a friendly hello to Chris Benshoof,<br>
 aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
