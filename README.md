@@ -3,7 +3,7 @@
 
 This index is based on my experiences as a Sierra games-loving translator,<br>
 but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki,<br>
-ScummVM detection tables, EricOakford AGI and SCI-Decompilation-Archive,
+ScummVM detection tables, EricOakford AGI and SCI decompilation archives,<br>
 Sluicebox's sci-scripts and SCIprogramming specialists.
 
 Special recognition to Eric Oakford, pioneer of AGI/SCI engines decompilation.
