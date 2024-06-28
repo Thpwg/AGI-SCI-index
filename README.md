@@ -40,6 +40,11 @@ Some EGA editions even have separate version and interpreter numbers from the VG
 
 ### CODE-NAME ICEMAN:
 
+ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Beta Version - Tested<br>
+**Note: <code style="color : blue">This beta version was discovered by youtuber LGR who purchased an IBM PCjr<br>
+previously owned by Sierra that contained a pre-release version.<br>
+Thanks to him for unearthing the game.</code>**
+
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Missing<br>
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.023, Interpreter version 0.000.668) Tested<br>
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.033, Interpreter version 0.000.685) Tested
