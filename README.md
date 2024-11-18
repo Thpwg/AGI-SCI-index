@@ -14,7 +14,7 @@ aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
 Special thanks to Collector for his Sierra Version Tool software.
 
 I'd also like to say hello to friends of the translation forums,<br>
-Abandonware-forums.org by Abandonware France,
+Abandonware-forums.org by Abandonware France,<br>
 Planete-aventure.net, Obsolete-tears.com/forum/index.php,<br>
 AbandonSocios.org, OldGamesItalia.net, Forum.Arena80.it,<br>
 Compiware-forum.de, Old-Games.ru, etc.
