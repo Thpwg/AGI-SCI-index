@@ -60,7 +60,8 @@ Donald Duck's Playground ${\color{Red}AGI}$ (Game version 1.5, Interpreter versi
 
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.044) Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) Missing<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports 1.000.044.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports 1.000.044.</code>**
+
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.004, Interpreter version 1.000.068) Spanish, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version 1.000.068) German, also includes English language - Tested<br>
@@ -182,7 +183,8 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version 5, Interpreter version/Windows interpreter 2.100.002) Tested<br>
-**Note: <code style="color : blue">The DATA.TAG file indicates Version 5.0.0.0.</code>**<br>
+**Note: <code style="color : blue">The DATA.TAG file indicates Version 5.0.0.0.</code>**
+
 - 1996 Hoyle Bridge VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
 - 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version 5.1, Interpreter version 2.100.002) Tested
 
@@ -207,7 +209,8 @@ Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) T
 ### KING'S QUEST SERIES:
 
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1984 - Missing<br>
-**Note: <code style="color : blue">The existence of this version on PC MS-DOS is confirmed by einstein95.</code>**<br><br>
+**Note: <code style="color : blue">The existence of this version on PC MS-DOS is confirmed by einstein95.</code>**
+
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1986 - Tested<br>
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.425) - Tested<br>
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.917) - Tested
@@ -234,11 +237,13 @@ King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.0
 
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.247) - Missing<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.253) - Missing<br>
-**Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**
+
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.111, Interpreter version 0.000.274) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested<br>
-**Note: <code style="color : blue">Requires [KQ4FIX official patch to be playable](http://sierrahelp.com/Files/download.php?file=Patches/KingsQuest/KQ4(KQ4FIX).zip).</code>**<br>
+**Note: <code style="color : blue">Requires [KQ4FIX official patch to be playable](http://sierrahelp.com/Files/download.php?file=Patches/KingsQuest/KQ4(KQ4FIX).zip).</code>**
+
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.503) By Didigal Distribution, with Amiga sounds - Tested
@@ -279,7 +284,8 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.000.00G" SCI interpreter version 1.001.054.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.000.00G" SCI interpreter version 1.001.054.</code>**
+
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.034 Interpreter version 1.001.069) Windows - Tested
 
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.4, Interpreter version 2.100.002) Windows - Tested<br>
@@ -310,7 +316,8 @@ Inside The Chest/Behind the Developers' Shield ${\color{Blue}SCI}$ (Game version
 Laura Bow 1 ${\color{Blue}SCI}$ (Game version 1.000.046, Interpreter version 0.000.631) Tested
 
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.274) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.069 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.069 (just a guess).</code>**
+
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.yyy) Missing<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Missing<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
@@ -327,12 +334,14 @@ Laura Bow 2 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.
 Larry 1 ${\color{Red}AGI}$ (Game version 1.00 Interpreter version 2.440) Tested<br>
 Larry 1 ${\color{Red}AGI}$ (Game version 1.00 Interpreter version 2.917) Tested<br>
 Larry 1 ${\color{Red}AGI}$ (Game version 2.00 Interpreter version 2.440) Polish - By Edycja Kolekcjonerska - Tested<br>
-**Note: <code style="color : blue">To my knowledge, this is the only AGI game officially translated into a foreign language.</code>**<br>
+**Note: <code style="color : blue">To my knowledge, this is the only AGI game officially translated into a foreign language.</code>**
+
 Larry 1 ${\color{Red}AGI}$ (Game version?, Interpreter version?) 1988 - Missing<br>
 **Note: <code style="color : blue">AGI Programmers Wiki lists a version from 1988, one year after the game's release, but the site gives no version number for the game or the interpreter.</code>**
 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">This version is known to be corrupted, SCI interpreter version 1.000.510.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">This version is known to be corrupted, SCI interpreter version 1.000.510.</code>**
+
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) No copy protection - Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) - Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Polish - By Edycja Kolekcjonerska - Tested
@@ -353,9 +362,11 @@ Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 -
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123) French, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
+
 Larry 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version S.old.123) Ger - Missing<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
+
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114) German, also includes English language - Tested
 
 Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html).
@@ -369,11 +380,14 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) 
 Larry 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version T.A00.196) German only - Missing<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8) German, also includes English language - Tested<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
+
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Italian - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
+
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.019) French, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
+
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Polish - Tested<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version*) Polish - By Edycja Kolekcjonerska - Tested
 
@@ -407,7 +421,8 @@ Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version1.000.000, Interpreter version 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.00.000, Interpreter version*) Polish - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Polish - Tested<br>
-**Note: <code style="color : blue">GOG release 1.01v3.</code>**<br>
+**Note: <code style="color : blue">GOG release 1.01v3.</code>**
+
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version*) Russian by SoftClub - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.05f, Interpreter version 3.000.000) French - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.04g, Interpreter version 3.000.000) German - Tested<br>
@@ -481,7 +496,8 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) US/UE (Uncensored) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) UK (Censored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese (Uncensored) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**
+
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version*, Interpreter version 3.000.000) Australia (Censored) Missing
 
 **Note: <code style="color : blue">To learn more about the censorship of [Phantasmagoria 2](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).</code>**
@@ -507,9 +523,11 @@ Police Quest 2 ${\color{Blue}SCI}$ (Game version 1.002.011 Interpreter version 0
 
 
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version T.A00.178)<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
+
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.178) German, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
+
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.021) Spanish - Tested<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.pq3.021) Missing
 
@@ -609,9 +627,11 @@ Space Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.91
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.181) Missing<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.SQ1.004) Patched - Missing<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) Spanish - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
+
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
+
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) By Kixx XL - English and Spanish - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
@@ -636,19 +656,23 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version thg!, Interpreter version 1.
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ4's official release. Debug mode include.</code>**
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) Missing<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
+
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) - Tested<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) German, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
+
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Missing<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
+
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) French, also includes English language - Tested<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
+
 **Note: <code style="color : blue">Floppy disk version distributed on CD-ROM, but not talkie.</code>**
 
 **Note: <code style="color : blue">Some oxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
@@ -658,7 +682,8 @@ Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.60
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested
 
 Space Quest 5 ${\color{Blue}SCI}$ (v0.028 Interpreter version 1.001.067) Beta Version - Tested<br>
-**Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**<br>
+**Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**
+
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.03 Interpreter version 1.001.068) Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) Tested<br>
 Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.04 Interpreter version 1.001.068) German - Tested<br>
@@ -708,7 +733,8 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 3.00, Interpreter Version 3.002.
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Edition US - Multilingual EN/FR/DE, English voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French edition - Multilingual EN/FR/DE/, French voices - Tested.<br>
-**Note: <code style="color : blue">This version of Torin has an ITALIAN directory, but it contains English language data, not Italian</code>**.<br>
+**Note: <code style="color : blue">This version of Torin has an ITALIAN directory, but it contains English language data, not Italian</code>**.
+
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German edition - Multilingual EN/DE/FR, German voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Russian edition by SoftClub - RU, Russian voices - Tested<br>
 
@@ -728,12 +754,9 @@ Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Ital
 
 **Note: <code style="color : blue">This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.</code>**
 
-**There are two games, which I don't know if they exist in French or not,<br>**
-**Police Quest 3 and Quest for Glory 4 on floppy disk.<br>**
-**There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
+**There are two games, which I don't know if they exist in French or not, Police Quest 3 and Quest for Glory 4 on floppy disk. There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
 
-To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions<br>
-have not been translated. They are the original English versions.
+To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions have not been translated. They are the original English versions.
 
 It's always possible to add lots of details for each game version, but my aim was to make the index as sober as possible.
 
