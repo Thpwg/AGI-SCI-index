@@ -276,6 +276,7 @@ King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.5
 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) Polish - Missing<br>
+King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.GRY.051, Interpreter version*) Polish - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) German, also includes English language - Missing.<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) Italian, also includes English language - Missing<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.060) - Tested
@@ -408,6 +409,7 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) 
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.019) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Polish - Tested<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version*) Polish - Edycja Kolekcjonerska - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
