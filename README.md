@@ -245,7 +245,7 @@ King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.5
 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) Polish - Missing<br>
-King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.GRY.051, Interpreter version 1.000.060) Polish - Komputer Świat Gry - Tested<br>
+King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.GRY.051, Interpreter version 1.000.060) Polish - By Komputer Świat Gry - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) German, also includes English language - Missing.<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) Italian, also includes English language - Missing<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.060) - Tested
@@ -345,13 +345,13 @@ Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0
 
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.343) Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Missing<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Polish - Edycja Kolekcjonerska - Tested<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000, Interpreter version 0.000.409) - Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - Missing
 
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) - Tested<br>
-Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - Edycja Kolekcjonerska - Tested<br>
+Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version S.old.123) Ger - Missing<br>
@@ -375,7 +375,7 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) 
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.019) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Polish - Tested<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version*) Polish - Edycja Kolekcjonerska - Tested
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version*) Polish - By Edycja Kolekcjonerska - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
@@ -386,7 +386,7 @@ Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.1
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) French - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) German - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Spanish - Tested<br>
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter ) Polish - Edycja Kolekcjonerska - Tested<br>
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter ) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter) By Brasoft Games - Tested<br>
 **Note: <code style="color : blue">The Brasoft Brazilian edition is in VGA SCI only and English; no Portuguese localization.</code>**
 
@@ -735,22 +735,12 @@ Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Ital
 To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions<br>
 have not been translated. They are the original English versions.
 
-It's always possible to add lots of details for each game version,<br>
-but my aim was to make the index as sober as possible.
+It's always possible to add lots of details for each game version, but my aim was to make the index as sober as possible.
 
-This index is subject to evolved and may undergo corrections. Feel free to add your comments.<br>
-The aim is to identify existing or as yet unknown games, in order to save resources.
+This index is subject to evolved and may undergo corrections. Feel free to add your comments. The aim is to identify existing or as yet unknown games, in order to save resources.
 
-Sometimes you'll find the same Game and Interpreter version, but with different hashes.<br>
-This is typically because of how the resources are spread out accross the 5.25" and 3.5" disks.<br>
-The higher capacity 3.5" disks can hold more resources, hence the different hash values,<br>
-but the game resources are still identical. 
+Sometimes you'll find the same Game and Interpreter version, but with different hashes. This is typically because of how the resources are spread out accross the 5.25" and 3.5" disks. The higher capacity 3.5" disks can hold more resources, hence the different hash values, but the game resources are still identical. 
 
-A small detail to bear in mind for potential translators, or for any other project.<br>
-All Sierra games are more or less buggy. There are no exceptions!<br>
-It may be a simple error in the code that prevents a phrase<br>
-or action from being displayed, or it may be a serious crash.<br>
-For Talkie games, dubbing is sometimes missing.<br>
-In other words, there's a lot of work to be done.
+A small detail to bear in mind for potential translators, or for any other project. All Sierra games are more or less buggy. There are no exceptions! It may be a simple error in the code that prevents a phrase or action from being displayed, or it may be a serious crash. For Talkie games, dubbing is sometimes missing. In other words, there's a lot of work to be done.
 
 ### ThreepW & DoomL on Github.
