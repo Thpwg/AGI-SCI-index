@@ -407,8 +407,7 @@ Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.1
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) Tested<br>
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) French - Tested<br>
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) German - Tested<br>
-**Note: <code style="color : blue">Larry 6 VGA is often presented as a LOWRES version, while the SVGA version is presented as a HIRES version.<br>
-This is true in terms of resolution, but in reality the SVGA CD-ROM version was released in 1994, a year after the VGA version. The VGA version looks great, it's by no means a low-resolution version for a low-performance computer.</code>**
+**Note: <code style="color : blue">Larry 6 VGA is often presented as a LOWRES version, while the SVGA version is presented as a HIRES version. This is true in terms of resolution, but in reality the SVGA CD-ROM version was released in 1994, a year after the VGA version. The VGA version looks great, it's by no means a low-resolution version for a low-performance computer.</code>**
 
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Tested<br>
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) German - Tested<br>
@@ -559,8 +558,7 @@ Hero's Quest EGA ${\color{Blue}SCI}$ (Game version 1.001, Interpreter version 0.
 Hero's Quest EGA ${\color{Blue}SCI}$ Game version 1.102, Interpreter version 0.000.629) Tested
 
 Quest for Glory 1 EGA ${\color{Blue}SCI}$ (Game version 1.200, Interpreter version 0.000.629) Tested<br>
-**Note: <code style="color : blue">This is not a LOWRES EGA edition of the 1992 remake, but the edition with the definitive name of the series,<br>
-i.e. Quest for Glory and not Hero's Quest.</code>**
+**Note: <code style="color : blue">This is not a LOWRES EGA edition of the 1992 remake, but the edition with the definitive name of the series, i.e. Quest for Glory and not Hero's Quest.</code>**
 
 Quest for Glory 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 2.000.411) Tested<br>
 Quest for Glory 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version L.rry.021) Tested
