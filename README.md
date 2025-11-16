@@ -276,7 +276,7 @@ King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.5
 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) Polish - Missing<br>
-King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.GRY.051, Interpreter version*) Polish - Tested<br>
+King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.GRY.051, Interpreter version 1.000.060) Polish - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) German, also includes English language - Missing.<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) Italian, also includes English language - Missing<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.060) - Tested
