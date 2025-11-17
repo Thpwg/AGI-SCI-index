@@ -716,11 +716,13 @@ Fun Seekers Guide to East Madera County ${\color{Blue}SCI}$ (Game version 1.02, 
 
 ### SEASON'S GREETINGS SERIES:
 
-1986 A Computer Christmas EGA ${\color{Red}AGI}$ (Game version 1, Interpreter Version 2.272) Tested<br>
-1988 A Computer Christmas EGA ${\color{Blue}SCI}$ (Game version 1.04, Interpreter Version 0.000.294) Tested<br>
-1990 Christmas Card - The Seasoned Professional VGA ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.174) Tested<br>
-1990 Christmas Card - The Seasoned Professional ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.172) Tested<br>
-1992 Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) Tested
+A Computer Christmas EGA ${\color{Red}AGI}$ (Game version 1, Interpreter Version 2.272) 1986 - Tested<br>
+A Computer Christmas EGA ${\color{Blue}SCI}$ (Game version 1.04, Interpreter Version 0.000.294) 1988 - Tested<br>
+
+Christmas Card - The Seasoned Professional VGA ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.174) 1990 - Tested<br>
+Christmas Card - The Seasoned Professional ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.172) 1990 - Tested<br>
+
+Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) 1992 - Tested
 
 ### THE BLACK CAULDRON:
 
