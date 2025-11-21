@@ -206,6 +206,8 @@ Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) T
 Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - With debugger - Missing<br>
 Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Windows - Missing
 
+**Note: <code style="color : blue">SCI1 is a whole different story. The internal debugger has been removed from pretty much every (public) release of the games. You can still use the key combination [SHIFT + SHIFT + MINUS], but it will throw you out of the game, due to the absence of the debugger. That said, internal SCI1 debuggers are not non-existant (really early versions, like the interpreter used with "Jones in the Fast Lane" still have their debugger) and work just like the SCI0 ones.</code>**
+
 ### KING'S QUEST SERIES:
 
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1984 - Missing<br>
