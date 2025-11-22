@@ -193,17 +193,16 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)
 
 ### JONES IN THE FAST LANE:
 
-Jones VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
-Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) no debugger - Tested<br>
+Jones VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) Missing<br>
+Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) No debugger - Tested<br>
 Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) with debugger - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "640K + VGA/MCGA (256 COLOR) OR 640K + TANDY (16 CLR) OR 512K + EGA (16 CLR)".</code>**
 
-Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) With or without a debugger, I don't know - Missing<br>
-Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) With debugger - Missing
+Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) Missing<br>
+Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) Missing
 
-Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - No debugger - Tested<br>
-Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - With debugger - Missing<br>
+Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Tested<br>
 Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Windows - Missing
 
 **Note from SCI Programmers Wiki: <code style="color : blue">SCI1 is a whole different story. The internal debugger has been removed from pretty much every (public) release of the games. You can still use the key combination [SHIFT + SHIFT + MINUS], but it will throw you out of the game, due to the absence of the debugger. That said, internal SCI1 debuggers are not non-existant (really early versions, like the interpreter used with "Jones in the Fast Lane" still have their debugger) and work just like the SCI0 ones.</code>**
