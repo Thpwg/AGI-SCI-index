@@ -289,21 +289,17 @@ King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter versi
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.034 Interpreter version 1.001.069) Windows - Tested
 
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.4, Interpreter version 2.100.002) Windows - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) Windows - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) French - Windows - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) German - Best of Sierra Nr 2 - Windows - Tested.<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) Windows - Missing<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) French - Windows - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) German - Windows - Missing<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Italian - MS-DOS - Missing<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Italian - Windows - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - MS-DOS - Missing<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - Windows - Missing<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - MS-DOS/Windows - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) MS-DOS - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) Windows - Missing<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.1b, Interpreter version 2.100.002) Russian by SoftClub - Windows - Missing.<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.4, Interpreter version 2.100.002) Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) French - Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) German - Best of Sierra Nr 2 - Tested.<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) Missing<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) French - Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) German - Missing<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Italian - Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) Tested<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.1b, Interpreter version 2.100.002) Russian by SoftClub - Tested.<br>
 **Note from ScummVM detection tables: <code style="color : blue">Only the Windows AVI files were translated. The DOS RBT files weren't.</code>**
 
 King's Quest 7 ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Missing<br>
