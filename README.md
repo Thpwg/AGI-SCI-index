@@ -497,11 +497,14 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.006, Interpreter versio
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German (Uncensored) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version 3.000.000) French (Uncensored, but missing one scene) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) US/UE (Uncensored) Tested<br>
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) US/AU (Uncensored) Missing<br>
+**Note: <code style="color : blue">Version back 000.7.000.</code>**
+
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) UK (Censored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese (Uncensored) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**
 
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version*, Interpreter version 3.000.000) Australia (Censored) Missing
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.06, Interpreter version 3.000.000) Australia (Censored) Missing
 
 **Note: <code style="color : blue">To learn more about the censorship of [Phantasmagoria 2](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).</code>**
 
