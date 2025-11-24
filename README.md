@@ -553,9 +553,6 @@ Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) French - Missing<br>
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.0c, Interpreter version 2.100.002) Missing
 
-Police Quest: SWAT ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Missing<br>
-**Note: <code style="color : blue">The Japanese version exists, but I haven't found any information on the version number of the game or the Interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
-
 ### QUEST FOR GLORY SERIES: 
 
 Hero's Quest EGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 0.000.566) Tested<br>
