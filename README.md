@@ -612,7 +612,7 @@ Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) F
 Shivers ${\color{Blue}SCI}$ (Game version 1, Interpreter version 2.100.002) German - Tested<br>
 Shivers ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 3.000.000) Missing
 
-Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Tested<br>
+Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Missing<br>
 **Note: <code style="color : blue">The Japanese version exists, but I haven't found any information on the version number of the game or the Interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
 
 **Note from ScummVM detection tables: <code style="color : blue">Shivers 2 doesn't contain SCI scripts. The whole game logic has been reimplemented from SCI in native code placed in DLL files. Each room has its own DLL file, and some SCI functions have been reimplemented/rewritten for this purpose in native code. The game and demo have all the resources of a SCI game, apart from  the SCI scripts themselves. Thus, they cannot be directly supported, unless their whole room logic is rewritten from scratch,<br> which classifies Shivers 2 as "not SCI".</code>**
