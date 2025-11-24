@@ -302,8 +302,8 @@ King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.10
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.1b, Interpreter version 2.100.002) Russian by SoftClub - Tested.<br>
 **Note from ScummVM detection tables: <code style="color : blue">Only the Windows AVI files were translated. The DOS RBT files weren't.</code>**
 
-King's Quest 7 ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Missing<br>
-**Note: <code style="color : blue">The Japanese version exists, but I haven't found any information on the version number of the game or the Interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version*) Japanese - Missing<br>
+**Note: <code style="color : blue">See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
 
 The King's Questions VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
 **Note: <code style="color : blue">Mini-game from the King's Quest Collection.</code>**
