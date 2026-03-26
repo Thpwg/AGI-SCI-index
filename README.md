@@ -629,6 +629,7 @@ Space Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.91
 
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.181) Missing<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.SQ1.004) Patched - Missing<br>
+Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.SQ1.004) Spanish - Tested<br>
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.81) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
 
