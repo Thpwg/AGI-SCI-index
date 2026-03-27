@@ -268,7 +268,7 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.058) - Tested<br>
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.060) Missing<br>
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) - Tested<br>
-King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Missing<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box.</code>**
 
 King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter version x.yyy.zzz) - Tested<br>
