@@ -62,7 +62,7 @@ Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.0
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports 1.000.044.</code>**
 
-Dr. Brain 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
+Dr. Brain 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Spanish, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.004, Interpreter version 1.000.068) Spanish, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version 1.000.068) German, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.068) Tested
