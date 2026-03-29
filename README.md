@@ -24,7 +24,7 @@ For games marked **"Tested"**, I have personally verified the game and interpret
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Beta Version - Tested<br>
 **Note: <code style="color : blue">This beta version was discovered by youtuber LGR who purchased an IBM PCjr previously owned by Sierra that contained a pre-release version. Thanks to him for unearthing the game.</code>**
 
-ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Missing<br>
+ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Tested<br>
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.023, Interpreter version 0.000.668) Tested<br>
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.033, Interpreter version 0.000.685) Tested
 
@@ -237,7 +237,7 @@ King's Quest 4 ${\color{Red}AGI}$ (Game version 2.0, Interpreter version 3.002.0
 King's Quest 4 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 3.002.086) - Tested<br>
 King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.086) - Tested
 
-King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.247) - Missing<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.247) - Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.253) - Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**
 
@@ -320,7 +320,7 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.2
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.069 (just a guess).</code>**
 
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.yyy) Missing<br>
-Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Missing<br>
+Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) German - Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Spanish - Tested<br>
