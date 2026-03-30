@@ -81,11 +81,11 @@ Dr. Brain 2 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.
 ### ECOQUEST SERIES:
 
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) Tested<br>
-Ecoquest 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) French, also includes English language - Tested<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) German, also includes English language - Tested<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) German, also includes English language - Missing<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) Spanish, also includes English language - Tested<br>
+Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) Missing<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.000.286) Tested
 
