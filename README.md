@@ -203,7 +203,7 @@ Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interprete
 Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) Tested
 
 Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Tested<br>
-Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Windows - Missing
+Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Windows - Missing<br>
 **Note: <code style="color : blue">Windows alternate General MIDI music tracks."</code>**
 
 **Note from SCI Programmers Wiki: <code style="color : blue">SCI1 is a whole different story. The internal debugger has been removed from pretty much every (public) release of the games. You can still use the key combination [SHIFT + SHIFT + MINUS], but it will throw you out of the game, due to the absence of the debugger. That said, internal SCI1 debuggers are not non-existant (really early versions, like the interpreter used with "Jones in the Fast Lane" still have their debugger) and work just like the SCI0 ones.</code>**
