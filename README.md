@@ -337,9 +337,6 @@ Larry 1 ${\color{Red}AGI}$ (Game version 1.00 Interpreter version 2.917) Tested<
 Larry 1 ${\color{Red}AGI}$ (Game version 2.00 Interpreter version 2.440) Polish - By Edycja Kolekcjonerska - Tested<br>
 **Note: <code style="color : blue">To my knowledge, this is the only AGI game officially translated into a foreign language.</code>**
 
-Larry 1 ${\color{Red}AGI}$ (Game version?, Interpreter version?) 1988 - Missing<br>
-**Note: <code style="color : blue">AGI Programmers Wiki lists a version from 1988, one year after the game's release, but the site gives no version number for the game or the interpreter.</code>**
-
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">This version is known to be corrupted, SCI interpreter version 1.000.510.</code>**
 
