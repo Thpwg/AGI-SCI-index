@@ -30,7 +30,6 @@ ICEMAN ${\color{Blue}SCI}$ (Game version 1.033, Interpreter version 0.000.685) T
 
 ### CONQUEST SERIES:
 
-Camelot ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
 Camelot ${\color{Blue}SCI}$ (Game version 1.001.000, Interpreter version 0.000.685) Tested
 
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.168) Tested<br>
