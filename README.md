@@ -31,6 +31,7 @@ ICEMAN ${\color{Blue}SCI}$ (Game version 1.033, Interpreter version 0.000.685) T
 ### CONQUEST SERIES:
 
 Camelot ${\color{Blue}SCI}$ (Game version 1.001.000, Interpreter version 0.000.685) Tested
+Camelot ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Missing
 
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.168) Tested<br>
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested<br>
@@ -39,7 +40,7 @@ Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Mi
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.510) Missing<br>
+Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Missing<br>
 Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.175) Tested
 
 ### CRAZY NICK'S SOFTWARE PICKS:
