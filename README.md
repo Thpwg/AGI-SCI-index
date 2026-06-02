@@ -729,7 +729,6 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 1.1K, Interpreter Version 1.12) 
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) Missing<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter Version 2.439) Tested<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.097) Missing<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.098) Tested
 
 ### TORIN PASSAGE:
