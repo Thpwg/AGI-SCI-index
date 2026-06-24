@@ -725,13 +725,14 @@ Christmas Card - The Seasoned Professional ${\color{Green}LOWRES-EGA}$ ${\color{
 Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) 1992 - Tested
 
 ### THE BLACK CAULDRON:
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.097) Tested<br>
-**Note: <code style="color : blue">Lance Ewing said:'I think that BC source is some rare possibly never properly released version'.</code>**
 
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1J, Interpreter Version 1.??) Bootable versions only<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1K, Interpreter Version 1.12) Bootable versions only<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) Bootable versions only<br>
 **Note: <code style="color : blue">The bootable versions are not relevant to this index, but I have still included these versions for people who (like me before) are wondering if these versions exist on regular PC DOS. As of today, the answer is no.</code>**
+
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.097) Tested<br>
+**Note: <code style="color : blue">Lance Ewing said:'I think that BC source is some rare possibly never properly released version'.</code>**
 
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter Version 2.439) Tested<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
