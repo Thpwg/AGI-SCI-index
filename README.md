@@ -224,6 +224,8 @@ King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpret
 
 King's Quest 2 ${\color{Red}AGI}$ (Game version 1.0W, Interpreter version 1.??) - Bootable versions only<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 1.1H, Interpreter version 1.??) - Bootable versions only<br>
+**Note: <code style="color : blue">The bootable versions are not relevant to this index, but I have still included these versions for people who (like me before) are wondering if these versions exist on regular PC DOS. As of today, the answer is no.</code>**
+
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) - Missing<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) - Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2 Interpreter version 2.426) - Tested<br>
@@ -729,6 +731,8 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1J, Interpreter Version 1.??) Bootable versions only<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1K, Interpreter Version 1.12) Bootable versions only<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) Bootable versions only<br>
+**Note: <code style="color : blue">The bootable versions are not relevant to this index, but I have still included these versions for people who (like me before) are wondering if these versions exist on regular PC DOS. As of today, the answer is no.</code>**
+
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter Version 2.439) Tested<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.098) Tested
