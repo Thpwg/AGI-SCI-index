@@ -210,8 +210,8 @@ Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) T
 
 ### KING'S QUEST SERIES:
 
-King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1984 - Missing<br>
-**Note: <code style="color : blue">The existence of this version on PC MS-DOS is confirmed by einstein95.</code>**
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1984 - Bootable versions only<br>
+**Note: <code style="color : blue">Lance Ewing said:'As far as we know, that version of the game only existed in the bootable version. It was not released for PC DOS. Therefore, saying that it does not exist would be a fairly solid assumption'.</code>**
 
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1986 - Tested<br>
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.425) - Tested<br>
@@ -222,8 +222,8 @@ King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpret
 
 **Note: <code style="color : blue">Remake of King's Quest. It uses Sierra's 16-color SCI game interpreter, making it visually similar to the series' fourth installment, with more detailed EGA full-screen graphics and optional mouse support, while retaining text-based input and interaction.</code>**
 
-King's Quest 2 ${\color{Red}AGI}$ (Game version 1.0W, Interpreter version 1.??) - Missing<br>
-King's Quest 2 ${\color{Red}AGI}$ (Game version 1.1H, Interpreter version 1.??) - Missing<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 1.0W, Interpreter version 1.??) - Bootable versions only<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 1.1H, Interpreter version 1.??) - Bootable versions only<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) - Missing<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) - Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2 Interpreter version 2.426) - Tested<br>
@@ -723,10 +723,12 @@ Christmas Card - The Seasoned Professional ${\color{Green}LOWRES-EGA}$ ${\color{
 Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) 1992 - Tested
 
 ### THE BLACK CAULDRON:
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.097) Tested
+**Note: <code style="color : blue">Lance Ewing said:'I think that BC source is some rare possibly never properly released version'.</code>**
 
-Black Cauldron ${\color{Red}AGI}$ (Game version 1.1J, Interpreter Version 1.??) Missing<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 1.1K, Interpreter Version 1.12) Missing<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) Missing<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 1.1J, Interpreter Version 1.??) Bootable versions only<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 1.1K, Interpreter Version 1.12) Bootable versions only<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) Bootable versions only<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter Version 2.439) Tested<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.098) Tested
@@ -735,7 +737,7 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Edition US - Multilingual EN/FR/DE, English voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French edition - Multilingual EN/FR/DE/, French voices - Tested.<br>
-**Note: <code style="color : blue">This version of Torin has an ITALIAN directory, but it contains English language data, not Italian</code>**.
+**Note: <code style="color : blue">This version of Torin has an ITALIAN directory, but it contains English language data, not Italian.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German edition - Multilingual EN/DE/FR, German voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Russian edition by SoftClub - RU, Russian voices - Tested<br>
