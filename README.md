@@ -723,7 +723,7 @@ Christmas Card - The Seasoned Professional ${\color{Green}LOWRES-EGA}$ ${\color{
 Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) 1992 - Tested
 
 ### THE BLACK CAULDRON:
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.097) Tested
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.097) Tested<br>
 **Note: <code style="color : blue">Lance Ewing said:'I think that BC source is some rare possibly never properly released version'.</code>**
 
 Black Cauldron ${\color{Red}AGI}$ (Game version 1.1J, Interpreter Version 1.??) Bootable versions only<br>
