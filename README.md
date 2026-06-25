@@ -5,6 +5,8 @@ This index is based on my experiences as a Sierra games-loving translator, but a
 
 Special recognition to Eric Oakford, pioneer of AGI/SCI engines decompilation.
 
+Heartfelt thanks to Lance Ewing for his knowledge of Sierra games, their history, game versions and interpreter versions.
+
 I'd like to take this opportunity to say a friendly hello to Chris Benshoof, aka Sluicebox, the Professor Hubert J. Farnsworth of SCI!
 
 Special thanks to Collector for his Sierra Version Tool software.
