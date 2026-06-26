@@ -212,10 +212,12 @@ Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) T
 
 ### KING'S QUEST SERIES:
 
-King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1984 - Bootable versions only<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) Bootable versions only<br>
 **Note: <code style="color : blue">Lance Ewing said:'As far as we know, that version of the game only existed in the bootable version. It was not released for PC DOS. Therefore, saying that it does not exist would be a fairly solid assumption'.</code>**
 
-King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) 1986 - Tested<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) - Tested<br>
+**Note: <code style="color : blue">This version of King's Quest 1 dates back to 1986, it is the first known version on PC DOS. All previous versions are bootable versions.</code>**
+
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.425) - Tested<br>
 King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.917) - Tested
 
