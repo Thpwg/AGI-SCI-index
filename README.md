@@ -1,7 +1,7 @@
 # AGI-SCI-index
 ### Official Sierra Game version and Interpreter version, AGI and SCI, PC only.
 
-This index is based on my experiences as a Sierra games-loving translator, but also on the games referenced by AGI Programmers Wiki, SCI Programmers Wiki ScummVM detection tables, EricOakford AGI and SCI decompilation archives, Sluicebox's sci-scripts and SCIprogramming specialists.
+This index is based on my experiences as a Sierra games-loving translator, but also on the games referenced by Sierra Wiki, ScummVM detection tables, EricOakford AGI and SCI decompilation archives, Sluicebox's sci-scripts and SCIprogramming specialists.
 
 Special recognition to Eric Oakford, pioneer of AGI/SCI engines decompilation.
 
