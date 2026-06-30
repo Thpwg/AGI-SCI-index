@@ -23,7 +23,7 @@ For games marked **"Tested"**, I have personally verified the game and interpret
 
 ### CODE-NAME ICEMAN:
 
-ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Beta Version - Tested<br>
+ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Beta version - Tested<br>
 **Note: <code style="color : blue">This beta version was discovered by youtuber LGR who purchased an IBM PCjr previously owned by Sierra that contained a pre-release version. Thanks to him for unearthing the game.</code>**
 
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Tested<br>
@@ -110,28 +110,28 @@ Ecoquest 2 ${\color{Blue}SCI}$ (Game version 9.999.999, Interpreter version 1.00
 ### FREDDY PHARKAS:
 
 Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version I.cfs.081) MS-DOS - Tested<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.069 Windows - Tested
+- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version I.cfs.081) MS-DOS - Tested<br>
+- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069 Windows - Tested
 
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) Tested<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) French - Tested<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) German - Tested<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.cfs.081) Spanish - Tested<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Missing<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) German - Missing<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) Spanish - Missing
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Tested<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) French - Tested<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) German - Tested<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Spanish - Tested<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) Missing<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) German - Missing<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) Spanish - Missing
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Freddy Pharkas CD dual MS-DOS and Windows interpreter SCI:<br>
-- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.132) MS-DOS - Tested<br>
-- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter Version 1.001.095) Windows - Tested
+- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) MS-DOS - Tested<br>
+- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.095) Windows - Tested
 
-Freddy Pharkas Floppy disk demo ${\color{Blue}SCI}$ (v1.000 Interpreter Version 1.001.069) Mini-game full<br>
+Freddy Pharkas Floppy disk demo ${\color{Blue}SCI}$ (v1.000 Interpreter version 1.001.069) Mini-game full<br>
 **Note: <code style="color : blue">The playable demo of Freddy Pharkas contains a short unique scenario that is not part of the adventure in the full game.</code>**
 
-Freddy Pharkas CD demo ${\color{Blue}SCI}$ (Game version 1.000.000 Interpreter Version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.<br>
+Freddy Pharkas CD demo ${\color{Blue}SCI}$ (Game version 1.000.000 Interpreter version 1.001.095) Mini-game full - Talkie, with Al Lowe voice.<br>
 **Note: <code style="color : blue">The playable demo of Freddy Pharkas contains a short unique scenario that is not part of the adventure in the full game.</code>**
 
 ### GABRIEL KNIGHT SERIES:
@@ -223,9 +223,7 @@ King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpret
 
 **Note: <code style="color : blue">Remake of King's Quest. It uses Sierra's 16-color SCI game interpreter, making it visually similar to the series' fourth installment, with more detailed EGA full-screen graphics and optional mouse support, while retaining text-based input and interaction.</code>**
 
-King's Quest 2 ${\color{Red}AGI}$ (Game version 1.0W, Interpreter version 1.??) - Bootable versions only<br>
-King's Quest 2 ${\color{Red}AGI}$ (Game version 1.1H, Interpreter version 1.??) - Bootable versions only<br>
-**Note: <code style="color : blue">The bootable versions are not relevant to this index, but I have still included these versions for people who (like me before) are wondering if these versions exist on regular PC DOS. As of today, the answer is no.</code>**
+**Note: <code style="color : blue">About King's Quest 2. For those wondering if the game versions 1.0W and 1.1H with an interpreter version of 1.?? exist on regular PC DOS, the answer is no. They are bootable versions.</code>**
 
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) - Missing<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) - Tested<br>
@@ -456,37 +454,37 @@ Manhunter 2 ${\color{Red}AGI}$ (Game version 3.03, Interpreter version 3.002.149
 
 ### MIXED-UP FAIRY TALES:
 
-Fairy Tales ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Version 1.000.145) Tested
+Fairy Tales ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.000.145) Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Fairy Tales ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000 Interpreter Version 1.000.158) Tested
+Fairy Tales ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.000.158) Tested
 
 ### MIXED-UP MOTHER GOOSE:
 
-Mother Goose ${\color{Red}AGI}$ (Game version 1.00D, Interpreter Version 2.915) Tested
+Mother Goose ${\color{Red}AGI}$ (Game version 1.00D, Interpreter version 2.915) Tested
 
-Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 1.011, Interpreter Version 0.000.685) Tested<br>
-Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter Version 0.000.685) Missing
+Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 1.011, Interpreter version 0.000.685) Tested<br>
+Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 0.000.685) Missing
 
-Mother Goose VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter Version 1.001.031) Tested
+Mother Goose VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.031) Tested
 
-Mother Goose CD VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version x.yyy.zzz) Talkie - English, French and German - Tested<br>
+Mother Goose CD VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version x.yyy.zzz) Talkie - English, French and German - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version  0.000.999 (just a guess).</code>**
 
-Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version 2.100.002) Tested<br>
-Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version 2.100.002) English, French, German and Spanish - Tested<br>
-Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter Version 2.100.002) English and Spanish - Tested
+Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
+Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) English, French, German and Spanish - Tested<br>
+Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) English and Spanish - Tested
 
 ### PHANTASMAGORIA SERIES:
 
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Inerpreter version 2.100.002) Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Inerpreter version 2.100.002) Russian - Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Inerpreter version 2.100.002) Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version 2.100.002) Tested - Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version 2.100.002) French - Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version 2.100.002) German - Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Inerpreter version 2.100.002) Italian - Tested
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Tested<br>
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Russian - Tested<br>
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Tested - Tested<br>
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) French - Tested<br>
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) German - Tested<br>
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Italian - Tested
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) US (Uncensored) Missing<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) Missing<br>
@@ -594,14 +592,14 @@ Quest for Glory 4 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 
 
 ### RAMA:
 
-Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter Version 3.000.000) Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter Version 3.000.000) French - Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter Version 3.000.000) Japanese -Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter Version 3.000.000) French - Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter Version 3.000.000) German - Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter Version 3.000.000) Italian - Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter Version 3.000.000) Missing<br>
-Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter Version 3.000.000) Japanese - Missing
+Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.000) Tested<br>
+Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.000) French - Tested<br>
+Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.000) Japanese -Tested<br>
+Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) French - Tested<br>
+Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) German - Tested<br>
+Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) Italian - Tested<br>
+Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) Missing<br>
+Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) Japanese - Missing
 
 ### SHIVERS SERIES: 
 
@@ -717,27 +715,25 @@ Fun Seekers Guide to East Madera County ${\color{Blue}SCI}$ (Game version 1.02, 
 
 ### SEASON'S GREETINGS SERIES:
 
-A Computer Christmas EGA ${\color{Red}AGI}$ (Game version 1, Interpreter Version 2.272) 1986 - Tested<br>
-A Computer Christmas EGA ${\color{Blue}SCI}$ (Game version 1.04, Interpreter Version 0.000.294) 1988 - Tested<br>
+A Computer Christmas EGA ${\color{Red}AGI}$ (Game version 1, Interpreter version 2.272) 1986 - Tested<br>
+A Computer Christmas EGA ${\color{Blue}SCI}$ (Game version 1.04, Interpreter version 0.000.294) 1988 - Tested<br>
 
-Christmas Card - The Seasoned Professional VGA ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.174) 1990 - Tested<br>
-Christmas Card - The Seasoned Professional ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter Version 1.000.172) 1990 - Tested<br>
+Christmas Card - The Seasoned Professional VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.174) 1990 - Tested<br>
+Christmas Card - The Seasoned Professional ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) 1990 - Tested<br>
 
 Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Version 1.001.055) 1992 - Tested
 
 ### THE BLACK CAULDRON:
 
-Black Cauldron ${\color{Red}AGI}$ (Game version 1.1J, Interpreter Version 1.??) Bootable versions only<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 1.1K, Interpreter Version 1.12) Bootable versions only<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 1.1M, Interpreter Version 1.12) Bootable versions only<br>
-**Note: <code style="color : blue">The bootable versions are not relevant to this index, but I have still included these versions for people who (like me before) are wondering if these versions exist on regular PC DOS. As of today, the answer is no.</code>**
+**Note: <code style="color : blue">For those wondering if the Game versions 1.1J, 1.1K, and 1.1M with an Interpreter version of 1.12 exist on regular PC DOS, the answer is no. They are bootable versions.</code>**
 
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.097) Tested<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.097) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">BC.QA says "Interpreter: 3.002.097", while AGIDATA.OVL is "3.002.098".</code>**<br>
 **Note: <code style="color : blue">Lance Ewing said:'I think that BC source is some rare possibly never properly released version'.</code>**
 
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter Version 2.439) Tested<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.089) Missing<br>
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter Version 3.002.098) Tested
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter version 2.439) Tested<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.089) Missing<br>
+Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.098) Tested
 
 ### TORIN PASSAGE:
 
