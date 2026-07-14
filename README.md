@@ -352,7 +352,7 @@ Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version*, I
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.575) - Tested
 
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.343) Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Missing<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000, Interpreter version 0.000.409) - Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - Missing
