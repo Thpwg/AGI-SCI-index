@@ -225,7 +225,7 @@ King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpret
 
 **Note: <code style="color : blue">About King's Quest 2. For those wondering if the game versions 1.0W and 1.1H with an interpreter version of 1.?? exist on regular PC DOS, the answer is no. They are bootable versions.</code>**
 
-King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) - Missing<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) - Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) - Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2 Interpreter version 2.426) - Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.2917) - Tested
@@ -239,7 +239,7 @@ King's Quest 4 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 3.002.0
 King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.086) - Tested
 
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.247) - Tested<br>
-King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.253) - Missing<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version unknown, Interpreter version 0.000.253) - Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**
 
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
