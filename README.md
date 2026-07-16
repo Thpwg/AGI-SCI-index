@@ -762,7 +762,7 @@ Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Ital
 
 **There are two games, which I don't know if they exist in French or not, Police Quest 3 and Quest for Glory 4 on floppy disk. There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
 
-To my knowledge, the Czech, Israeli, Korean and Chinese Taiwanese editions have not been translated. They are the original English versions.
+To my knowledge, the Czech, Israeli and Korean have not been translated. They are the original English versions. **On the other hand, it is quite possible that some Sierra games offered by Soft World are officially localized in Chinese: https://grokipedia.com/page/soft_world The rarity of Sierra Soft World games and their extravagant prices mean that I have never been able to test one. I remain therefore in suspense...
 
 It's always possible to add lots of details for each game version, but my aim was to make the index as sober as possible.
 
