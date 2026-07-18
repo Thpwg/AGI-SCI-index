@@ -529,7 +529,7 @@ Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A0
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
 
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.021) Spanish - Tested<br>
-Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.pq3.021) Missing
+Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.pq3.021) Spanish, also includes English language - Missing
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
