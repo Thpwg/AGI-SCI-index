@@ -573,7 +573,7 @@ Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.102, Interpreter version 0
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.102, Interpreter version 0.001.072) Missing<br>
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.000.072) Tested<br>
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.001.072) Missing<br>
-Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.000.087) Tested<br>
+Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 1.000.087) Tested<br>
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.001.087) Missing
 
 Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.050) Tested<br>
