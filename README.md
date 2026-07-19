@@ -512,7 +512,7 @@ Pepper ${\color{Blue}SCI}$ (Game version 1.00 Interpreter, version 1.001.072 + W
 ### POLICE QUEST SERIES: 
 
 Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.903) Missing<br>
-Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.911) Missing<br>
+Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.911) Tested<br>
 Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0E, Interpreter version 2.915) Tested<br>
 Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0G, Interpreter version 2.917) Tested
 
