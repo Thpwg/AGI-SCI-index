@@ -38,7 +38,7 @@ Camelot ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Mi
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.168) Tested<br>
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested<br>
 Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.168) Tested<br>
-Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Missing
+**Note from ScummVM detection tables: <code style="color : blue">Label reports Interpreter version 1.000.510.</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
