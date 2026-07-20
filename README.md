@@ -228,7 +228,7 @@ King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpret
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) Tested<br>
 King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2 Interpreter version 2.426) Tested<br>
-King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.2917) Tested
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.917) Tested
 
 King's Quest 3 ${\color{Red}AGI}$ (Game version 1.01, Interpreter version 2.272) Tested<br>
 King's Quest 3 ${\color{Red}AGI}$ (Game version 2.00, Interpreter version 2.435) Tested<br>
