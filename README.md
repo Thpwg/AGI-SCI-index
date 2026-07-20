@@ -212,51 +212,51 @@ Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) T
 
 ### KING'S QUEST SERIES:
 
-King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) - Tested<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 1.0U, Interpreter version 2.272) Tested<br>
 **Note: <code style="color : blue">This version of King's Quest 1 dates back to 1986, it is the first known version on PC DOS. All previous versions are bootable versions.</code>**
 
-King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.425) - Tested<br>
-King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.917) - Tested
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.425) Tested<br>
+King's Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0F, Interpreter version 2.917) Tested
 
-King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpreter version S.old.010) - Tested<br>
+King's Quest 1 EGA ${\color{Blue}SCI}$ Remake (Game version 1.000.051, Interpreter version S.old.010) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.999.</code>**
 
 **Note: <code style="color : blue">Remake of King's Quest. It uses Sierra's 16-color SCI game interpreter, making it visually similar to the series' fourth installment, with more detailed EGA full-screen graphics and optional mouse support, while retaining text-based input and interaction.</code>**
 
 **Note: <code style="color : blue">About King's Quest 2. For those wondering if the game versions 1.0W and 1.1H with an interpreter version of 1.?? exist on regular PC DOS, the answer is no. They are bootable versions.</code>**
 
-King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) - Tested<br>
-King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) - Tested<br>
-King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2 Interpreter version 2.426) - Tested<br>
-King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.2917) - Tested
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.1, Interpreter version 2.411) Tested<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.936) Tested<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2 Interpreter version 2.426) Tested<br>
+King's Quest 2 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 2.2917) Tested
 
-King's Quest 3 ${\color{Red}AGI}$ (Game version 1.01, Interpreter version 2.272) - Tested<br>
-King's Quest 3 ${\color{Red}AGI}$ (Game version 2.00, Interpreter version 2.435) - Tested<br>
-King's Quest 3 ${\color{Red}AGI}$ (Game version 2.14, Interpreter version 2.936) - Tested
+King's Quest 3 ${\color{Red}AGI}$ (Game version 1.01, Interpreter version 2.272) Tested<br>
+King's Quest 3 ${\color{Red}AGI}$ (Game version 2.00, Interpreter version 2.435) Tested<br>
+King's Quest 3 ${\color{Red}AGI}$ (Game version 2.14, Interpreter version 2.936) Tested
 
-King's Quest 4 ${\color{Red}AGI}$ (Game version 2.0, Interpreter version 3.002.086) - Tested<br>
-King's Quest 4 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 3.002.086) - Tested<br>
-King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.086) - Tested
+King's Quest 4 ${\color{Red}AGI}$ (Game version 2.0, Interpreter version 3.002.086) Tested<br>
+King's Quest 4 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 3.002.086) Tested<br>
+King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.086) Tested
 
-King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.247) - Tested<br>
-King's Quest 4 ${\color{Blue}SCI}$ (Game version unknown, Interpreter version 0.000.253) - Missing<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.247) Tested<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version unknown, Interpreter version 0.000.253) Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**
 
-King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) - Tested<br>
-King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.111, Interpreter version 0.000.274) - Tested<br>
-King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) - Tested<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) Tested<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.111, Interpreter version 0.000.274) Tested<br>
+King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) Tested<br>
 **Note: <code style="color : blue">Requires [KQ4FIX official patch to be playable](http://sierrahelp.com/Files/download.php?file=Patches/KingsQuest/KQ4(KQ4FIX).zip).</code>**
 
-King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.003, Interpreter version 0.000.502) - Tested<br>
-King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.004, Interpreter version 0.000.502) - Tested<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.003, Interpreter version 0.000.502) Tested<br>
+King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.006.004, Interpreter version 0.000.502) Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.1 Interpreter version 0.000.503) By Didigal Distribution, with Amiga sounds - Tested
 
-King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) - Tested<br>
+King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.051, Interpreter version 1.000.060) Polish - Missing<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.GRY.051, Interpreter version 1.000.060) Polish - By Komputer Świat Gry - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) German, also includes English language - Missing.<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.060) Italian, also includes English language - Missing<br>
-King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.060) - Tested
+King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.060) Tested
 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) French, also includes English language - Tested<br>
@@ -266,16 +266,16 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.058) - Tested<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.058) Tested<br>
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.060) Missing<br>
-King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) - Tested<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) Tested<br>
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box.</code>**
 
-King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter version x.yyy.zzz) - Tested<br>
+King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter version x.yyy.zzz) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.784.</code>**
 
-King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) - Tested<br>
+King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) French - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) German - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version l.cfs.158) Spanish - Missing<br>
@@ -285,8 +285,8 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
-King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
-King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) - Tested<br>
+King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
+King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.000.00G" SCI interpreter version 1.001.054.</code>**
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.034 Interpreter version 1.001.069) Windows - Tested
@@ -342,35 +342,35 @@ Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1
 **Note from ScummVM detection tables: <code style="color : blue">This version is known to be corrupted, SCI interpreter version 1.000.510.</code>**
 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) No copy protection - Tested<br>
-Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) - Tested<br>
+Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Polish - By Edycja Kolekcjonerska - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.510 (or 0.000.577?) Missing<br>
-Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.575) - Tested
+Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.575) Tested
 
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.343) Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Polish - By Edycja Kolekcjonerska - Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000, Interpreter version 0.000.409) - Tested<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000, Interpreter version 0.000.409) Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - Missing
 
-Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 - Tested<br>
-Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) - Tested<br>
+Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 Tested<br>
+Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
 
-Larry 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version S.old.123) Ger - Missing<br>
+Larry 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version S.old.123) German - Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
 
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114) German, also includes English language - Tested
 
 Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html).
 
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) - Tested<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
 
 **Note: <code style="color : blue">The Brasoft Brazilian edition is in English; no Portuguese localization.</code>**
@@ -657,13 +657,13 @@ Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.00.
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version thg!, Interpreter version 1.000342) Beta Version - Tested<br>
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ4's official release. Debug mode include.</code>**
 
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) - Tested<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) Missing<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
 
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) - Tested<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) Tested<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
 
@@ -681,7 +681,7 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1
 
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.60, Interpreter version 1.000.744) Tested
 
-Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) - Tested
+Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) Tested
 
 Space Quest 5 ${\color{Blue}SCI}$ (v0.028 Interpreter version 1.001.067) Beta Version - Tested<br>
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ5's official release. Debug mode include.</code>**
@@ -698,7 +698,7 @@ Space Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Tested<br>
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French - Tested<br>
 Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German - Tested<br>
-Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) - Tested
+Space Quest 6 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) Tested
 
 Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) From Sneak Peeks 2 - Mini-game full - No speech - Tested<br>
 Space Quest 6 demo ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.100.002) Mini-game full - Talkie - Tested<br>
