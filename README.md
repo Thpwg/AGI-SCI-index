@@ -196,7 +196,7 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)
 
 ### JONES IN THE FAST LANE:
 
-Jones VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 1.000.172) Missing<br>
+Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version 1.000.172) Tested<br>
 Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) Tested<br>
 
 **Note: <code style="color : blue">Some boxes indicated "640K + VGA/MCGA (256 COLOR) OR 640K + TANDY (16 CLR) OR 512K + EGA (16 CLR)".</code>**
