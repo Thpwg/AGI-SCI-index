@@ -650,9 +650,9 @@ Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0P, Interpreter version 0.000.
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0U, Interpreter version 0.000.453) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0V, Interpreter version 0.000.453) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.000.453) Tested<br>
-Space Quest 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version 0.000.453) German, also includes English language - Missing<br>
+Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.00.685) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version S.old.114) German, also includes English language - Tested<br>
-Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.00.685) Tested
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.453 (ScummVM guess).</code>**
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version thg!, Interpreter version 1.000342) Beta Version - Tested<br>
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ4's official release. Debug mode include.</code>**
