@@ -36,6 +36,7 @@ Camelot ${\color{Blue}SCI}$ (Game version 1.001.000, Interpreter version 0.000.6
 Camelot ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Missing
 
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.168) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Label reports Interpreter version 1.000.510.</code>**
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested<br>
 Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.168) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Label reports Interpreter version 1.000.510.</code>**
@@ -240,11 +241,10 @@ King's Quest 4 ${\color{Red}AGI}$ (Game version 2.2, Interpreter version 3.002.0
 King's Quest 4 ${\color{Red}AGI}$ (Game version 2.3, Interpreter version 3.002.086) Tested
 
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.247) Tested<br>
-King's Quest 4 ${\color{Blue}SCI}$ (Game version unknown, Interpreter version 0.000.253) Missing<br>
-**Note from ScummVM detection tables: <code style="color : blue">K4091988.QA file reports "SCI Version 0.000.247 (2nd rev)".</code>**
-
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "0.000.253".</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.106, Interpreter version 0.000.274) Tested<br>
 King's Quest 4 ${\color{Blue}SCI}$ (Game version 1.000.111, Interpreter version 0.000.274) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "0.000.253".</code>**<br>
 King's Quest 4 ${\color{Blue}SCI}$ (v1.003.006, Interpreter version 0.000.409) Tested<br>
 **Note: <code style="color : blue">Requires [KQ4FIX official patch to be playable](http://sierrahelp.com/Files/download.php?file=Patches/KingsQuest/KQ4(KQ4FIX).zip).</code>**
 
@@ -261,6 +261,7 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) French, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) German, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Some versions indicate, v0.000.149 VERSION file reports "1.000", SCI interpreter version 1.000.784.</code>**<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Italian, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Spanish, also includes English language - Tested
 
@@ -269,11 +270,13 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.058) Tested<br>
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.060) Missing<br>
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) Tested<br>
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) German - Missing<br>
+**Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.121 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**<br>
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
 
 King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter version x.yyy.zzz) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.784.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "x.yyy.zzz", VERSION file reports "1.000.052" SCI interpreter version 1.000.784.</code>**
 
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) French - Tested<br>
