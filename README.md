@@ -527,11 +527,9 @@ Police Quest 2 ${\color{Blue}SCI}$ (Game version 1.001.006 Interpreter version 0
 Police Quest 2 ${\color{Blue}SCI}$ (Game version 1.002.011 Interpreter version 0.000.490) Tested
 
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version T.A00.178)<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
-
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.178) German, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
-
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.021) Spanish - Tested<br>
 Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.pq3.021) Spanish, also includes English language - Missing
 
