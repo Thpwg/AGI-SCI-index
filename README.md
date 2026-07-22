@@ -195,7 +195,7 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)
 - 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version 5.1, Interpreter version 2.100.002) Tested
 
 1996 Hoyle Classic Solitaire VGA ${\color{Blue}SCI}$ (Game version* Interpreter version 2.100.002) CD and Hard Drive versions - Tested<br>
-**Note from MobyGames: <code style="color : blue"> Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2 with the 28 solitaire games found in that old release, upgraded with new looks, sounds and mouse control. A Card Flick game has been added.</code>**
+**Note from MobyGames: <code style="color : blue">Windows version of the MS-DOS Hoyle Official Book of Games: Volume 2 with the 28 solitaire games found in that old release, upgraded with new looks, sounds and mouse control. A Card Flick game has been added.</code>**
 
 ### JONES IN THE FAST LANE:
 
