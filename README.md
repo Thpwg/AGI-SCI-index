@@ -365,7 +365,7 @@ Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 T
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123) French, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114 + Windows interpreter S.old.123) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
 
