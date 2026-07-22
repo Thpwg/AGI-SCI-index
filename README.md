@@ -84,12 +84,13 @@ Dr. Brain 2 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.
 ### ECOQUEST SERIES:
 
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (ScummVM guess).</code>**<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) French, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (ScummVM guess).</code>**<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) German, also includes English language - Tested<br>
-Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) German, also includes English language - Missing<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (ScummVM guess).</code>**<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.013) Spanish, also includes English language - Tested<br>
-Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) Missing<br>
-Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.510) Spanish, also includes English language - Missing<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (ScummVM guess).</code>**<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.000.286) Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
@@ -114,13 +115,15 @@ Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
 - ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069 Windows - Tested
 
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) French - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) German - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) French - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Spanish - Tested<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) Missing<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) German - Missing<br>
-Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) Spanish - Missing
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
@@ -277,8 +280,8 @@ King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter versi
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) French - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) German - Tested<br>
-King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version l.cfs.158) Spanish - Missing<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.158 ) Italian - Tested<br>
+King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version l.cfs.158) Spanish - Missing<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version l.cfs.158) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.000.000" SCI interpreter version 1.001.055.</code>**
 
@@ -286,7 +289,7 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.000.00G" SCI interpreter version 1.001.054.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.034 - Game version 1.000.00G" SCI interpreter version 1.001.054.</code>**
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.034 Interpreter version 1.001.069) Windows - Tested
 
@@ -324,7 +327,9 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) German - Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Spanish - Tested<br>
+
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.274) Spanish - Missing
+**Note from ScummVM detection tables: <code style="color : blue">This is the floppy version (text-only) distributed on a CD. Executable scanning reports "2.000.274", VERSION file reports "1.000.000".</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
