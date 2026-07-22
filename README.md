@@ -36,7 +36,7 @@ Camelot ${\color{Blue}SCI}$ (Game version 1.001.000, Interpreter version 0.000.6
 Camelot ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) Missing
 
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.168) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Label reports Interpreter version 1.000.510.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Label reports Interpreter version 1.000.510.</code>**<br>
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested<br>
 Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.168) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Label reports Interpreter version 1.000.510.</code>**
