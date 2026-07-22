@@ -317,11 +317,11 @@ Inside The Chest/Behind the Developers' Shield ${\color{Blue}SCI}$ (Game version
 ### LAURA BOW SERIES:
 
 Laura Bow 1 ${\color{Blue}SCI}$ (Game version 1.000.046, Interpreter version 0.000.631) Tested
-
+Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.072) Tested<br>
+**Note from wiki.sierrahelp: <code style="color : blue">x.yyy.yyy is clearly a standard value, so these game do have different interpreters. The games which share the same interpreter are grouped by separating different versions with a blank line.</code>**
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.274) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.069 (just a guess).</code>**
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.069 (just a guess).</code>**<br>
 
-Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.yyy) Missing<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) German - Tested<br>
@@ -507,7 +507,7 @@ Pepper ${\color{Blue}SCI}$ (Game version 1.00 Interpreter, version 1.001.072 + W
 
 ### POLICE QUEST SERIES: 
 
-Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.903) Missing<br>
+Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.903) Tested<br>
 Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0A, Interpreter version 2.911) Tested<br>
 Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0E, Interpreter version 2.915) Tested<br>
 Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0G, Interpreter version 2.917) Tested
