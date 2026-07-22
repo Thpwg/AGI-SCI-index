@@ -366,33 +366,26 @@ Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) 
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
-
-Larry 3 ${\color{Blue}SCI}$ (Game version*, Interpreter version S.old.123) German - Missing<br>
+Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114 + Windows interpreter S.old.123) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
-
-Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114) German, also includes English language - Tested
 
 Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html).
 
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) German, also includes English language - Missing<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8  + Windows interpreter S.old.123) German, also includes English language - Tested<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Italian - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.019) French, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
+Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Polish - By Edycja Kolekcjonerska - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
 
 **Note: <code style="color : blue">The Brasoft Brazilian edition is in English; no Portuguese localization.</code>**
-
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) German, also includes English language - Missing<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version*, Interpreter version T.A00.196) German only - Missing<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8) German, also includes English language - Tested<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
-
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Italian - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
-
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.019) French, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**
-
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Polish - Tested<br>
-Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version*) Polish - By Edycja Kolekcjonerska - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
