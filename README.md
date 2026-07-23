@@ -258,12 +258,12 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.060) Italian, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.060) Tested
 
-King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) French, also includes English language - Tested<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Some versions indicate, v0.000.149 VERSION file reports "1.000", SCI interpreter version 1.000.784.</code>**<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Italian, also includes English language - Tested<br>
-King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Spanish, also includes English language - Tested
+King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Spanish, also includes English language - Tested<br>
+King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish, also includes English language - Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
