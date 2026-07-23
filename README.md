@@ -330,7 +330,10 @@ Laura Bow 1 ${\color{Blue}SCI}$ (Game version 1.000.046, Interpreter version 0.0
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.072) Tested<br>
 **Note from wiki.sierrahelp: <code style="color : blue">x.yyy.yyy is clearly a standard value, so these game do have different interpreters. The games which share the same interpreter are grouped by separating different versions with a blank line.</code>**<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.274) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.069 (just a guess).</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274" SCI interpreter version 1.001.069 (just a guess).</code>**
+
+Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.000.274) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274" SCI interpreter version 1.001.069 (just a guess).</code>**
 
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
