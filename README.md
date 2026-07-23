@@ -260,16 +260,16 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 
 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.060) German, also includes English language - Missing.<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.060) Italian, also includes English language - Tested<br>
-**Note: <code style="color : blue">The "About the Game" icon indicates, game version 0.000.149.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Some versions indicate, game version 0.000.149.</code>**<br>
 
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) French, also includes English language - Tested<br>
-**Note: <code style="color : blue">The "About the Game" icon indicates, game version 0.000.148.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Some versions indicate, game version 0.000.148.</code>**<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) German, also includes English language - Tested<br>
-**Note: <code style="color : blue">The "About the Game" icon indicates, game version 0.000.149.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Some versions indicate, game version 0.000.149.</code>**<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Italian, also includes English language - Tested<br>
-**Note: <code style="color : blue">The "About the Game" icon indicates, game version 0.000.149.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue"Some versions indicate, game version 0.000.149.</code>**<br>
 King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.784) Spanish, also includes English language - Tested
-**Note: <code style="color : blue">The "About the Game" icon indicates, game version 0.000.162.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Some versions indicate, game version 0.000.162.</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
