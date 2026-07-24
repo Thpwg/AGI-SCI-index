@@ -15,7 +15,7 @@ I'd also like to say hello to friends of the translation forums, Abandonware-for
 
 Many thanks to Doomlazer, friend, teammate and Sierra games enthusiast!
 
-For games marked **"${\color{Blue}Tested}$"**, I have personally verified the game and interpreter versions. Games marked **"${\color{Red}Missing}$<br>"** are listed by other resources, but I was not personally able to  verify their existence.
+For games marked "${\color{Blue}Tested}$", I have personally verified the game and interpreter versions. Games marked "${\color{Red}Missing}$<br>" are listed by other resources, but I was not personally able to  verify their existence.
 
 **About interpreter version x.yyy.yyy, Collector's note:** "The int guess comes from the SVM hash tables. there are a number of interpreters that did not have a proper version number. A number of interpreters ID as **"x.yyy.zzz"**. I suspect that this was a place holder for the actual version that was not updated to what it should have been before the build. The SVM guess is probably based on features and how it reads game data."
 
