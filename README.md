@@ -23,8 +23,8 @@ For games marked **"Tested"**, I have personally verified the game and interpret
 
 ### CODE-NAME ICEMAN:
 
-ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Beta version - Tested<br>
-**Note: <code style="color : blue">This beta version was discovered by youtuber LGR who purchased an IBM PCjr previously owned by Sierra that contained a pre-release version. Thanks to him for unearthing the game.</code>**
+ICEMAN ${\color{Blue}SCI}$ (Game version 1.009, Interpreter version 0.000.668) Beta version - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">This is a special debug build Clint Basinger ("LGR") salvaged from a IBM PCjr previously owned by Ken Williams himself. It contains some additional shortcuts to help the original developers debugging the game. More information: https://www.youtube.com/watch?v=Z-VBITW94zI</code>**
 
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.022, Interpreter version 0.000.668) Tested<br>
 ICEMAN ${\color{Blue}SCI}$ (Game version 1.023, Interpreter version 0.000.668) Tested<br>
