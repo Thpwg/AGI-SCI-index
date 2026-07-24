@@ -308,7 +308,7 @@ King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) German - Best of Sierra Nr 2 - Tested.<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) ${\color{Red}Missing}$<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) French - Tested<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) German - Missing<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) German - ${\color{Red}Missing}$<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Italian - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Spanish - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 2.100.002) Tested<br>
@@ -371,7 +371,7 @@ Larry 2 ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.3
 Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000, Interpreter version 0.000.409) Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - Missing
+Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - ${\color{Red}Missing}$
 
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Tested<br>
@@ -556,7 +556,7 @@ Police Quest 4 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.1
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.100.002) Tested<br>
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.100.002) French - Tested<br>
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) ${\color{Red}Missing}$<br>
-Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) French - Missing<br>
+Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) French - ${\color{Red}Missing}$<br>
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.0c, Interpreter version 2.100.002) ${\color{Red}Missing}$
 
 ### QUEST FOR GLORY SERIES: 
@@ -581,7 +581,7 @@ Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.102, Interpreter version 0
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.000.072) Tested<br>
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.001.072) ${\color{Red}Missing}$<br>
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 1.000.087) Tested<br>
-Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.001.087) Missing
+Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 0.001.087) ${\color{Red}Missing}$
 
 Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.050) Tested<br>
 Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.050) Tested<br>
@@ -605,7 +605,7 @@ Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.00
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) French - Tested<br>
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) German - Tested<br>
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) Italian - Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) Missing<br>
+Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) ${\color{Red}Missing}$<br>
 Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) Japanese - ${\color{Red}Missing}$
 
 ### SHIVERS SERIES: 
@@ -615,7 +615,7 @@ Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) F
 Shivers ${\color{Blue}SCI}$ (Game version 1, Interpreter version 2.100.002) German - Tested<br>
 Shivers ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 3.000.000) ${\color{Red}Missing}$
 
-Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - Missing<br>
+Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
 **Note: <code style="color : blue">The Japanese version exists, but I haven't found any information on the version number of the game or the Interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
 
 **Note from ScummVM detection tables: <code style="color : blue">Shivers 2 doesn't contain SCI scripts. The whole game logic has been reimplemented from SCI in native code placed in DLL files. Each room has its own DLL file, and some SCI functions have been reimplemented/rewritten for this purpose in native code. The game and demo have all the resources of a SCI game, apart from  the SCI scripts themselves. Thus, they cannot be directly supported, unless their whole room logic is rewritten from scratch,<br> which classifies Shivers 2 as "not SCI".</code>**
