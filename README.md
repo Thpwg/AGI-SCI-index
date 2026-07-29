@@ -657,7 +657,7 @@ Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0P, Interpreter version 0.000.
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0U, Interpreter version 0.000.453) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.0V, Interpreter version 0.000.453) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.000.453) Tested<br>
-Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.00.685) Tested<br>
+Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.000.685) Tested<br>
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version S.old.114) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.453 (ScummVM guess).</code>**
 
