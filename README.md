@@ -688,7 +688,7 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1
 
 **Note: <code style="color : blue">Some oxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.060, Interpreter version 1.000.744) Tested$<br>
+Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.060, Interpreter version 1.000.744) Tested<br>
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.060, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.056", VERSION file reports "1.000" SCI interpreter version 1.000.200 (just a guess).</code>**
 
