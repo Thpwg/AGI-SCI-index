@@ -67,7 +67,7 @@ Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.0
 
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.004, Interpreter version 1.000.510) Spanish, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.004, Interpreter version 1.000.068) Spanish, also includes English language - Tested<br>
-Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.00, Interpreter version 1.000.068) German, also includes English language - Tested<br>
+Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.068) German, also includes English language - Tested<br>
 Dr. Brain 1 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.068) Tested
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
