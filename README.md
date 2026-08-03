@@ -666,7 +666,7 @@ Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.018, Interpreter version 0.000
 Space Quest 3 ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version S.old.114) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.453 (ScummVM guess).</code>**
 
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version thg!, Interpreter version 1.000342) Beta Version - Tested<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version nothing, Interpreter version 1.000342) Beta Version - Tested<br>
 **Note: <code style="color : blue">This Beta Version was leaked several months before SQ4's official release. Debug mode include.</code>**
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) Tested<br>
@@ -693,7 +693,9 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1
 
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.060, Interpreter version 1.000.744) Tested<br>
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.060, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.056", VERSION file reports "1.000" SCI interpreter version 1.000.200 (just a guess).</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.056", VERSION file reports "1.000" SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
 
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) Tested
 
