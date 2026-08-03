@@ -672,20 +672,20 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version nothing, Interpreter version
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.052, Interpreter version 1.000.753) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.000.753" SCI interpreter version 1.000.200 (just a guess).</code>**
 
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) ${\color{Red}Missing}$<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.030" SCI interpreter version 1.000.200 (just a guess).</code>**
-
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.753) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.000.753" SCI interpreter version 1.000.200 (just a guess).</code>**
+
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) ${\color{Red}Missing}$<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.030" SCI interpreter version 1.000.200 (just a guess).</code>**
 
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.030) German, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.030" SCI interpreter version 1.000.200 (just a guess).</code>**
 
-Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.057" SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - ${\color{Red}Missing}$<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.056", VERSION file reports "1.000" SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.057" SCI interpreter version 1.000.200 (just a guess).</code>**<br>
+Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.SQ4.057) Italian, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.057" SCI interpreter version 1.000.200 (just a guess).</code>**<br>
 Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.057) French, also includes English language - Tested
 
