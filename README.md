@@ -502,7 +502,7 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter versio
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) US (Uncensored) ${\color{Red}Missing}$<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) ${\color{Red}Missing}$
 
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.006, Interpreter version 3.000.000) US/GOG (Uncensored) ${\color{Red}Missing}$
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.006, Interpreter version 3.000.000) US/GOG (Uncensored) Tested
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German (Uncensored) Tested
 
