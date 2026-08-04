@@ -509,7 +509,7 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter versio
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version 3.000.000) French (Uncensored, but missing one scene) Tested
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) US/UE (Uncensored) Tested<br>
-**Note: <code style="color : blue">The US/AU edition is identical. Version back 000.7.000.</code>**
+**Note: <code style="color : blue">The US/AU edition is identical. Version back 000.7.000.</code>**<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese (Uncensored) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**<br>
 
