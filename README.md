@@ -493,11 +493,12 @@ Mother Goose Deluxe CD SVGA Remake ${\color{Blue}SCI}$ (Game version*, Interpret
 
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Russian - Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Tested - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) French - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) German - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Italian - Tested
+
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) US (Uncensored) ${\color{Red}Missing}$<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese (Uncensored) ${\color{Red}Missing}$
