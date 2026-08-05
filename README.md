@@ -503,7 +503,7 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter vers
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) ${\color{Red}Missing}$<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese ${\color{Red}Missing}$
 
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.006, Interpreter version 3.000.000) Tested
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.06, Interpreter version 3.000.000) Tested
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German - Tested
 
