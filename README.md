@@ -513,7 +513,7 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter versio
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**
 
-**Note: <code style="color : blue">Some versions of Phantasmagoria 2 were heavily censored. Censored versions (data files are currently unknown to us): UK, Australia, first English release in Germany for more information on this matter, see: [SCI/Phantasmagoria 2 Censorship](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Some versions of Phantasmagoria 2 were heavily censored. Censored versions (data files are currently unknown to us): UK, Australia, first English release in Germany for more information on this matter, see: [SCI/Phantasmagoria 2 Censorship](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).</code>**
 
 ### PEPPER'S ADVENTURE IN TIME:
 
