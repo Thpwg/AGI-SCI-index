@@ -500,17 +500,16 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter versio
 
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
 
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) ${\color{Red}Missing}$<br>
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese ${\color{Red}Missing}$
-
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.06, Interpreter version 3.000.000) Tested
-
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German - Tested
-
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German - Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version 3.000.000) French - Tested
 
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Tested<br>
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese - Tested<br>
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.06, Interpreter version 3.000.000) Tested<br>
+
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000 and 000.1P.0v, Interpreter version 3.000.000) Tested
+**Note from ScummVM detection tables: <code style="color : blue">The VERSION file of CD1 and CD2 reports "001.0.000" and the VERSION file of CD3, CD4 and CD5 reports "000.1P.0v. (I even saw an EU edition with the VERSION file number 001.0.06 on CD1) The VERSION BACK file reports "000.7.000"</code>**
+
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000 and 000.1P.0v, Interpreter version 3.000.000) Japanese - Tested<br>
+**Note: <code style="color : blue">The VERSION file of CD1 and CD2 reports "001.0.000" and the VERSION file of CD1 and CD2, CD3, CD4 and CD5 reports "000.1P.0v".</code>**<br>
 **Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**
 
 **Note from ScummVM detection tables: <code style="color : blue">Some versions of Phantasmagoria 2 were heavily censored. Censored versions (data files are currently unknown to us): UK, Australia, first English release in Germany for more information on this matter, see: [SCI/Phantasmagoria 2 Censorship](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).</code>**
