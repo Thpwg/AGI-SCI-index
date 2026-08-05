@@ -556,10 +556,14 @@ Police Quest 4 CD ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter versi
 Police Quest 4 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Talkie - Tested
 
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.100.002) Tested<br>
-Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.100.002) French - Tested<br>
+Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.100.002) French - Tested
+
+Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.0c, Interpreter version 2.100.002) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.100.002", VERSION file reports "1.0c" Original DOS/Windows release VERSION file reports "1.000" is the same.</code>**
+
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) ${\color{Red}Missing}$<br>
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) French - ${\color{Red}Missing}$<br>
-Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.0c, Interpreter version 2.100.002) ${\color{Red}Missing}$
+
 
 ### QUEST FOR GLORY SERIES: 
 
