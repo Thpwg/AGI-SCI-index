@@ -500,8 +500,8 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter versio
 
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
 
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) US${\color{Red}Missing}$<br>
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese${\color{Red}Missing}$
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) ${\color{Red}Missing}$<br>
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000, Interpreter version 3.000.000) Japanese ${\color{Red}Missing}$
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.006, Interpreter version 3.000.000) Tested
 
@@ -509,9 +509,9 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter versio
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version 3.000.000) French - Tested
 
-Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Tested
+Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1P.0v, Interpreter version 3.000.000) Japanese - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">Features English voices, Japanese subtitles. Background images were also localized to Japanese.</code>**
 
 **Note: <code style="color : blue">Depending on the country edition and the release, a game may or may not be censored. For more information, see the ScummVM Wiki page on [SCI/Phantasmagoria 2 Censorship](https://wiki.scummvm.org/index.php/SCI/Phantasmagoria_2_Censorship).</code>**
 
