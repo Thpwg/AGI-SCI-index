@@ -180,7 +180,10 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)
 **Note: <code style="color : blue">Note from ScummVM detection tables: Floppy label reports "1.0", VERSION file reports "1.000" SCI interpreter version 1.000.510 (just a guess).</code>** 
 
 1991 Hoyle 3 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) Tested<br>
-**Note: <code style="color : blue">Note from ScummVM detection tables: SCI interpreter version 1.000.510 (just a guess).</code>** 
+**Note: <code style="color : blue">Note from ScummVM detection tables: Floppy label reports "1.0", VERSION file reports "1.000" SCI interpreter version 1.000.510 (just a guess).</code>** 
+
+1991 Hoyle 3 VGA ${\color{Blue}SCI}$ (Game version 9.000, Interpreter version x.yyy.zzz) Tested<br>
+**Note: <code style="color : blue">Note from ScummVM detection tables: Floppy label reports "1.0", VERSION file reports "9.000" SCI interpreter version 1.000.510 (just a guess).</code>** </code>** 
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
