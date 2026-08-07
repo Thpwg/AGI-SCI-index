@@ -752,7 +752,7 @@ Season's Greeting Card VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter Ve
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.00, Interpreter version 2.439) Tested
 
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.097) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">BC.QA says "AGIDATA.OVL is "2.439".</code>**<br>
+**Note from ScummVM detection tables: <code style="color : blue">AGIDATA.OVL is "2.439".</code>**<br>
 **Note: <code style="color : blue">Lance Ewing said:'I think that BC source is some rare possibly never properly released version'.</code>**
 
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.098) Tested<br>
