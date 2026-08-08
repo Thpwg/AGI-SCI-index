@@ -375,10 +375,11 @@ Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 1.0
 Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested
 
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.343) Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 0.000.409) Polish - By Edycja Kolekcjonerska - Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version, 1.002.000, Interpreter version 0.000.409) Tested<br>
-Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - ${\color{Red}Missing}$
+
+Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Tested<br><br>
+**Note: <code style="color : blue">Game version 2.0 (from database) of Sierra Version Tool.</code>**<br>
+Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - By Edycja Kolekcjonerska - Tested<br>
+**Note: <code style="color : blue">Game version 2.0 (from database) of Sierra Version Tool.</code>**
 
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.003, Interpreter version 0.000.572 Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Tested<br>
