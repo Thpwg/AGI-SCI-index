@@ -377,7 +377,7 @@ Larry 1 ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 1.0
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.000.011, Interpreter version 0.000.343) Tested<br>
 
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Tested<br>
-**Note: <code style="color : blue">Game version 2.0 (from database) of Sierra Version Tool.</code>**
+**Note: <code style="color : blue">Game version 2.0 (from database) of Sierra Version Tool.</code>**<br>
 Larry 2 ${\color{Blue}SCI}$ (Game version 1.002.000, Interpreter version 0.000.409) Polish - By Edycja Kolekcjonerska - Tested<br>
 **Note: <code style="color : blue">Game version 2.0 (from database) of Sierra Version Tool.</code>**
 
