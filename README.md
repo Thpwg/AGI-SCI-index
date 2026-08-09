@@ -78,7 +78,7 @@ Dr. Brain 1 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000,
 Dr. Brain 1 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.068) Tested
 
 Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
-Dr. Brain 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.053) Semi-Talkie - ${\color{Red}Missing}$
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.100", Floppy label reports "1.1", VERSION file reports "1.000" SCI interpreter version 1.001.053.</code>**
 
 Dr. Brain 2 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.053) Semi-Talkie - Tested<br>
 **Note: <code style="color : blue">There are some differences between island of dr brain floppy and CD, about 15 scripts have been changed.</code>**
