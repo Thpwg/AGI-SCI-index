@@ -436,10 +436,7 @@ Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version1.000.000, Interpreter version 
 **Note:<code style="color : blue">Many CD-ROM editions offer the game in several languages, including VGA and SVGA versions.</code>** 
 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Tested<br>
-Larry 7 ${\color{Blue}SCI}$ (Game version 1.00.000, Interpreter version*) Polish - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Polish - Tested<br>
-**Note: <code style="color : blue">GOG release 1.01v3.</code>**
-
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version*) Russian by SoftClub - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.05f, Interpreter version 3.000.000) French - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.04g, Interpreter version 3.000.000) German - Tested<br>
