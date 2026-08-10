@@ -761,7 +761,7 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.
 ### TORIN PASSAGE:
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Edition US - Multilingual EN/FR/DE, English voices - Tested.<br>
-Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French edition - Multilingual EN/FR/DE/, French voices - Tested.<br>
+Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) French edition - Multilingual EN/DE/FR, French voices - Tested.<br>
 **Note: <code style="color : blue">This version of Torin has an ITALIAN directory, but it contains English language data, not Italian.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German edition - Multilingual EN/DE/FR, German voices - Tested.<br>
@@ -778,7 +778,7 @@ Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Poli
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Brazilian edition by Brasoft Games - PT, English voices - Tested.<br>
 **Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner, a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks. The best thing to do is to start over and load the intro again, but now with Spanish text, because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
-Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian edition - Multilingual EN/DE/FR/IT/, English voices - Tested.<br>
+Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian edition - Multilingual EN/DE/FR/IT, English voices - Tested.<br>
 **Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.</code>**<br>
 
 Torin ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
