@@ -163,6 +163,9 @@ Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.10
 Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.100.002) German - Tested<br>
 Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version 2.100.002) Limited Edition - Tested
 
+Gabriel Knight 2 ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
+**Note: <code style="color : blue">There is a Japanese edition, although the game is likely in English. I haven't found any information about the game's version number or the interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
+
 ### GOLD RUSH:
 
 Gold Rush! ${\color{Red}AGI}$ (Game version 2.01, Interpreter version 3.002.149)<br>
