@@ -457,7 +457,7 @@ Lighthouse ${\color{Blue}SCI}$ (Game version 1.0C, Interpreter version 3.000.000
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Tested<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) French - Tested<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Spanish - Tested<br>
-LighthousE ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 3.000.000) Tested<br>
+Lighthouse ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 3.000.000) ${\color{Red}Missing}$<br>
 **Note: <code style="color : blue">Official game update with patch 2.0a.</code>**
 
 ### MANHUNTER SERIES:
