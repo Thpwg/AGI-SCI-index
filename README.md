@@ -442,7 +442,7 @@ Larry 7 ${\color{Blue}SCI}$ (Game version 1.05f, Interpreter version 3.000.000) 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.04g, Interpreter version 3.000.000) German - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.0i, Interpreter version 3.000.000) Italian - Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.0s, Interpreter version 3.000.000) Spanish - Tested<br>
-Larry 7 ${\color{Blue}SCI}$ (Game version 1.20, Interpreter version 3.000.000) ${\color{Red}Missing}$
+Larry 7 ${\color{Blue}SCI}$ (Game version 1.2, Interpreter version 3.000.000) Tested
 
 Larry 7 Demo ${\color{Blue}SCI}$ (Game version 1.0 Interpreter version 2.100.002) Mini-game full<br>
 **Note: <code style="color : blue">This is an interactive demo of Larry 7. That consists of "liars dice".</code>**
