@@ -503,6 +503,9 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter versio
 
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
 
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
+**Note: <code style="color : blue">The Japanese version exists, but I haven't found any information on the version number of the game or the Interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
+
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German - Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version 3.000.000) French - Tested
 
@@ -776,9 +779,11 @@ Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Braz
 **Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner, a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks. The best thing to do is to start over and load the intro again, but now with Spanish text, because the subtitles can't be activated until the prologue is over and we control the character.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian edition - Multilingual EN/DE/FR/IT/, English voices - Tested.<br>
-**Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.</code>**
-
+**Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.</code>**<br>
 **Note: <code style="color : blue">This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.</code>**
+
+Torin ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
+**Note: <code style="color : blue">There is a Japanese edition, although the game is likely in English. I haven't found any information about the game's version number or the interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
 
 **There are two games, which I don't know if they exist in French or not, Police Quest 3 and Quest for Glory 4 on floppy disk. There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
 
