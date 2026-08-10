@@ -756,8 +756,6 @@ Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.
 Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.098) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">BC.QA says "Interpreter: 3.002.097", while AGIDATA.OVL is "3.002.098".</code>**<br>
 
-Black Cauldron ${\color{Red}AGI}$ (Game version 2.10, Interpreter version 3.002.089) ${\color{Red}Missing}$<br>
-
 ### TORIN PASSAGE:
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Edition US - Multilingual EN/FR/DE, English voices - Tested.<br>
