@@ -567,7 +567,7 @@ Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.0c, Interpreter version 2.100.002) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.100.002", VERSION file reports "1.0c" Original DOS/Windows release VERSION file reports "1.000" is the same.</code>**
 
-Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) ${\color{Red}Missing}$<br>
+Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) Tested<br>
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version 1.100, Interpreter version 2.100.002) French - ${\color{Red}Missing}$<br>
 
 Police Quest: SWAT ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
