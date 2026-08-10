@@ -767,7 +767,7 @@ Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Fren
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) German edition - Multilingual EN/DE/FR, German voices - Tested.<br>
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Russian edition by SoftClub - RU, Russian voices - Tested<br>
 
-Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Spanish edition - Multilingual ES/FR/DE/, English voices - Tested.<br>
+Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Spanish edition - Multilingual EN/DE/FR/SP, English voices - Tested.<br
 **Note: <code style="color : blue">This version of Torin has an ENGLISH directory, but it does not contain any English texts.</code>**
 
 **Note: <code style="color : blue">Subtitles must be activated in the game. To do this, place the cursor in the top left-hand corner, a menu will appear, in the game we activate closed subtitles so that they appear when the character speaks. The best thing to do is to start over and load the intro again, but now with Spanish text, because the subtitles can't be activated until the prologue is over and we control the character.</code>**
@@ -780,7 +780,6 @@ Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Braz
 
 Torin ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Italian edition - Multilingual EN/DE/FR/IT/, English voices - Tested.<br>
 **Note: <code style="color : blue">The game is in Italian for subtitles (unfortunately absent in the movies), while the speech remains in English.</code>**<br>
-**Note: <code style="color : blue">This version of Torin has an SPANISH directory, but it contains English language data, not Spanish.</code>**
 
 Torin ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
 **Note: <code style="color : blue">There is a Japanese edition, although the game is likely in English. I haven't found any information about the game's version number or the interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
