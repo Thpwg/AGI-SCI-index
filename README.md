@@ -343,7 +343,7 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.0
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.274) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274" SCI interpreter version 1.001.069 (just a guess).</code>**
 
-Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.000.274) Tested<br>
+Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.000.274) ${\color{Red}Missing}$<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274" SCI interpreter version 1.001.069 (just a guess).</code>**
 
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Tested<br>
