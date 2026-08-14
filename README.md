@@ -36,7 +36,8 @@ Camelot ${\color{Blue}SCI}$ (Game version 1.001.000, Interpreter version 0.000.6
 
 Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.168) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Label reports Interpreter version 1.000.510.</code>**<br>
-Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested<br>
+Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) German, also includes English language - Tested
+
 Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.168) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.000.168", Floppy label reports "1.1", VERSION file reports "1.1" SCI interpreter version 1.000.510.</code>**
 
