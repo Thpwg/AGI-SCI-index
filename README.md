@@ -489,9 +489,10 @@ Mother Goose ${\color{Red}AGI}$ (Game version 1.00D, Interpreter version 2.915) 
 
 Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 1.011, Interpreter version 0.000.685) Tested<br>
 
-Mother Goose VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.031) Tested
+Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 0.000.685) ${\color{Red}Missing}$<br>
+**Note: <code style="color : blue">I don't know if it's a normal EGA edition or LOW-RES.</code>**
 
-Mother Goose ${\color{Green}LOWRES-EGA}$ Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 0.000.685) ${\color{Red}Missing}$
+Mother Goose VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.031) Tested
 
 Mother Goose CD VGA Remake ${\color{Blue}SCI}$ (Game version*, Interpreter version x.yyy.zzz) Talkie - English, French and German - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version  0.000.999 (just a guess).</code>**
