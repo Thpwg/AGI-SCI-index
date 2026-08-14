@@ -338,13 +338,17 @@ Inside The Chest/Behind the Developers' Shield ${\color{Blue}SCI}$ (Game version
 ### LAURA BOW SERIES:
 
 Laura Bow 1 ${\color{Blue}SCI}$ (Game version 1.000.046, Interpreter version 0.000.631) Tested
+
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.072) Tested<br>
-**Note from wiki.sierrahelp: <code style="color : blue">x.yyy.yyy is clearly a standard value, so these game do have different interpreters. The games which share the same interpreter are grouped by separating different versions with a blank line.</code>**<br>
+**Note from wiki.sierrahelp: <code style="color : blue">x.yyy.yyy is clearly a standard value, so these game do have different interpreters. The games which share the same interpreter are grouped by separating different versions with a blank line.</code>**
+
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.274) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274" SCI interpreter version 1.001.069 (just a guess).</code>**
 
+**Note: In certain versions, you will find the following items.<code style="color : blue">Executable scanning reports "2.000.274", Floppy label reports "1.0", VERSION file reports "0.024" SCI. The Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.024. Collector verified that his original floppy disks are the same. So this is version 1.000, but it's proof that a beta version 0.024 existed.</code>**
+
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.000.274) ${\color{Red}Missing}$<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274" SCI interpreter version 1.001.069 (just a guess).</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274"SCI interpreter version 1.001.069 (just a guess).</code>**
 
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
