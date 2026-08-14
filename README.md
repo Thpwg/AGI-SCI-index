@@ -490,7 +490,7 @@ Mother Goose ${\color{Red}AGI}$ (Game version 1.00D, Interpreter version 2.915) 
 Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 1.011, Interpreter version 0.000.685) Tested<br>
 
 Mother Goose EGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 0.000.685) ${\color{Red}Missing}$<br>
-**Note: <code style="color : blue">I don't know if it's a normal EGA edition or LOW-RES.</code>**
+**Note: <code style="color : blue">I don't know if it's a normal EGA edition or LOWRES-EGA.</code>**
 
 Mother Goose VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.031) Tested
 
