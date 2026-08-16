@@ -422,7 +422,6 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) 
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version T.A00.159) ${\color{Red}Missing}$<br>
 Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) Tested
 
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) MS-DOS and Windows - Tested<br>
