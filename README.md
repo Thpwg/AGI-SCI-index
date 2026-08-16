@@ -43,7 +43,6 @@ Longbow ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.168) Te
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version*) ${\color{Red}Missing}$<br>
 Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.000.510) ${\color{Red}Missing}$<br>
 Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.175) Tested
 
