@@ -293,8 +293,7 @@ King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0
 **Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
 
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.782) French, also includes English language - Tested<br>
-**Note from Sierra Version Tool: <code style="color : blue">VERSION file IDs game version as 1.000.
-Game Main.sc script IDs game version as 0.000.143 (Script 000).</code>**
+**Note from Sierra Version Tool: <code style="color : blue">VERSION file IDs game version as 1.000. Game Main.sc script IDs game version as 0.000.143 (Script 000).</code>**
 
 King's Quest 5 CD ${\color{Blue}SCI}$ (Game version 1.000.052, Interpreter version x.yyy.zzz) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "x.yyy.zzz", VERSION file reports "1.000.052" SCI interpreter version 1.000.784.</code>**
