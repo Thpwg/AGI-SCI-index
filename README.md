@@ -304,7 +304,6 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) French - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.054) German - Tested<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.158 ) Italian - Tested<br>
-King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version l.cfs.158) Spanish - ${\color{Red}Missing}$<br>
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version l.cfs.158) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.000.000" SCI interpreter version 1.001.055.</code>**
 
