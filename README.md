@@ -559,7 +559,6 @@ Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.0
 
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Tested<br>
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) French - Tested<br>
-Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) German - ${\color{Red}Missing}$<br>
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.002, Interpreter version 2.000.000) German - ${\color{Red}Missing}$
 
 Police Quest 4 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.002) Talkie French text, English speech - Tested<br>
