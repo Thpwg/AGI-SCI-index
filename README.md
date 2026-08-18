@@ -347,7 +347,7 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.0
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.274) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274" SCI interpreter version 1.001.069 (just a guess).</code>**
 
-**Note: In certain versions, you will find the following items:<code style="color : blue">Executable scanning reports "2.000.274", Floppy label reports "1.0", VERSION file reports "0.024". But, the Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.024. Collector verified that his original floppy disks are the same. So this is version 1.000, but it's proof that a beta version 0.024 existed.</code>**
+**Note: In certain versions, you will find the following items:<code style="color : blue">Executable scanning reports "2.000.274", Floppy label reports "1.0", VERSION file reports "0.024". But, the Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.024. Collector verified that his original floppy disks are the same. So this is version 1.000. It is proof that a test version existed.</code>**
 
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.000.274) ${\color{Red}Missing}$<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274"SCI interpreter version 1.001.069 (just a guess).</code>**
@@ -593,10 +593,10 @@ Quest for Glory 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interprete
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1000, Interpreter version 0.001.026) Tested<br>
-Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 0.101, Interpreter version 0.001.026) Tested<br>
+**Note: <code style="color : blue">SThe Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.101. It is proof that a test version existed.</code>**
 
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.041) Tested<br>
-Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 0.101, Interpreter version 1.000.041) Tested<br>
+**Note: <code style="color : blue">SThe Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.101. It is proof that a test version existed.</code>**
 
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.102, Interpreter version 1.000.072) Tested<br>
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 1.000.072) Tested<br>
