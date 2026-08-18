@@ -593,10 +593,10 @@ Quest for Glory 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interprete
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1000, Interpreter version 0.001.026) Tested<br>
-**Note: <code style="color : blue">SThe Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.101. It is proof that a test version existed.</code>**
+**Note: <code style="color : blue">In some versions, the Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.101. It is proof that a test version existed.</code>**
 
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.041) Tested<br>
-**Note: <code style="color : blue">SThe Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.101. It is proof that a test version existed.</code>**
+**Note: <code style="color : blue">In some versions, the Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.101. It is proof that a test version existed.</code>**
 
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.102, Interpreter version 1.000.072) Tested<br>
 Quest for Glory 2 ${\color{Blue}SCI}$ (Game version 1.105, Interpreter version 1.000.072) Tested<br>
