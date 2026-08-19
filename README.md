@@ -703,10 +703,9 @@ Space Quest 4 VGA ${\color{Blue}SCI}$ (Game version 1.3, Interpreter version 1.S
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.060, Interpreter version 1.000.744) Tested
 
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).</code>**
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).  But, the Sierra developer only updated the version number on Startup Disk before releasing the game. Startup Disk is 1.000, while the rest are 1.160. It is proof that a test version existed.</code>**</code>**
 
-Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.060, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.056", VERSION file reports "1.000" SCI interpreter version 1.000.200 (just a guess). But, the Sierra developer only updated the version number on Startup Disk before releasing the game. Startup Disk is 1.000, while the rest are 1.160. It is proof that a test version existed.</code>**
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.056", VERSION file reports "1.000" SCI interpreter version 1.000.200 (just a guess).
 
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) Tested
 
