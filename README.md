@@ -349,9 +349,6 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.2
 
 **Note: In certain versions, you will find the following items:<code style="color : blue">Executable scanning reports "2.000.274", Floppy label reports "1.0", VERSION file reports "0.024". But, the Sierra developer only updated the version number on disk 1 before releasing the game. Disk 1 is 1.000, while the rest are 0.024. Collector verified that his original floppy disks are the same. So this is version 1.000. It is proof that a test version existed.</code>**
 
-Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.000.274) ${\color{Red}Missing}$<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "2.000.274"SCI interpreter version 1.001.069 (just a guess).</code>**
-
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) French - Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) German - Tested<br>
