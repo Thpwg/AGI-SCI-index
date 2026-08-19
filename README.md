@@ -433,7 +433,7 @@ Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Tested<br>
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) German - Tested<br>
-Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version1.000.000, Interpreter version 2.100.002) French - Tested
+Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) French - Tested
 
 **Note:<code style="color : blue">The SVGA remake was released in 1994 on CD-ROM, with updated graphics and full voice acting. English, French or German text, English speech.</code>** 
 
@@ -454,13 +454,16 @@ Larry 7 Demo ${\color{Blue}SCI}$ (Game version 1.0 Interpreter version 2.100.002
 ### LIGHTHOUSE THE DARK BEING:
 
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 3.000.000) Italian - Tested<br>
+
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.0C, Interpreter version 3.000.000) Tested<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.0C, Interpreter version 3.000.000) French - Tested<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.0C, Interpreter version 3.000.000) German - Tested<br>
-Lighthouse ${\color{Blue}SCI}$ (Game version 1.0C, Interpreter version 3.000.000) Japanese - ${\color{Red}Missing}$<br>
+Lighthouse ${\color{Blue}SCI}$ (Game version 1.0C, Interpreter version 3.000.000) Japanese - ${\color{Red}Missing}$
+
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Tested<br>
 Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) French - Tested<br>
-Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Spanish - Tested<br>
+Lighthouse ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 3.000.000) Spanish - Tested
+
 Lighthouse ${\color{Blue}SCI}$ (Game version 2.0, Interpreter version 3.000.000) Tested<br>
 **Note: <code style="color : blue">Official game update with patch 2.0a. The version as the same resmap hash as v1.1.</code>**
 
@@ -702,8 +705,6 @@ Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.06
 
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).  But, the Sierra developer only updated the version number on Startup Disk before releasing the game. Startup Disk is 1.000, while the rest are 1.160.</code>**
-
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.SQ4.056", VERSION file reports "1.000" SCI interpreter version 1.000.200 (just a guess).
 
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) Tested
 
