@@ -543,6 +543,7 @@ Police Quest 1 EGA ${\color{Red}AGI}$ (Game version 2.0G, Interpreter version 2.
 Police Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.001.029) Tested
 
 Police Quest 2 ${\color{Blue}SCI}$ (Game version 1.001.000 Interpreter version 0.000.395) Tested<br>
+**Note: <code style="color : blue">QA file claims interpreter verion 0.000.397.</code>**<br>
 Police Quest 2 ${\color{Blue}SCI}$ (Game version 1.001.006 Interpreter version 0.000.409) Tested<br>
 Police Quest 2 ${\color{Blue}SCI}$ (Game version 1.002.011 Interpreter version 0.000.490) Tested
 
