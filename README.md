@@ -660,7 +660,8 @@ Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter ve
 Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version T.A00.081) By Kixx XL - English and Spanish - Tested
 **Note: <code style="color : blue">The English version is in English only, while the Spanish version also includes the English language.</code>**<br>
 
-Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.SQ1.004) Patched - Spanish, also includes English language - Tested
+Space Quest 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.000, Interpreter version 1.SQ1.004) Spanish, also includes English language - Tested<br>
+**Note: <code style="color : blue">Patched with SCIDHUV.EXE. Official update intended to improve the performance of the game, particularly regarding memory usage and compatibility with mouse drivers.</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
