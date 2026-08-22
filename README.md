@@ -212,7 +212,6 @@ Jones VGA ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy
 
 **Note: <code style="color : blue">Some boxes indicated "640K + VGA/MCGA (256 COLOR) OR 640K + TANDY (16 CLR) OR 512K + EGA (16 CLR)".</code>**
 
-Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version 1.000.172) ${\color{Red}Missing}$<br>
 Jones ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000.060, Interpreter version x.yyy.zzz) Tested
 
 Jones CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version x.yyy.zzz) Talkie - Tested<br>
