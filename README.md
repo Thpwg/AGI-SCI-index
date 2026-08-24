@@ -370,7 +370,8 @@ Larry 1 ${\color{Red}AGI}$ (Game version 2.00 Interpreter version 2.440) Polish 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1.SQ4.057) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">This version is known to be corrupted, SCI interpreter version 1.000.510.</code>**
 
-Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) No copy protection - Tested<br>
+Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) Tested<br>
+**Note: <code style="color : blue">There are versions without copy protection.</code>**<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Polish - By Edycja Kolekcjonerska - Tested
 
