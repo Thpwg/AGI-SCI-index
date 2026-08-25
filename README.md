@@ -371,7 +371,6 @@ Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 1.000 Interpreter version 1
 **Note from ScummVM detection tables: <code style="color : blue">This version is known to be corrupted, SCI interpreter version 1.000.510.</code>**
 
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.0 Interpreter version 1.000.510) Tested<br>
-**Note: <code style="color : blue">There are versions without copy protection.</code>**<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Tested<br>
 Larry 1 VGA Remake ${\color{Blue}SCI}$ (Game version 2.1 Interpreter version 1.000.577) Polish - By Edycja Kolekcjonerska - Tested
 
