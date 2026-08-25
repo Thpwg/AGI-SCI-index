@@ -287,8 +287,8 @@ King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.0
 
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) Tested
 
-King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) German - ${\color{Red}Missing}$<br>
-**Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.121 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
+King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) German, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "0.000.121", Floppy label reports "1.0", VERSION file reports "1.000", SCI interpreter version 1.000.575.</code>**
 
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.575) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Game version 0.000.133 from about box, 1.000 from VERSION file SCI interpreter version 1.000.575.</code>**
