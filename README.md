@@ -353,7 +353,7 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) German - Tested<br>
 Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.274) Spanish - Tested<br>
 
-Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.274) Spanish - ${\color{Red}Missing}$<br>
+Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.274) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">This is the floppy version (text-only) distributed on a CD. Executable scanning reports "2.000.274", VERSION file reports "1.000.000".</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
