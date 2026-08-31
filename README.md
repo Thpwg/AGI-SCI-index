@@ -413,7 +413,8 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) 
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) Tested
+Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) Tested<br>
+Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) German, also includes English language - Tested
 
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) MS-DOS and Windows - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) French - Tested<br>
@@ -703,6 +704,8 @@ Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.06
 
 Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.SQ4.056) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.200 (just a guess).  But, the Sierra developer only updated the version number on Startup Disk before releasing the game. Startup Disk is 1.000, while the rest are 1.160.</code>**
+
+Space Quest 4 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version x.yyy.zzz) German, also includes English language - Tested<br>
 
 Space Quest 4 CD VGA ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 1.001.064) Tested
 
