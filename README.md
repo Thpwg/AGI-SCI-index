@@ -282,6 +282,7 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.00
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.058) Tested<br>
+**Note: <code style="color : blue">The floppy label reports "0.000.054". VERSION file report "0.000.055". SCI interpreter version 1.000.058.</code>**
 
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.060) ${\color{Red}Missing}$
 
