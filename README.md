@@ -792,7 +792,7 @@ Torin ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\co
 
 **There are two games, which I don't know if they exist in French or not, Police Quest 3 and Quest for Glory 4 on floppy disk. There's an old Sierra & Coktel Vision advert that says they do, but nothing is less certain.**
 
-To my knowledge, the Czech, Israeli and Korean have not been translated. They are the original English versions. It is the same for the editions distributed by **智冠科技股份有限公司 (Soft-World International Corporation)** for the Taiwanese market. The version numbers and interpreters are those of the US editions.
+To my knowledge, the Czech, Israeli and Korean have not been translated. They are the original English versions. It is the same for the editions distributed by **智冠科技股份有限公司 (Soft-World International Corporation)** for the Taiwanese market. The version numbers and interpreters are those of the US editions. See [Soft World Magazine collection - 軟體世界雜誌合集]([https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer](https://github.com/lychees/soft-world-magazine-collection).
 
 It's always possible to add lots of details for each game version, but my aim was to make the index as sober as possible.
 
