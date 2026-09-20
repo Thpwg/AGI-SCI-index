@@ -97,7 +97,7 @@ Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.000.286
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-**Note: <code style="color : blue">There is no EGA version of Ecoquest 1; it's simply an EGA driver that converts VGA graphics in real time.</code>**
+**Note: <code style="color : blue">There is no EGA edition of Ecoquest 1; it is an EGA driver that converts VGA graphics in real time.</code>**
 
 Ecoquest 1 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.64) Talkie - Tested
 
@@ -312,7 +312,7 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
-**Note: <code style="color : blue">There is no EGA version of King's Quest 6; it's simply an EGA driver that converts VGA graphics in real time.</code>**
+**Note: <code style="color : blue">There is no EGA edition of King's Quest 6; it is an EGA driver that converts VGA graphics in real time.</code>**
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
