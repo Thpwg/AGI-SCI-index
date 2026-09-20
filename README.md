@@ -320,7 +320,7 @@ King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.4, Interpreter version 2.100.
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) French - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) German - Best of Sierra Nr 2 - Tested.<br>
-King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) ${\color{Red}Missing}$<br>
+King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) French - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.65c, Interpreter version 2.100.002) German - Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 2.00, Interpreter version 2.100.002) Italian - Tested<br>
