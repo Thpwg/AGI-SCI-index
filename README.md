@@ -636,7 +636,7 @@ Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000)
 
 Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) Tested<br>
 Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) French - Tested<br>
-Shivers ${\color{Blue}SCI}$ (Game version 1 Interpreter version 2.100.002) German - Tested<br>
+Shivers ${\color{Blue}SCI}$ (Game version 1, Interpreter version 2.100.002) German - Tested<br>
 
 Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
 **Note: <code style="color : blue">The Japanese version exists, but I haven't found any information on the version number of the game or the Interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
