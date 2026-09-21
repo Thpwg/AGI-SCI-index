@@ -636,7 +636,7 @@ Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000)
 
 Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) Tested<br>
 Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) French - Tested<br>
-Shivers ${\color{Blue}SCI}$ (Game version 1, Interpreter version 2.100.002) German - Tested<br>
+Shivers ${\color{Blue}SCI}$ (Game version 1 Interpreter version 2.100.002) German - Tested<br>
 Shivers ${\color{Blue}SCI}$ (Game version 2.00b, Interpreter version 3.000.000) ${\color{Red}Missing}$
 
 Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
