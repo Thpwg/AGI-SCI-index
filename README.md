@@ -626,11 +626,13 @@ Quest for Glory 4 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 
 
 Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.000) Tested<br>
 Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.000) French - Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.000) Japanese -Tested<br>
+Rama ${\color{Blue}SCI}$ (Game version 001.000.000, Interpreter version 3.000.000) Japanese -Tested
+
+Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) Tested<br>
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) French - Tested<br>
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) German - Tested<br>
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) Italian - Tested<br>
-Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) ${\color{Red}Missing}$<br>
+
 
 ### SHIVERS SERIES: 
 
