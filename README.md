@@ -632,7 +632,7 @@ Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000)
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) German - Tested<br>
 Rama ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 3.000.000) Italian - Tested
 
-Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) Tested
+Rama ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 3.000.000) Tested<br>
 **Note: <code style="color : blue">Limited Edition Sierra Originals, UK.</code>**
 
 ### SHIVERS SERIES: 
