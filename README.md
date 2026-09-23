@@ -511,12 +511,10 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter versio
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Tested - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) French - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) German - Tested<br>
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Italian - Tested
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Italian - Tested<br>
+Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Japanese - Tested
 
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
-
-Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
-**Note: <code style="color : blue">The Japanese version exists, but I haven't found any information on the version number of the game or the Interpreter version. See [ScummVM SCI/Sierra Pioneer Wiki](https://wiki.scummvm.org/index.php?title=SCI/Sierra_Pioneer).</code>**
 
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0vu, Interpreter version 3.000.000) German - Tested<br>
 Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 000.1.0t, Interpreter version 3.000.000) French - Tested
