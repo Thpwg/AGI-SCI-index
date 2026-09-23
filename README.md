@@ -513,7 +513,7 @@ Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter versio
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) German - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.100.000, Interpreter version 2.100.002) Italian - Tested<br>
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Japanese - Tested<br>
-**Note: <code style="color : blue">One in English with the serial number SPRW-5001. One in Japanese with the serial number SPRW-5002.</code>**
+**Note: <code style="color : blue">There are two Japanese editions. One in English with the serial number SPRW-5001. One in Japanese with the serial number SPRW-5002.</code>**
 
 
 Phantasmagoria 1 ${\color{Blue}SCI}$ (Game version 1.000.001UK, Interpreter version 2.100.002) Tested<br>
@@ -642,7 +642,7 @@ Shivers ${\color{Blue}SCI}$ (Game version 1.02, Interpreter version 2.100.002) F
 Shivers ${\color{Blue}SCI}$ (Game version 1, Interpreter version 2.100.002) German - Tested<br>
 
 Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\color{Red}Missing}$<br>
-**Note: <code style="color : blue">One in English with the serial number SPRW-1005. One in Japanese with the serial number SPRW-5005.</code>**
+**Note: <code style="color : blue">There are two Japanese editions. One in English with the serial number SPRW-1005. One in Japanese with the serial number SPRW-5005.</code>**
 
 **Note from ScummVM detection tables: <code style="color : blue">Shivers 2 doesn't contain SCI scripts. The whole game logic has been reimplemented from SCI in native code placed in DLL files. Each room has its own DLL file, and some SCI functions have been reimplemented/rewritten for this purpose in native code. The game and demo have all the resources of a SCI game, apart from  the SCI scripts themselves. Thus, they cannot be directly supported, unless their whole room logic is rewritten from scratch,<br> which classifies Shivers 2 as "not SCI".</code>**
 
