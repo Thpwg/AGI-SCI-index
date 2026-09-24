@@ -45,7 +45,8 @@ Longbow ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.169) 
 
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
-Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.175) Tested
+Longbow ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.000.175) Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510.</code>**
 
 ### CRAZY NICK'S SOFTWARE PICKS:
 
@@ -287,8 +288,6 @@ King's Quest 5 ${\color{Blue}SCI}$ (Game version 0.GRY.051, Interpreter version 
 
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.058) Tested<br>
 **Note: <code style="color : blue">The floppy label reports "0.000.054" but is a misprint.</code>**
-
-King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.055, Interpreter version 1.000.060) ${\color{Red}Missing}$
 
 King's Quest 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 0.000.062, Interpreter version 1.000.073) Tested
 
