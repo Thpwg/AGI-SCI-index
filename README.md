@@ -562,6 +562,8 @@ Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq
 Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.011) Tested<br>
 **Note: <code style="color : blue">SCI interpreter version 1.pq3.018.</code>**<br>
 
+Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.018) Tested<br>
+
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Tested<br>
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) French - Tested<br>
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.002, Interpreter version 2.000.000) German - Tested
