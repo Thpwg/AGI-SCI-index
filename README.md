@@ -560,7 +560,7 @@ Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.011) Tested<br>
-Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.018) ${\color{Red}Missing}$<br>
+**Note: <code style="color : blue">SCI interpreter version 1.pq3.018.</code>**<br>
 
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) Tested<br>
 Police Quest 4 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) French - Tested<br>
