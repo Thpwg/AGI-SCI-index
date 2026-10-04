@@ -406,6 +406,7 @@ Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.1c8) German, also includes English language - Tested<br>
+**Note: <code style="color : blue">The decompression of the file SCIDHUV.EXE report T.A00.169.</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Spanish, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (just a guess).</code>**<br>
 Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ls5.006) Italian - Tested<br>
@@ -560,7 +561,7 @@ Police Quest 3 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq
 **Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
 
 Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.011) Tested<br>
-**Note: <code style="color : blue">SCI interpreter version 1.pq3.018.</code>**<br>
+**Note: <code style="color : blue">The decompression of the file SCIDHUV.EXE report 1.pq3.018.</code>**
 
 Police Quest 3 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.pq3.018) Tested<br>
 
