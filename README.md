@@ -116,8 +116,9 @@ Ecoquest 2 ${\color{Blue}SCI}$ (Game version 9.999.999, Interpreter version 1.00
 ### FREDDY PHARKAS:
 
 Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version I.cfs.081) MS-DOS - Tested<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069 Windows - Tested
+- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) MS-DOS - Tested<br>
+- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069 Windows - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**
 
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
