@@ -117,7 +117,7 @@ Ecoquest 2 ${\color{Blue}SCI}$ (Game version 9.999.999, Interpreter version 1.00
 
 Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
 - ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) MS-DOS - Tested<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069 Windows - Tested<br>
+- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069) Windows - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**
 
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Tested<br>
@@ -201,7 +201,7 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
-1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version 5, Interpreter version/Windows interpreter 2.100.002) Tested<br>
+1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version 5, Interpreter version & Windows interpreter 2.100.002) Tested<br>
 **Note: <code style="color : blue">The DATA.TAG file indicates Version 5.0.0.0.</code>**
 
 - 1996 Hoyle Bridge VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
@@ -315,9 +315,10 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 
 **Note: <code style="color : blue">There is no EGA edition of King's Quest 6; it is an EGA driver that converts VGA graphics in real time.</code>**
 
-King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
-King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158 + Windows Interpreter 1.001.069) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.034 - Game version 1.000.00G" SCI interpreter version 1.001.054.</code>**
+King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158) Tested<br>
+**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158) Tested<br>
+**Note: <code style="color : blue">Executable scanning reports "1.cfs.158", Windows Interpreter Version "1.001.069". SCI interpreter version 1.001.054. VERSION file reports "1.034". Game version "1.000.00G".</code>**
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.034 Interpreter version 1.001.069) Windows - Tested
 
@@ -365,7 +366,8 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.0
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
-Laura Bow 2 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.072 + Windows interpreter 1.001.069) Talkie - Tested
+Laura Bow 2 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.072) Talkie - Tested<br>
+**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**
 
 ### LEISURE SUITE LARRY SERIES:
 
@@ -399,8 +401,8 @@ Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) 
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.021, Interpreter version 0.000.572) Polish - By Edycja Kolekcjonerska - Tested<br>
 Larry 3 ${\color{Blue}SCI}$ (Game version 1.050, Interpreter version S.old.123) French, also includes English language - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**<br>
-Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114 + Windows interpreter S.old.123) German, also includes English language - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 0.000.572 (just a guess).</code>**
+Larry 3 ${\color{Blue}SCI}$ (Game version 1.056, Interpreter version S.old.114) German, also includes English language - Tested<br>
+**Note from ScummVM detection tables: <code style="color : blue">Windows Interpreter Version 1.001.069. SCI interpreter version 0.000.572 (just a guess).</code>**
 
 Larry 4: The Case of the Missing Floppies: [Al Lowe's Humor Site](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html).
 
@@ -536,7 +538,8 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000 and 000.1P.0v, Inte
 
 ### PEPPER'S ADVENTURE IN TIME:
 
-Pepper ${\color{Blue}SCI}$ (Game version 1.00 Interpreter, version 1.001.072 + Windows Interpreter 1.001.069) Tested
+Pepper ${\color{Blue}SCI}$ (Game version 1.00 Interpreter, version 1.001.072) Tested<br>
+**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
