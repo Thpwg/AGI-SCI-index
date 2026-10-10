@@ -103,6 +103,8 @@ Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.000.286
 Ecoquest 1 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.64) Talkie - Tested
 
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.065) Tested<br>
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
+
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.069) Tested<br>
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.081) French - Tested<br>
 Ecoquest 2 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.081) German - Tested<br>
