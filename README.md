@@ -434,6 +434,9 @@ Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.1
 **Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
 **Note: <code style="color : blue">The Brasoft Brazilian edition is nothing other than the US version; the RESOURCE.MAP hash is the same. There is no localization in Portuguese.</code>**
 
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.A, Interpreter version 1.001.113) Tested<br>
+**Note: <code style="color : blue">Likely an official version, but this copy has been tampered with for its illicit distribution.</code>**
+
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Spanish - Tested<br>
 **Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Polish - By Edycja Kolekcjonerska - Tested<br>
