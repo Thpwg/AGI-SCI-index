@@ -316,7 +316,7 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 **Note: <code style="color : blue">There is no EGA edition of King's Quest 6; it is an EGA driver that converts VGA graphics in real time.</code>**
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158) Tested<br>
-**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158) Tested<br>
 **Note: <code style="color : blue">Executable scanning reports "1.cfs.158", Windows Interpreter Version "1.001.069". SCI interpreter version 1.001.054. VERSION file reports "1.034". Game version "1.000.00G".</code>**
 
@@ -367,7 +367,7 @@ Laura Bow 2 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.0
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 Laura Bow 2 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.072) Talkie - Tested<br>
-**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**
 
 ### LEISURE SUITE LARRY SERIES:
 
@@ -428,13 +428,13 @@ Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Int
 Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) German, also includes English language - Tested
 
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Tested<br>
-**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
 **Note: <code style="color : blue">The Brasoft Brazilian edition is nothing other than the US version; the RESOURCE.MAP hash is the same. There is no localization in Portuguese.</code>**
 
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Spanish - Tested<br>
-**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Polish - By Edycja Kolekcjonerska - Tested<br>
-**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
 
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) French - Tested<br>
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) German - Tested
@@ -539,7 +539,7 @@ Phantasmagoria 2 ${\color{Blue}SCI}$ (Game version 001.0.000 and 000.1P.0v, Inte
 ### PEPPER'S ADVENTURE IN TIME:
 
 Pepper ${\color{Blue}SCI}$ (Game version 1.00 Interpreter, version 1.001.072) Tested<br>
-**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
