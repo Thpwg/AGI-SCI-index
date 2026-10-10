@@ -151,7 +151,7 @@ Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.
 Gabriel Knight 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 2.000.000) German - Tested<br>
 
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 01.100.000, Interpreter version 2.000.000) Tested<br>
-**Note: <code style="color : blue">Interpreter version MS-DOS and Windows.</code>**<br>
+**Note: <code style="color : blue">The MS-DOS and Windows interpreter is the same.</code>**<br>
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.000) Talkie, French text, English speech - Tested<br>
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.000) Talkie, German text, English speech - Tested<br>
 Gabriel Knight 1 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.000) Talkie, Spanish text, English speech - Tested<br>
@@ -202,7 +202,7 @@ Gold Rush! ${\color{Red}AGI}$ (Game version 3.0, Interpreter version 3.002.149)
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
 1995 Hoyle 5 VGA ${\color{Blue}SCI}$ (Game version 5, Interpreter version 2.100.002) Tested<br>
-**Note: <code style="color : blue">The DATA.TAG file indicates Version 5.0.0.0. Interpreter version MS-DOS and Windows.</code>**
+**Note: <code style="color : blue">The DATA.TAG file indicates Version 5.0.0.0. The MS-DOS and Windows interpreter is the same.</code>**
 
 - 1996 Hoyle Bridge VGA ${\color{Blue}SCI}$ (Game version*, Interpreter version 2.100.002) Tested<br>
 - 1996 Hoyle Children's Collection VGA ${\color{Blue}SCI}$ (Game version 5.1, Interpreter version 2.100.002) Tested
