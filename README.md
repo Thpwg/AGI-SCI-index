@@ -627,10 +627,12 @@ Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.11, Interpreter version L.
 Quest for Glory 3 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version L.rry.083) Spanish - Tested
 
 Quest for Glory 4 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.000.000) Tested<br>
+
 Quest for Glory 4 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.000) Tested<br>
 Quest for Glory 4 ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 2.000.000) German - Tested
 
-Quest for Glory 4 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Talkie - MS-DOS and Windows - Tested
+Quest for Glory 4 CD ${\color{Blue}SCI}$ (Game version 1.0, Interpreter version 2.100.002) Talkie - Tested<br>
+**Note: <code style="color : blue">The MS-DOS and Windows interpreter is the same.</code>**
 
 ### RAMA:
 
