@@ -444,11 +444,8 @@ Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 
 
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) Tested<br>
 Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) German - Tested<br>
-Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) French - Tested
-
-**Note:<code style="color : blue">The SVGA remake was released in 1994 on CD-ROM, with updated graphics and full voice acting. English, French or German text, English speech.</code>** 
-
-**Note:<code style="color : blue">Many CD-ROM editions offer the game in several languages, including VGA and SVGA versions.</code>** 
+Larry 6 CD SVGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 2.100.002) French - Tested<br>
+**Note:<code style="color : blue">The SVGA remake was released in 1994 on CD-ROM, with updated graphics and full voice acting. English, French or German text, English speech. Many CD-ROM editions offer the game in several languages, including VGA and SVGA versions.</code>** 
 
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Tested<br>
 Larry 7 ${\color{Blue}SCI}$ (Game version 1.01, Interpreter version 3.000.000) Polish - Tested<br>
