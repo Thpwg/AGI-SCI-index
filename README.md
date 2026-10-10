@@ -424,13 +424,17 @@ Larry 5 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.169) 
 Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) Tested<br>
 Larry 5 ${\color{Green}LOWRES-EGA}$ ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version T.A00.159) German, also includes English language - Tested
 
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) MS-DOS and Windows - Tested<br>
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) French - Tested<br>
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) German - Tested<br>
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Tested<br>
+**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+**Note: <code style="color : blue">The Brazilian edition by Brasoft Software is nothing other than the US version; the RESOURCE.MAP hash is the same. There is no localization in Portuguese.</code>**
+
 Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Spanish - Tested<br>
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter ) Polish - By Edycja Kolekcjonerska - Tested<br>
-Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113 + 1.001.069 Windows Interpreter) By Brasoft Games - Tested<br>
-**Note: <code style="color : blue">The Brasoft Brazilian edition is in VGA SCI only and English; no Portuguese localization.</code>**
+**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) Polish - By Edycja Kolekcjonerska - Tested<br>
+**Note: <code style="color : blue">Windows Interpreter Version: 1.001.069.</code>**<br>
+
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) French - Tested<br>
+Larry 6 VGA ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.113) German - Tested
 
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) Tested<br>
 Larry 6 CD VGA ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.001.115) French - Tested<br>
