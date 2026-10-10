@@ -657,7 +657,7 @@ Shivers ${\color{Blue}SCI}$ (Game version*, Interpreter version*) Japanese - ${\
 ### SLATER & CHARLIE GO CAMPING:
 
 Slater & Charlie ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Tested<br>
-Slater & Charlie ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069) Tested
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
 
 ### SPACE QUEST SERIES:
 
