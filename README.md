@@ -96,9 +96,7 @@ Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.ECO.01
 **Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.000.510 (ScummVM guess).</code>**<br>
 Ecoquest 1 ${\color{Blue}SCI}$ (Game version 1.10, Interpreter version 2.000.286) Tested
 
-**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY".</code>**
-
-**Note: <code style="color : blue">There is no EGA edition of Ecoquest 1; it is an EGA driver that converts VGA graphics in real time.</code>**
+**Note: <code style="color : blue">Some boxes indicated "VGA/EGA/Tandy SOLD SEPARATELY". There is no EGA edition of Ecoquest 1; it is an EGA driver that converts VGA graphics in real time.</code>**
 
 Ecoquest 1 CD ${\color{Blue}SCI}$ (Game version 1.1, Interpreter version 1.001.64) Talkie - Tested
 
@@ -117,27 +115,24 @@ Ecoquest 2 ${\color{Blue}SCI}$ (Game version 9.999.999, Interpreter version 1.00
 
 ### FREDDY PHARKAS:
 
-Freddy Pharkas dual MS-DOS and Windows interpreter SCI:<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) MS-DOS - Tested<br>
-- ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.069) Windows - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**
+Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Tested<br>
+**Note: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess). Windows Interpreter Version 1.001.069.</code>**
 
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
+**Note: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) German and French - Best of Sierra Nr. 3 - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
+**Note: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) German - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
+**Note: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) French - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
+**Note: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 Pharkas ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cfs.081) Spanish - Tested<br>
-**Note from ScummVM detection tables: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
+**Note: <code style="color : blue">SCI interpreter version 1.001.132 (ScummVM guess).</code>**<br>
 
 **Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
 
-Freddy Pharkas CD dual MS-DOS and Windows interpreter SCI:<br>
-- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) MS-DOS - Tested<br>
-- CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.095) Windows - Tested
+Freddy Pharkas CD ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.001.132) Tested<br>
+**Note: <code style="color : blue">Windows Interpreter Version 1.001.095.</code>**
 
 Freddy Pharkas Floppy disk demo ${\color{Blue}SCI}$ (v1.000 Interpreter version 1.001.069) Mini-game full<br>
 **Note: <code style="color : blue">The playable demo of Freddy Pharkas contains a short unique scenario that is not part of the adventure in the full game.</code>**
@@ -313,16 +308,13 @@ King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000, Interpreter version 1.cf
 King's Quest 6 ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version l.cfs.158) Spanish - Tested<br>
 **Note from ScummVM detection tables: <code style="color : blue">Executable scanning reports "1.cfs.158", VERSION file reports "1.000.000" SCI interpreter version 1.001.055.</code>**
 
-**Note: <code style="color : blue">Some boxes indicated "VGA and EGA".</code>**
-
-**Note: <code style="color : blue">There is no EGA edition of King's Quest 6; it is an EGA driver that converts VGA graphics in real time.</code>**
+**Note: <code style="color : blue">Some boxes indicated "VGA and EGA". There is no EGA edition of King's Quest 6; it is an EGA driver that converts VGA graphics in real time.</code>**
 
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.000, Interpreter version 1.cfs.158) Tested<br>
-**Note: <code style="color : blue">Windows Interpreter Version 1.001.069.</code>**<br>
+**Note: <code style="color : blue">Executable scanning reports "1.cfs.158", Windows Interpreter Version "1.001.069". SCI interpreter version 1.001.054. VERSION file reports "1.034". Game version "1.000.000".</code>**
+
 King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.000.00G, Interpreter version 1.cfs.158) Tested<br>
 **Note: <code style="color : blue">Executable scanning reports "1.cfs.158", Windows Interpreter Version "1.001.069". SCI interpreter version 1.001.054. VERSION file reports "1.034". Game version "1.000.00G".</code>**
-
-King's Quest 6 CD ${\color{Blue}SCI}$ (Game version 1.034 Interpreter version 1.001.069) Windows - Tested
 
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.4, Interpreter version 2.100.002) Tested<br>
 King's Quest 7 ${\color{Blue}SCI}$ (Game version 1.51, Interpreter version 2.100.002) Tested<br>
